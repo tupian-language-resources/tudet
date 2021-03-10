@@ -1,0 +1,1878 @@
+ID,Language_ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Meta_Language_ID,Comment,conllu
+Akuntsu-1,Akuntsu,ep koa jẽ,,,This one eats leaf  3.10a,English,,"# document_source = Carolina (2014) A Grammar of Akuntsú, a Tupían Language. University of Hawaii. Unpublished PhD Thesis.
+# document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
+# sent_id = 1
+# text = ep koa jẽ
+# text_eng = This one eats leaf  3.10a
+1	ep	ep	NOUN	n	_	2	obj	2:obj	_
+2	koa	ko	VERB	vt	_	0	root	0:root	_
+3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	2:nsubj	_
+
+"
+Akuntsu-2,Akuntsu,apara tep tʃopa jẽ,,,This one sees banana's leaf  3.10b,English,,"# sent_id = 2
+# text = apara tep tʃopa jẽ
+# text_eng = This one sees banana's leaf  3.10b
+1	apara	apara	NOUN	n	_	2	nmod	2:nmod	_
+2	tep	ep	NOUN	n	Rel=Cont	3	obj	3:obj	_
+3	tʃopa	tʃop	VERB	vt	_	0	root	0:root	_
+4	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	3:nsubj	_
+
+"
+Akuntsu-3,Akuntsu,Konibu apara koa,,,Konibu eats banana  3.11,English,,"# sent_id = 3
+# text = Konibu apara koa
+# text_eng = Konibu eats banana  3.11
+1	Konibu	Konibu	PROPN	pn	_	3	nsubj	3:nsubj	_
+2	apara	apara	NOUN	n	_	3	obj	3:obj	_
+3	koa	ko	VERB	vt	_	0	root	0:root	_
+
+"
+Akuntsu-4,Akuntsu,kitʃe aramĩra,,,We are woman  3.12,English,,"# sent_id = 4
+# text = kitʃe aramĩra
+# text_eng = We are woman  3.12
+1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	0	root	0:root	_
+2	aramĩra	aramĩra	NOUN	n	_	1	nsubj	1:nsubj	_
+
+"
+Akuntsu-5,Akuntsu,Tʃaruj kɨjtpit õa te Kanibõ,,,Tʃaruj gave fish to Kani  3.21,English,,"# sent_id = 5
+# text = Tʃaruj kɨjtpit õa te Kanibõ
+# text_eng = Tʃaruj gave fish to Kani  3.21
+1	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nsubj	3:nsubj	_
+2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
+3	õa	õ	VERB	vt	_	0	root	0:root	_
+4	te	te	PART	pcl	_	3	dep	3:dep	_
+5	Kanibõ	Kani	PROPN	pn	Case=Dat	3	iobj	3:iobj	_
+
+"
+Akuntsu-6,Akuntsu,Karow etap tek iw,,,Carol's bed is damaged  3.22,English,,"# sent_id = 6
+# text = Karow etap tek iw
+# text_eng = Carol's bed is damaged  3.22
+1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
+2	etap	et	NOUN	n	_	3	nmod	3:nmod	_
+3	tek	ek	NOUN	n	Rel=Cont	0	root	0:root	_
+4	iw	iw	ADJ	adj	_	3	amod	3:amod	_
+
+"
+Akuntsu-7,Akuntsu,pero okwaj tokwaj perek,,,"Makaw's tail, it's long tail  3.23b",English,,"# sent_id = 7
+# text = pero okwaj tokwaj perek
+# text_eng = Makaw's tail, it's long tail  3.23b
+1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
+2	okwaj	okwaj	NOUN	n	Rel=Cont	3	dislocated	3:dislocated	_
+3	tokwaj	okwaj	NOUN	n	_	0	root	0:root	_
+4	perek	perek	ADJ	adj	_	3	amod	3:amod	_
+
+"
+Akuntsu-8,Akuntsu,Ariano teita kɨrẽ,,,Adriano arrives today  3.25b,English,,"# sent_id = 8
+# text = Ariano teita kɨrẽ
+# text_eng = Adriano arrives today  3.25b
+1	Ariano	Ariano	PROPN	pn	_	2	nsubj	2:nsubj	_
+2	teita	ita	VERB	vi	Person:3=	0	root	0:root	_
+3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	2:advmod	_
+
+"
+Akuntsu-9,Akuntsu,kitʃe tawtʃe koa,,,We eat peccary  3.28a,English,,"# sent_id = 9
+# text = kitʃe tawtʃe koa
+# text_eng = We eat peccary  3.28a
+1	kitʃe	kitʃe	PRON	pro	Clusivity=In|PronType=Prs	3	nsubj	3:nsubj	_
+2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
+3	koa	ko	VERB	vt	_	0	root	0:root	_
+
+"
+Akuntsu-10,Akuntsu,Kani okɨpi kemkɨrom,,,"Kani, my younger sister, doesn't have breast-milk 4.1b",English,,"# sent_id = 10
+# text = Kani okɨpi kemkɨrom
+# text_eng = Kani, my younger sister, doesn't have breast-milk 4.1b
+1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
+2	okɨpi	kɨpi	NOUN	n	_	1	appos	1:appos	_
+3	kemkɨrom	kemkɨ	ADJ	adj	_	1	amod	1:amod	_
+
+"
+Akuntsu-11,Akuntsu,kwako kɨpek koa,,,The guan is eating papaya 4.3b,English,,"# sent_id = 11
+# text = kwako kɨpek koa
+# text_eng = The guan is eating papaya 4.3b
+1	kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
+2	kɨpek	kɨpek	NOUN	v	_	3	obj	3:obj	_
+3	koa	ko	NOUN	n	_	0	root	0:root	_
+
+"
+Akuntsu-12,Akuntsu,pi maã en,,,You wear the feet 4.47a,English,,"# sent_id = 12
+# text = pi maã en
+# text_eng = You wear the feet 4.47a
+1	pi	pi	NOUN	n	_	2	obj	2:obj	_
+2	maã	maã	VERB	vt	_	0	root	0:root	_
+3	en	en	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
+
+"
+Akuntsu-13,Akuntsu,Kɨte babape at,,,Take one glass!  4.84b,English,,"# sent_id = 13
+# text = Kɨte babape at
+# text_eng = Take one glass!  4.84b
+1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
+2	babape	babape	NOUN	n	_	3	obj	3:obj	_
+3	at	at	VERB	vt	_	0	root	0:root	_
+
+"
+Akuntsu-14,Akuntsu,Buko kɨte korakora mi,,,Buquá killed one chicken  4.84c,English,,"# sent_id = 14
+# text = Buko kɨte korakora mi
+# text_eng = Buquá killed one chicken  4.84c
+1	Buko	Buko	PROPN	pn	_	4	nsubj	4:nsubj	_
+2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
+3	korakora	korakora	NOUN	n	_	4	obj	4:obj	_
+4	mi	mi	VERB	vt	_	0	root	0:root	_
+
+"
+Akuntsu-15,Akuntsu,ep koa jẽ,,,This one eats leaf  1 3.10a,English,,"# sent_id = 15
+# text = ep koa jẽ
+# text_eng = This one eats leaf  1 3.10a
+1	ep	ep	NOUN	n	_	2	obj	2:obj	_
+2	koa	ko	VERB	vt	_	0	root	0:root	_
+3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	2:nsubj	_
+
+"
+Akuntsu-16,Akuntsu,kitʃetara kom,,,We will leave (as usual)  3.19,English,,"# sent_id = 16
+# text = kitʃetara kom
+# text_eng = We will leave (as usual)  3.19
+1	kitʃetara	tʃet	VERB	v	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
+2	kom	kom	PART	pcl	_	1	advmod	1:advmod	_
+
+"
+Akuntsu-17,Akuntsu,Karow etap tek iw,,,Carol's bed is damaged  3.22,English,,"# sent_id = 17
+# text = Karow etap tek iw
+# text_eng = Carol's bed is damaged  3.22
+1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
+2	etap	et	NOUN	n	_	3	nmod	3:nmod	_
+3	tek	ek	NOUN	n	Rel=Cont	0	root	0:root	_
+4	iw	iw	NOUN	n	_	3	amod	3:amod	_
+
+"
+Akuntsu-18,Akuntsu,teti pururu aj ɨmɨmere etʃe,,,His own mother came and stayed around the Omere  3.36,English,,"# sent_id = 18
+# text = teti pururu aj ɨmɨmere etʃe
+# text_eng = His own mother came and stayed around the Omere  3.36
+1	teti	ti	NOUN	n	Person=3|Reflex=Yes	2	nsubj	2:nsubj	_
+2	pururu	pururu	VERB	ideo	_	0	root	0:root	_
+3	aj	aj	VERB	vi	_	2	dep	2:dep	_
+4	ɨmɨmere	ɨmɨmere	NOUN	n	_	2	obl	2:obl	_
+5	etʃe	etʃe	ADP	posp	_	4	case	4:case	_
+
+"
+Akuntsu-19,Akuntsu,kopiba mõatʃoa on,,,I bathe the parrot    5.3b,English,,"# sent_id = 19
+# text = kopiba mõatʃoa on
+# text_eng = I bathe the parrot    5.3b
+1	kopiba	kopiba	NOUN	n	_	2	obj	2:obj	_
+2	mõatʃoa	atʃop	VERB	vi	Voice=Cau	0	root	0:root	_
+3	on	on	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
+
+"
+Akuntsu-20,Akuntsu,Pura ikoa te,,,Pura eats it  3.3,English,,"# sent_id = 20
+# text = Pura ikoa te
+# text_eng = Pura eats it  3.3
+1	Pura	Pura	NOUN	pn	_	2	nsubj	2:nsubj	_
+2	ikoa	ko	VERB	vt	Person:3=	0	root	0:root	_
+3	te	te	PART	pcl	_	2	discourse	2:discourse	_
+
+"
+Akuntsu-21,Akuntsu,erape okwata kom,,,Tomorrow I will leave  3.25,English,,"# sent_id = 21
+# text = erape okwata kom
+# text_eng = Tomorrow I will leave  3.25
+1	erape	erape	ADV	adv	_	2	advmod	2:advmod	_
+2	okwata	kwat	VERB	vi	Mood=Ind|Person=1|VerbForm=Fin	0	root	0:root	_
+3	kom	kom	PART	pcl	_	2	advmod	2:advmod	_
+
+"
+Akuntsu-22,Akuntsu,potʃek momo tejã otek etʃe,,,The notebook stayed for long time in my house  3.27,English,,"# sent_id = 22
+# text = potʃek momo tejã otek etʃe
+# text_eng = The notebook stayed for long time in my house  3.27
+1	potʃek	potʃek	NOUN	n	_	2	nsubj	2:nsubj	_
+2	momo	mo	VERB	vt	_	0	root	0:root	_
+3	tejã	jã	AUX	aux	Person=3	2	aux	2:aux	_
+4	otek	ek	NOUN	n	Person=1|Rel=Cont	2	obl	2:obl	_
+5	etʃe	etʃe	ADP	loc	_	4	nmod	4:nmod	_
+
+"
+Akuntsu-23,Akuntsu,en ikoromka,,,You cut it  3.28b,English,,"# sent_id = 23
+# text = en ikoromka
+# text_eng = You cut it  3.28b
+1	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	ikoromka	korom	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Akuntsu-24,Akuntsu,oetara otoa,,,I am going to sleep  3.29,English,,"# sent_id = 24
+# text = oetara otoa
+# text_eng = I am going to sleep  3.29
+1	oetara	et	VERB	vi	Aspect=Hab|Person=1	0	root	0:root	_
+2	otoa	toa	AUX	aux	Person=1	1	aux	1:aux	_
+
+"
+Akuntsu-25,Akuntsu,kwaẽ te ipitka,,,"the pot, she is scrabbing it (3.30)",English,,"# sent_id = 25
+# text = kwaẽ te ipitka
+# text_eng = the pot, she is scrabbing it (3.30)
+1	kwaẽ	kwaẽ	NOUN	n	_	3	obj	3:obj	_
+2	te	te	PART	pcl	_	1	discourse	1:discourse	_
+3	ipitka	pit	VERB	vt	Person=3|Trans=Yes	0	root	0:root	_
+
+"
+Akuntsu-26,Akuntsu,erẽ epo tʃoga erẽ,,,you bite your hand (3.32),English,,"# sent_id = 26
+# text = erẽ epo tʃoga erẽ
+# text_eng = you bite your hand (3.32)
+1	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	3	nsubj	3:nsubj	_
+2	epo	po	NOUN	n	Person=2	3	obj	3:obj	_
+3	tʃoga	tʃoga	VERB	vt	_	0	root	0:root	_
+4	erẽ	erẽ	PRON	pro	Number=Sing|PronType=Emp	1	discourse	1:discourse	_
+
+"
+Akuntsu-27,Akuntsu,jẽ kem kɨ jẽ kem kɨrom,,,"This one has breast-milk, this one doesn't have breast-milk (3.33b)",English,,"# sent_id = 27
+# text = jẽ kem kɨ jẽ kem kɨrom
+# text_eng = This one has breast-milk, this one doesn't have breast-milk (3.33b)
+1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nmod	3:nmod	_
+2	kem	kem	NOUN	n	_	3	nmod	3:nmod	_
+3	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
+4	jẽ	jẽ	DET	dem	Deixis=Prox	6	nmod	6:nmod	_
+5	kem	kem	NOUN	n	_	6	nmod	6:nmod	_
+6-7	kɨrom	_	_	_	_	_	_	_	_
+6	kɨ	kɨ	NOUN	n	_	3	parataxis	3:parataxis	_
+7	rom	rom	ADV	adv	_	6	advmod	6:advmod	_
+
+"
+Akuntsu-28,Akuntsu,"oatap ãka ẽ ẽ , oatap õkwa on",,,"My hair, that way, I wash my hair (3.35)",English,,"# sent_id = 28
+# text = oatap ãka ẽ ẽ , oatap õkwa on
+# text_eng = My hair, that way, I wash my hair (3.35)
+1	oatap	atap	NOUN	n	Person=1	7	nsubj	7:nsubj	_
+2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
+3	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
+4	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	oatap	atap	NOUN	n	Person=1	7	obj	7:obj	_
+7	õkwa	õkwa	VERB	vi	_	0	root	0:root	_
+8	on	on	PRON	pro	PronType=Prs	7	nsubj	7:nsubj	_
+
+"
+Akuntsu-29,Akuntsu,on ita tʃoktʃok,,,"I am planting it, planting, planting (3.37)",English,,"# sent_id = 29
+# text = on ita tʃoktʃok
+# text_eng = I am planting it, planting, planting (3.37)
+1	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	ita	ta	VERB	vt	Person=3	0	root	0:root	_
+3	tʃoktʃok	tʃok	VERB	ideo	_	2	dep	2:dep	_
+
+"
+Akuntsu-30,Akuntsu,tʃoktʃok	atiti ta,,,"planting, planting, (I am) planting corn (3.38)",English,,"# sent_id = 30
+# text = tʃoktʃok	atiti ta
+# text_eng = planting, planting, (I am) planting corn (3.38)
+1	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	ita	ta	VERB	vt	Person=3	0	root	0:root	_
+3	tʃoktʃok	tʃok	VERB	ideo	_	2	dep	2:dep	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	tʃoktʃok	tʃok	VERB	ideo	_	3	dep	3:dep	_
+6	atiti	atiti	NOUN	n	_	7	obj	7:obj	_
+7	ta	ta	VERB	vt	_	2	parataxis	2:parataxis	_
+
+"
+Akuntsu-31,Akuntsu,kaɾã tepna,,,It's for the brazil nut's leaf (4.1c),English,,"# sent_id = 31
+# text = kaɾã tepna
+# text_eng = It's for the brazil nut's leaf (4.1c)
+1	kaɾã	kaɾã	NOUN	n	_	2	nmod	2:nmod	_
+2	tepna	ep	NOUN	n	Rel=Cont	0	root	0:root	_
+
+"
+Guajajara-1,Guajajara,Uzekok ywyok rehe,,,He leaned against/on the wall,English,,"# sent_id = 1
+# text = Uzekok ywyok rehe
+# text_port = Ele se encostou na parede (Harrison 194)
+# text_eng = He leaned against/on the wall
+1	Uzekok	zekok	VERB	v	Person=3|Reflex=Yes	0	root	0:root	_
+2	ywyok	ywyok	NOUN	n	_	1	obl	1:obl	_
+3	rehe	ehe	ADP	pp	Rel=Cont	2	case	2:case	_
+
+"
+Guajajara-2,Guajajara,Umuwywyk ikamir aguz pupe,,,She sew his shirt with a needle (LM),English,,"# sent_id = 2
+# text = Umuwywyk ikamir aguz pupe
+# text_port = Ela costurou a camisa dele com uma agulha (Harrison 10)
+# text_eng = She sew his shirt with a needle (LM)
+1	Umuwywyk	muwywyk	VERB	vt	Person=3	0	root	0:root	_
+2	ikamir	kamir	NOUN	n	Rel=NCont	1	obj	1:obj	_
+3	aguz	aguz	NOUN	n	_	1	obl	1:obl	_
+4	pupe	pupe	ADP	pp	Case=Ins	3	case	3:case	_
+
+"
+Guajajara-3,Guajajara,Nuzapo pixik kwaw agwer ma'e amo ae awa pe,,,He never did this kind of things to any other man (LM),English,,"# sent_id = 3
+# text = Nuzapo pixik kwaw agwer ma'e amo ae awa pe
+# text_port = Ele nunca fez este tipo de coisa a nenhum outro homem (Harrison 10)
+# text_eng = He never did this kind of things to any other man (LM)
+1	Nuzapo	apo	VERB	vt	Person=3|Polarity=Neg	0	root	0:root	_
+2	pixik	pixik	NOUN	n	_	1	obl	1:obl	_
+3	kwaw	kwaw	ADV	adv	Polarity=Neg	2	advmod	2:advmod	_
+4	agwer	agwer	DET	det	PronType=Dem	5	det	5:det	_
+5	ma'e	ma'e	NOUN	n	_	1	obj	1:obj	_
+6	amo	amo	DET	det	PronType=Ind	8	det	8:det	_
+7	ae	ae	PART	pcl	_	6	discourse	6:discourse	_
+8	awa	awa	NOUN	n	_	1	obl	1:obl	_
+9	pe	pe	ADP	pp	_	8	case	8:case	_
+
+"
+Guajajara-4,Guajajara,Aha putar ko pe,,,I  will go to the countryside (LM),English,,"# sent_id = 4
+# text = Aha putar ko pe
+# text_port = Eu vou para a roça (Harrison 10)
+# text_eng = I  will go to the countryside (LM)
+1	Aha	ha	VERB	vi	Person=1	0	root	0:root	_
+2	putar	putar	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
+3	ko	ko	NOUN	n	_	1	obl	1:obl	_
+4	pe	pe	ADP	pp	_	3	case	3:case	_
+
+"
+Guajajara-5,Guajajara,Wiko amo ae ma'e romo a'e,,,It is a completely different thing (LM),English,,"# sent_id = 5
+# text = Wiko amo ae ma'e romo a'e
+# text_port = É uma coisa completamente diferente (Harrison 10)
+# text_eng = It is a completely different thing (LM)
+1	Wiko	iko	VERB	vi	Person=3	0	root	0:root	_
+2	amo	amo	DET	dem	PronType=Ind	4	det	4:det	_
+3	ae	ae	PART	pcl	_	2	discourse	2:discourse	_
+4	ma'e	ma'e	NOUN	n	_	1	obj	1:obj	_
+5	romo	romo	ADP	pp	_	4	case	4:case	_
+6	a'e	a'e	PRON	pro	Person=3	1	nsubj	1:nsubj	_
+
+"
+Guajajara-6,Guajajara,Wexak arapuha a pe,,,He saw a deer far away (LM),English,,"# sent_id = 6
+# text = Wexak arapuha a pe
+# text_port = Viu o veado lá longe (Harrison 10)
+# text_eng = He saw a deer far away (LM)
+1	Wexak	exak	VERB	vt	Person=3	0	root	0:root	_
+2	arapuha	arapuha	NOUN	n	_	1	obj	1:obj	_
+3	a	a	ADV	adv	_	1	obl	1:obl	_
+4	pe	pe	ADP	pp	_	3	case	3:case	_
+
+"
+Guajajara-7,Guajajara,Agwer ma'ea'yr u'u ka'api'i,,,This kind of animal eats grass (LM),English,,"# sent_id = 7
+# text = Agwer ma'ea'yr u'u ka'api'i
+# text_port = Este tipo de animal come capim (Harrison 10)
+# text_eng = This kind of animal eats grass (LM)
+1	Agwer	agwer	DET	dem	PronType=Dem	2	det	2:det	_
+2	ma'ea'yr	ma'ea'yr	NOUN	n	_	3	nsubj	3:nsubj	_
+3	u'u	'u	VERB	vt	Person=3	0	root	0:root	_
+4	ka'api'i	ka'api'i	NOUN	n	_	3	obj	3:obj	_
+
+"
+Guajajara-8,Guajajara,Umuixe kar inemu'i aguz apygwar rupi,,,She inserted a thread of hair through the eye of the needle (LM),English,,"# sent_id = 8
+# text = Umuixe kar inemu'i aguz apygwar rupi
+# text_port = Ela enfiou o fio pelo fundo da agulha (Harrison 10)
+# text_eng = She inserted a thread of hair through the eye of the needle (LM)
+1	Umuixe	ixe	VERB	vt	Person=3|Voice=Cau	0	root	0:root	_
+2	kar	kar	ADV	adv	Voice=Cau	1	advmod	1:advmod	_
+3	inemu'i	inemu'i	NOUN	n	_	1	obj	1:obj	_
+4	aguz	aguz	NOUN	n	_	1	obl	1:obl	_
+5	apygwar	apygwar	NOUN	n	_	4	nmod	4:nmod	_
+6	rupi	upi	ADP	pp	Rel=Cont	4	case	4:case	_
+
+"
+Guajajara-9,Guajajara,Aikwez a'e,,,There it is (LM),English,,"# sent_id = 9
+# text = Aikwez a'e
+# text_port = Aí está (Harrison 11)
+# text_eng = There it is (LM)
+1	Aikwez	aikwez	PRON	pro	PronType=Dem	2	nmod	2:nmod	_
+2	a'e	a'e	PRON	pro	Person=3|PronType=Prs	0	root	0:root	_
+
+"
+Guajajara-10,Guajajara,Aikwez hera'yr a'e,,,My son is there (LM),English,,"# sent_id = 10
+# text = Aikwez hera'yr a'e
+# text_port = Aí está meu filho (Harrison 11)
+# text_eng = My son is there (LM)
+1	Aikwez	aikwez	PRON	pro	PronType=Dem	2	nmod	2:nmod	_
+2	hera'yr	a'yr	NOUN	n	Person=1|Rel=Abs	0	root	0:root	_
+3	a'e	a'e	PART	pcl	Person=3	2	discourse	2:discourse	_
+
+"
+Guajajara-11,Guajajara,Umàno putar ru'u aipo,,,Maybe she will die (LM),English,,"# sent_id = 11
+# text = Umàno putar ru'u aipo
+# text_port = Talvez ela vá morrer (Harrison 11)
+# text_eng = Maybe she will die (LM)
+1	Umàno	màno	VERB	vi	Person=3	0	root	0:root	_
+2	putar	putar	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
+3	ru'u	ru'u	PART	pcl	_	1	discourse	1:discourse	_
+4	aipo	aipo	PART	pcl	_	1	discourse	1:discourse	_
+
+"
+Guajajara-12,Guajajara,Mon aipo,,,Who? (LM),English,,"# sent_id = 12
+# text = Mon aipo
+# text_port = Quem? (Harrison 11)
+# text_eng = Who? (LM)
+1	Mon	mon	PRON	pro	PronType=Int	0	root	0:root	_
+2	aipo	aipo	PART	pcl	_	1	discourse	1:discourse	_
+
+"
+Guajajara-13,Guajajara,Aputar aipo ma'e ihe,,,I want that thing (LM),English,,"# sent_id = 13
+# text = Aputar aipo ma'e ihe
+# text_port = Eu quero aquela coisa (Harrison 11)
+# text_eng = I want that thing (LM)
+1	Aputar	putar	VERB	vt	Person=1	0	root	0:root	_
+2	aipo	aipo	DET	dem	PronType=Dem	3	det	3:det	_
+3	ma'e	ma'e	NOUN	n	_	1	obj	1:obj	_
+4	ihe	ihe	PRON	pro	PronType=Prs	1	nsubj	1:nsubj	_
+
+"
+Guajajara-14,Guajajara,Aha putar aipo pe nehe,,,I will go there (LM),English,,"# sent_id = 14
+# text = Aha putar aipo pe nehe
+# text_port = Eu vou lá (Harrison 11)
+# text_eng = I will go there (LM)
+1	Aha	ha	VERB	vi	Person=1	0	root	0:root	_
+2	putar	putar	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
+3	aipo	aipo	PRON	pro	PronType=Dem	1	obl	1:obl	_
+4	pe	pe	ADP	pp	_	3	case	3:case	_
+5	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	1:discourse	_
+
+"
+Guajajara-15,Guajajara,Opo'o aka'u a'e,,,He collects cacao (LM),English,,"# sent_id = 15
+# text = Opo'o aka'u a'e
+# text_port = Ele colhe cacau (Harrison 12)
+# text_eng = He collects cacao (LM)
+1	Opo'o	po'o	VERB	vt	Person=3	0	root	0:root	_
+2	aka'u	aka'u	NOUN	n	_	1	obj	1:obj	_
+3	a'e	a'e	PRON	pro	Person=3	1	nsubj	1:nsubj	_
+
+"
+Guajajara-16,Guajajara,Wexak amo awa a'e pe,,,He saw some men there (LM),English,,"# sent_id = 16
+# text = Wexak amo awa a'e pe
+# text_port = Viu algum homem lá (Harrison 12)
+# text_eng = He saw some men there (LM)
+1	Wexak	exak	VERB	vt	Person=3	0	root	0:root	_
+2	amo	amo	DET	dem	PronType=Ind	3	det	3:det	_
+3	awa	awa	NOUN	n	_	1	obj	1:obj	_
+4	a'e	a'e	PRON	pro	Person=3	1	obl	1:obl	_
+5	pe	pe	ADP	pp	_	4	case	4:case	_
+
+"
+Guajajara-17,Guajajara,Wiko Zuàw awa zutyka'i romo a'e,,,John is a lonely man (LM),English,,"# sent_id = 17
+# text = Wiko Zuàw awa zutyka'i romo a'e
+# text_port = João é um homem solitário (Harrison 16)
+# text_eng = John is a lonely man (LM)
+1	Wiko	iko	VERB	vi	Person=3	0	root	0:root	_
+2	Zuàw	zuàw	PROPN	ppn	_	1	nsubj	1:nsubj	_
+3	awa	awa	NOUN	n	_	1	obj	1:obj	_
+4	zutyka'i	zutyka'i	NOUN	n	_	3	nmod	3:nmod	_
+5	romo	romo	ADP	pp	_	3	case	3:case	_
+6	a'e	a'e	PART	pcl	Person=3	1	discourse	1:discourse	_
+
+"
+Guajajara-18,Guajajara,Awakwer oho ko pe wà,,,All men went to the countryside (LM),English,,"# sent_id = 18
+# text = Awakwer oho ko pe wà
+# text_port = Os homens foram para a roça (Harrison 16)
+# text_eng = All men went to the countryside (LM)
+1	Awakwer	awa	NOUN	n	Number=Plur	2	nsubj	2:nsubj	_
+2	oho	ho	VERB	vi	Person=3	0	root	0:root	_
+3	ko	ko	NOUN	n	_	2	obl	2:obl	_
+4	pe	pe	ADP	pp	_	3	case	3:case	_
+5	wà	wà	PART	pcl	Number=Plur|Person=3	2	discourse	2:discourse	_
+
+"
+Guajajara-19,Guajajara,A'e ma'e'yw i'a 'ar katu mehe,,,Those fruit trees give fruits in a certain time (LM),Portuguese,,"# sent_id = 19
+# text = A'e ma'e'yw i'a 'ar katu mehe
+# text_port = Those fruit trees give fruits in a certain time (LM)
+1	A'e	a'e	DET	dem	PronType=Dem	2	det	2:det	_
+2	ma'e'yw	ma'e'yw	NOUN	n	_	3	nsubj	3:nsubj	_
+3	i'a	'a	VERB	vi	Person=3	0	root	0:root	_
+4	'ar	'ar	NOUN	n	_	3	obl	3:obl	_
+5	katu	katu	PART	pcl	_	4	discourse	4:discourse	_
+6	mehe	mehe	ADP	pp	_	4	case	4:case	_
+
+"
+Guajajara-20,Guajajara,Pixika'i a'e,,,It's very small (LM),English,,"# sent_id = 20
+# text = Pixika'i a'e
+# text_port = É muito pequeno (Harrison 18)
+# text_eng = It's very small (LM)
+1	Pixika'i	pixik	NOUN	n	Dimin=Yes	2	nmod	2:nmod	_
+2	a'e	a'e	PRON	pro	Person=3	0	root	0:root	_
+
+"
+Guajajara-21,Guajajara,Mon aipo ur iko a'e,,,Who is coming? (LM),English,,"# sent_id = 21
+# text = Mon aipo ur iko a'e
+# text_port = Quem está vindo? (Harrison 111)
+# text_eng = Who is coming? (LM)
+1	Mon	mon	PRON	pro	PronType=Int	3	nsubj	3:nsubj	_
+2	aipo	aipo	PART	pcl	_	1	discourse	1:discourse	_
+3	ur	ur	VERB	vi	Person=3	0	root	0:root	_
+4	iko	iko	AUX	aux	Aspect=Prog|Person=3	3	aux	3:aux	_
+5	a'e	a'e	PART	pcl	Person=3	3	discourse	3:discourse	_
+
+"
+Guajajara-22,Guajajara,Ukwaw kakwez zeʔengete imungetahaw aʔe wə kurɨ,,,They know how to read the true language (Guajajara) now,English,,"# sent_id = 22
+# text = Ukwaw kakwez zeʔengete imungetahaw aʔe wə kurɨ
+# text_eng = They know how to read the true language (Guajajara) now
+# text_port = eles sabem - eu vi - ler a língua guajajara (Harrison 1986 [22])
+1	Ukwaw	kwaw	VERB	v	Person=3	0	root	0:root	_
+2	kakwez	kakwez	PART	pcl	Evident=Fh|Tense=Past	1	discourse	1:discourse	_
+3	zeʔengete	zeʔeng	NOUN	n	_	4	nmod	4:nmod	_
+4	imungetahaw	mungeta	NOUN	n	Rel=NCont	1	obj	1:obj	_
+5	aʔe	aʔe	PRON	pro	Person=3	1	nsubj	1:nsubj	_
+6	wə	wə	PART	pcl	Number=Plur	5	nmod	5:nmod	_
+7	kurɨ	kurɨ	ADV	adv	_	1	advmod	1:advmod	_
+
+"
+Guajajara-23,Guajajara,Wexak akuxi a'yr ikwar pupe,,,He saw the cutia cub inside his hole (LM),English,,"# sent_id = 23
+# text = Wexak akuxi a'yr ikwar pupe
+# text_port = Ele viu o filhote da cutia dentro do buraco dele (Harrison 12)
+# text_eng = He saw the cutia cub inside his hole (LM)
+1	Wexak	exak	VERB	vt	Person=3	0	root	0:root	_
+2	akuxi	akuxi	NOUN	n	_	1	obj	1:obj	_
+3	a'yr	a'yr	NOUN	n	_	2	nmod	2:nmod	_
+4	ikwar	kwar	NOUN	n	Person=3|Rel=NCont	1	obl	1:obl	_
+5	pupe	pupe	ADP	pp	_	4	case	4:case	_
+
+"
+Guajajara-24,Guajajara,Akwez awa wiko karaiw romo,,,That man is not indian (LM),English,,"# sent_id = 24
+# text = Akwez awa wiko karaiw romo
+# text_port = Aquele homem não é índio (Harrison 12)
+# text_eng = That man is not indian (LM)
+1	Akwez	akwez	DET	dem	PronType=Dem	2	det	2:det	_
+2	awa	awa	NOUN	n	_	3	nsubj	3:nsubj	_
+3	wiko	iko	VERB	vi	Person=3	0	root	0:root	_
+4	karaiw	karaiw	NOUN	n	_	3	obj	3:obj	_
+5	romo	romo	ADP	pp	_	4	case	4:case	_
+
+"
+Guajajara-25,Guajajara,Amirikur umumaw ma'e'a kwer a'e wà,,,The worms will kill the fruit (LM),English,,"# sent_id = 25
+# text = Amirikur umumaw ma'e'a kwer a'e wà
+# text_port = Os vermes acabaram com a fruta (Harrison 12)
+# text_eng = The worms will kill the fruit (LM)
+1	Amirikur	amirikur	NOUN	n	_	2	nsubj	2:nsubj	_
+2	umumaw	maw	VERB	vt	Person=3|Voice=Cau	0	root	0:root	_
+3	ma'e'a	'a	NOUN	n	_	2	obj	2:obj	_
+4	kwer	kwer	ADV	adv	_	3	advmod	3:advmod	_
+5	a'e	a'e	PART	pcl	Person=3	2	discourse	2:discourse	_
+6	wà	wà	PART	pcl	Number=Plur	2	discourse	2:discourse	_
+
+"
+Guajajara-26,Guajajara,Amo tuwihaw oho mai'u haw pe a'e wà no,,,Other bosses also went to the party (LM),English,,"# sent_id = 26
+# text = Amo tuwihaw oho mai'u haw pe a'e wà no
+# text_port = Outros/Alguns chefes foram à festa também (Harrison 12)
+# text_eng = Other bosses also went to the party (LM)
+1	Amo	amo	DET	dem	PronType=Ind	2	det	2:det	_
+2	tuwihaw	uwihaw	NOUN	n	Person=3	3	nsubj	3:nsubj	_
+3	oho	ho	VERB	vi	Person=3	0	root	0:root	_
+4	mai'u	mai'u	NOUN	n	_	3	obl	3:obl	_
+5	haw	haw	ADV	adv	_	4	advmod	4:advmod	_
+6	pe	pe	ADP	pp	_	4	case	4:case	_
+7	a'e	a'e	PART	pcl	Person=3	3	discourse	3:discourse	_
+8	wà	wà	PART	pcl	Number=Plur	3	discourse	3:discourse	_
+9	no	no	PART	pcl	_	3	discourse	3:discourse	_
+
+"
+Guajajara-27,Guajajara,Amogwer oho haikwerupi wà,,,The others followed him after a while (LM),English,,"# sent_id = 27
+# text = Amogwer oho haikwerupi wà
+# text_port = Os outros foram atrás dele depois de um tempo. (Harrison 13)
+# text_eng = The others followed him after a while (LM)
+1	Amogwer	amo	NOUN	n	_	2	nsubj	2:nsubj	_
+2	oho	ho	VERB	vi	Person=3	0	root	0:root	_
+3-4	haikwerupi	_	_	_	_	_	_	_	_
+3	haikwer	aikwer	NOUN	n	Rel=NCont	2	obl	2:obl	_
+4	rupi	upi	ADP	pp	_	3	case	3:case	_
+5	wà	wà	PART	pcl	Number=Plur	2	discourse	2:discourse	_
+
+"
+Guajajara-28,Guajajara,Amogwer oho haikweromo wà,,,The others followed him later on (LM),English,,"# sent_id = 28
+# text = Amogwer oho haikweromo wà
+# text_port = Os outros foram logo atrás dele. (Harrison 13)
+# text_eng = The others followed him later on (LM)
+1	Amogwer	amo	NOUN	n	_	2	nsubj	2:nsubj	_
+2	oho	ho	VERB	vi	Person=3	0	root	0:root	_
+3-4	haikweromo	_	_	_	_	_	_	_	_
+3	haikwer	aikwer	NOUN	n	Rel=NCont	2	obl	2:obl	_
+4	romo	romo	ADP	pp	_	3	case	3:case	_
+5	wà	wà	PART	pcl	Number=Plur	2	discourse	2:discourse	_
+
+"
+Guajajara-29,Guajajara,Anyra zanexi'u pyhaw a'e,,,Bats bite us at night (LM),English,,"# sent_id = 29
+# text = Anyra zanexi'u pyhaw a'e
+# text_port = O morcego nos morde à noite (Harrison 14)
+# text_eng = Bats bite us at night (LM)
+1	Anyra	anyra	NOUN	n	_	2	nsubj	2:nsubj	_
+2	zanexi'u	uxi'u	VERB	vt	Number=Plur|Person=1	0	root	0:root	_
+3	pyhaw	py	ADV	adv	_	2	obl	2:obl	_
+4	a'e	a'e	PART	pcl	Person=3	2	discourse	2:discourse	_
+
+"
+Guajajara-30,Guajajara,U'u arapapa ipira'i iko a'e,,,The arapapa is eating small fishes (LM),English,,"# sent_id = 30
+# text = U'u arapapa ipira'i iko a'e
+# text_port = O arapapá está comendo peixinhos (Harrison 14)
+# text_eng = The arapapa is eating small fishes (LM)
+1	U'u	'u	VERB	vt	Person=3	0	root	0:root	_
+2	arapapa	arapapa	NOUN	n	_	1	nsubj	1:nsubj	_
+3	ipira'i	pira	NOUN	n	Dimin=Yes|Rel=NCont	1	obj	1:obj	_
+4	iko	iko	AUX	aux	Aspect=Prog|Person=3	1	aux	1:aux	_
+5	a'e	a'e	PART	pcl	Person=3	1	discourse	1:discourse	_
+
+"
+Guajajara-31,Guajajara,Ezapo arapuk wiràmiri pe nehe,,,Make a trap for the bird (LM),English,,"# sent_id = 31
+# text = Ezapo arapuk wiràmiri pe nehe
+# text_port = Faça uma arapuca para o pássaro (Harrison 15)
+# text_eng = Make a trap for the bird (LM)
+1	Ezapo	apo	VERB	vt	Person=3	0	root	0:root	_
+2	arapuk	arapuk	NOUN	n	_	1	obj	1:obj	_
+3	wiràmiri	wirà	NOUN	n	Dimin=Yes	1	obl	1:obl	_
+4	pe	pe	ADP	pp	_	3	case	3:case	_
+5	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	1:discourse	_
+
+"
+Kaapor-1,Kaapor,aʔe ta ke uʔuta moj ke tĩ,,,they will eat the snake (Duarte 2019 [45]),English,,"# sent_id = 1
+# text = aʔe ta ke uʔuta moj ke tĩ
+# text_eng = they will eat the snake (Duarte 2019 [45])
+1	aʔe	aʔe	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ta	ta	PART	pcl	_	1	nmod	1:nmod	_
+3	ke	ke	PART	pcl	_	1	nmod	1:nmod	_
+4	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
+5	moj	moj	NOUN	n	_	4	obj	4:obj	_
+6	ke	ke	PART	pcl	_	5	nmod	5:nmod	_
+7	tĩ	tĩ	PART	pcl	_	5	discourse	5:discourse	_
+
+"
+Kaapor-2,Kaapor,jane japikũj mi ?,,,Did we row (Duarte 2019 [8]),English,,"# sent_id = 2
+# text = jane japikũj mi ?
+# text_eng = Did we row (Duarte 2019 [8])
+1	jane	jane	PRON	pro	_	2	nsubj	2:nsubj	_
+2	japikũj	pikũj	VERB	vi	_	0	root	0:root	_
+3	mi	mi	PART	pcl	_	2	discourse	2:discourse	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+"
+Kaapor-3,Kaapor,Mataru ʃaʔe ke nupã tĩ,,,Mataru hit Xa'e again (Duarte 2019 [30]),English,,"# sent_id = 3
+# text = Mataru ʃaʔe ke nupã tĩ
+# text_eng = Mataru hit Xa'e again (Duarte 2019 [30])
+1	Mataru	mataru	PROPN	pn	Animacy=Hum|Number=Sing	4	nsubj	4:nsubj	_
+2	ʃaʔe	ʃaʔe	PROPN	pn	Animacy=Hum|Number=Sing	4	obj	4:obj	_
+3	ke	ke	PART	pcl	_	2	discourse	2:discourse	_
+4	nupã	nupã	VERB	vt	Person=3	0	root	0:root	_
+5	tĩ	tĩ	PART	pcl	_	4	discourse	4:discourse	_
+
+"
+Kaapor-4,Kaapor,aʔe tatu ke uʔuta,,,He will eat the armadillo (Duarte 2019 [41a] TM),English,,"# sent_id = 4
+# text = aʔe tatu ke uʔuta
+# text_eng = He will eat the armadillo (Duarte 2019 [41a] TM)
+1	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+2	tatu	tatu	NOUN	n	Number=Sing	4	obj	4:obj	_
+3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
+4	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
+
+"
+Kaapor-5,Kaapor,aʔe ke uʔuta pɪpɪhu ke tĩ,,,He is going to eat the owl (Duarte 2019 [41b] TM),English,,"# sent_id = 5
+# text = aʔe ke uʔuta pɪpɪhu ke tĩ
+# text_eng = He is going to eat the owl (Duarte 2019 [41b] TM)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ke	ke	PART	pcl	_	1	discourse	_	_
+3	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
+4	pɪpɪhu	pɪpɪhu	NOUN	n	_	3	obj	_	_
+5	ke	ke	PART	pcl	_	4	discourse	_	_
+6	tĩ	tĩ	PART	pcl	_	3	discourse	_	_
+
+"
+Kaapor-6,Kaapor,sawaʔe panem ta ke upa,,,All unlucky men (Duarte 2019 [53] TM),English,,"# sent_id = 6
+# text = sawaʔe panem ta ke upa
+# text_eng = All unlucky men (Duarte 2019 [53] TM)
+1	sawaʔe	sawaʔe	NOUN	n	Number=Sing	0	root	0:root	_
+2	panem	panem	ADJ	adj	_	1	amod	1:amod	_
+3	ta	ta	PART	pcl	_	1	nmod	1:nmod	_
+4	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
+5	upa	upa	DET	det	_	1	det	1:det	_
+
+"
+Kaapor-7,Kaapor,Tuti ke ʃaʔe jukwa,,,Xa’e killed Tuti (Duarte 2019 [29] TM),English,,"# sent_id = 7
+# text = Tuti ke ʃaʔe jukwa
+# text_eng = Xa’e killed Tuti (Duarte 2019 [29] TM)
+1	Tuti	Tuti	PROPN	prpn	_	4	obj	4:obj	_
+2	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
+3	ʃaʔe	ʃaʔe	PROPN	prpn	_	4	nsubj	4:nsubj	_
+4	jukwa	jukwa	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-8,Kaapor,"taʔɪn ukwerta je tĩ , ko aʔi iháike piɾokhũ je pe iʔaɾpe pɪnuhũ",,,"When the boy went to sleep again, the old woman took off her skirt, it is said; then (she) farted on him a lot (Godoy 2017 [3] TM)",English,,"# sent_id = 8
+# text = taʔɪn ukwerta je tĩ , ko aʔi iháike piɾokhũ je pe iʔaɾpe pɪnuhũ
+# text_eng = When the boy went to sleep again, the old woman took off her skirt, it is said; then (she) farted on him a lot (Godoy 2017 [3] TM)
+1	taʔɪn	aʔɪn	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ukwerta	kwer	VERB	vt	Person=3|Tense=Fut	9	advcl	9:advcl	_
+3	je	je	PART	pcl	_	2	discourse	2:discourse	_
+4	tĩ	tĩ	PART	pcl	_	2	discourse	2:discourse	_
+5	,	,	PUNCT	punct	_	2	punct	2:punct	_
+6	ko	ko	DET	dem	_	7	nmod	7:nmod	_
+7	aʔi	aʔi	NOUN	n	_	9	nsubj	9:nsubj	_
+8	iháike	hái	NOUN	n	_	9	obj	9:obj	_
+9	piɾokhũ	piɾok	VERB	_	Intense=Yes	0	root	0:root	_
+10	je	je	PART	vt	_	9	discourse	9:discourse	_
+11	pe	pe	ADV	adv	_	9	advmod	9:advmod	_
+12	iʔaɾpe	ʔaɾ	ADV	adv	_	13	advmod	13:advmod	_
+13	pɪnuhũ	pɪnu	VERB	vi	Intense=Yes	9	conj	9:conj	_
+
+"
+Kaapor-9,Kaapor,ne ihẽ ke remusak ʔɪ,,,You got me to see (it) (Duarte 2019 [19] JL),English,,"# sent_id = 9
+# text = ne ihẽ ke remusak ʔɪ
+# text_eng = You got me to see (it) (Duarte 2019 [19] JL)
+1	ne	ne	PRON	pro	Animacy=Hum|Number=Sing|Person=2	4	nsubj	4:nsubj	_
+2	ihẽ	ihẽ	PRON	pro	Animacy=Hum|Number=Sing|Person=1	4	iobj	4:iobj	_
+3	ke	ke	PART	pcl	_	2	nmod	2:nmod	_
+4	remusak	sak	VERB	vt	Person=2|Voice=Cau	0	root	0:root	_
+5	ʔɪ	ʔɪ	PART	pcl	Aspect=Perf	4	discourse	4:discourse	_
+
+"
+Kaapor-10,Kaapor,kaka ke kurumĩ uʔu rahã aʔe hãʔĩm ke matɪr,,,"When the child ate the cocoa, he gathered the cocoa seeds (Duarte 2019 [23] JL)",English,,"# sent_id = 10
+# text = kaka ke kurumĩ uʔu rahã aʔe hãʔĩm ke matɪr
+# text_eng = When the child ate the cocoa, he gathered the cocoa seeds (Duarte 2019 [23] JL)
+1	kaka	kaka	NOUN	n	_	4	obj	4:obj	_
+2	ke	ke	PART	pcl	_	1	nmod	1:nmod	_
+3	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+4	uʔu	ʔu	VERB	vt	Person=3	9	advcl	9:advcl	_
+5	rahã	rahã	SCONJ	sc	_	4	mark	4:mark	_
+6	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	9	nsubj	9:nsubj	_
+7	hãʔĩm	ãʔĩm	NOUN	n	Number=Plur	9	obj	9:obj	_
+8	ke	ke	PART	pcl	_	7	nmod	7:nmod	_
+9	matɪr	matɪr	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-11,Kaapor,Arauxu ahem uhu,,,Araújo shouted a lot (Duarte 2014 [5] NS),English,,"# sent_id = 11
+# text = Arauxu ahem uhu
+# text_eng = Araújo shouted a lot (Duarte 2014 [5] NS)
+1	Arauxu	Arauxu	PROPN	prpn	_	2	nsubj	2:nsubj	_
+2	ahem	ahem	VERB	vt	Person=3	0	root	0:root	_
+3	uhu	uhu	ADV	adv	_	2	advmod	2:advmod	_
+
+"
+Kaapor-12,Kaapor,a’eta ajengar,,,They sang (Duarte 2014 [23a] NS),English,,"# sent_id = 12
+# text = a’eta ajengar
+# text_eng = They sang (Duarte 2014 [23a] NS)
+1	a’eta	a'e	PRON	pro	Number=Plur	2	nsubj	2:nsubj	_
+2	ajengar	jengar	VERB	vt	Person=1	0	root	0:root	_
+
+"
+Kaapor-13,Kaapor,ihẽ a’etake amujengar,,,I made them sing (Duarte 2014 [23b] NS),English,,"# sent_id = 13
+# text = ihẽ a’etake amujengar
+# text_eng = I made them sing (Duarte 2014 [23b] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plur	3	nsubj	3:nsubj	_
+3	amujengar	jengar	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+"
+Kaapor-14,Kaapor,a’eta ma’e jukwahá ihẽke pe me’ẽ,,,They gave poison to me (Duarte 2014 [25] NS),English,,"# sent_id = 14
+# text = a’eta ma’e jukwahá ihẽke pe me’ẽ
+# text_eng = They gave poison to me (Duarte 2014 [25] NS)
+1	a’eta	a’e	PRON	pro	Number=Plur	6	nsubj	6:nsubj	_
+2	ma’e	ma’e	NOUN	n	_	3	nmod	3:nmod	_
+3	jukwahá	jukwa	NOUN	n	Rel=Cont	6	obj	6:obj	_
+4	ihẽke	ihẽ	PRON	pro	Case=Aff	6	obl	6:obl	_
+5	pe	pe	ADP	pp	_	4	obl	4:obl	_
+6	me’ẽ	me	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-15,Kaapor,Oho uĩ tipe ã,,,"He went to squat, in vain (G. Godoy, field work)",English,,"# sent_id = 15
+# text = Oho uĩ tipe ã
+# text_eng = He went to squat, in vain (G. Godoy, field work)
+# text_por = Foi acocorar-se em vão
+1	Oho	ho	VERB	vi	Person=3	0	root	0:root	_
+2	uĩ	uĩ	VERB	vi	Person=3	1	xcomp	1:xcomp	_
+3	tipe	tipe	PART	pcl	Aspect=Frus	1	discourse	1:discourse	_
+4	ã	ã	PART	pcl	_	1	discourse	1:discourse	_
+
+"
+Kaapor-16,Kaapor,aʔerehe tarũ neʃĩke joʔok,,,For that reason Tarũ married Nexĩ (Kakumasu [?] [4] TM),English,,"# sent_id = 16
+# text = aʔerehe tarũ neʃĩke joʔok
+# text_eng = For that reason Tarũ married Nexĩ (Kakumasu [?] [4] TM)
+1	aʔerehe	aʔerehe	ADV	adv	_	4	advmod	4:advmod	_
+2	tarũ	tarũ	PROPN	prpn	_	4	nsubj	4:nsubj	_
+3	neʃĩke	neʃĩ	PROPN	prpn	Case=Aff	4	obj	4:obj	_
+4	joʔok	joʔok	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-1001,Kaapor,Maiɾ ɪwɪke hapɪ,,,Mair burned the earth,English,,"# sent_id = 1001
+# text = Maiɾ ɪwɪke hapɪ
+# text_eng = Mair burned the earth
+# text_por = [GG]
+1	Maiɾ	maiɾ	PROPN	pn	_	3	nsubj	_	_
+2	ɪwɪke	ɪwɪ	NOUN	n	Case=Aff	3	obj	_	_
+3	hapɪ	hapɪ	VERB	vt	Person=3	0	root	_	_
+
+"
+Kaapor-17,Kaapor,ihẽ narãjke apirok,,,I peeled the orange (Duarte 2014 [1] NS),English,,"# sent_id = 17
+# text = ihẽ narãjke apirok
+# text_eng = I peeled the orange (Duarte 2014 [1] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	narãjke	narãj	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	apirok	pirok	VERB	vt	_	0	root	0:root	_
+
+"
+Kaapor-18,Kaapor,ihẽke aʔar,,,I have fallen (Duarte 2014 [4] NS),English,,"# sent_id = 18
+# text = ihẽke aʔar
+# text_eng = I have fallen (Duarte 2014 [4] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	2:nsubj	_
+2	aʔar	ʔa	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-19,Kaapor,ihẽ taɁɪnke amuɁe,,,I taught the child (Duarte 2014 [17a] NS),English,,"# sent_id = 19
+# text = ihẽ taɁɪnke amuɁe
+# text_eng = I taught the child (Duarte 2014 [17a] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	taɁɪnke	taɁɪn	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	amuɁe	Ɂe	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+"
+Kaapor-20,Kaapor,ne taɁɪnke eremuɁe,,,You taught the child (Duarte 2014 [17b] NS),English,,"# sent_id = 20
+# text = ne taɁɪnke eremuɁe
+# text_eng = You taught the child (Duarte 2014 [17b] NS)
+1	ne	ne	PRON	pro	_	3	nsubj	3:nsubj	_
+2	taɁɪnke	taɁɪn	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	eremuɁe	Ɂe	VERB	vt	Person=2|Voice=Cau	0	root	0:root	_
+
+"
+Kaapor-21,Kaapor,aʔeke uʔuta pɪpɪhu ketĩ,,,He will eat owl (Duarte 2014 [27] NS),English,,"# sent_id = 21
+# text = aʔeke uʔuta pɪpɪhu ketĩ
+# text_eng = He will eat owl (Duarte 2014 [27] NS)
+1	aʔeke	aʔe	PRON	pro	_	2	nsubj	2:nsubj	_
+2	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
+3	pɪpɪhu	pɪpɪhu	NOUN	n	_	2	obj	2:obj	_
+4	ketĩ	ke	PART	pcl	_	2	discourse	2:discourse	_
+
+"
+Kaapor-22,Kaapor,neke uʔike rekarãjta,,,you will toast manioc (Duarte 2014 [28] NS),English,,"# sent_id = 22
+# text = neke uʔike rekarãjta
+# text_eng = you will toast manioc (Duarte 2014 [28] NS)
+1	neke	ne	PRON	pro	_	3	nsubj	3:nsubj	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	rekarãjta	karãj	VERB	vt	Person=2|Tense=Fut	0	root	0:root	_
+
+"
+Kaapor-23,Kaapor,ihẽ neke akutukta,,,I will poke you (Duarte 2019 [6] NS),English,,"# sent_id = 23
+# text = ihẽ neke akutukta
+# text_eng = I will poke you (Duarte 2019 [6] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	neke	ne	PRON	pro	_	3	obj	3:obj	_
+3	akutukta	kutuk	VERB	vt	Person=1|Tense=Fut	0	root	0:root	_
+
+"
+Kaapor-24,Kaapor,Maírake wata,,,Maíra walked [With some effort] (Duarte 2019 [10a] NS),English,,"# sent_id = 24
+# text = Maírake wata
+# text_eng = Maíra walked [With some effort] (Duarte 2019 [10a] NS)
+1	Maírake	Maíra	PROPN	pn	_	2	nsubj	2:nsubj	_
+2	wata	wata	VERB	vt	_	0	root	0:root	_
+
+"
+Kaapor-25,Kaapor,Maíra wata,,,Maíra walked [Voluntarily] (Duarte 2019 [10b] NS),English,,"# sent_id = 25
+# text = Maíra wata
+# text_eng = Maíra walked [Voluntarily] (Duarte 2019 [10b] NS)
+1	Maíra	Maíra	PROPN	pn	_	2	nsubj	2:nsubj	_
+2	wata	wata	VERB	vt	_	0	root	0:root	_
+
+"
+Kaapor-26,Kaapor,Anake heɁõɁɪ,,,Ana got tired (Duarte 2014 [3] NS),English,,"# sent_id = 26
+# text = Anake heɁõɁɪ
+# text_eng = Ana got tired (Duarte 2014 [3] NS)
+1	Anake	Ana	PROPN	pn	_	2	nmod	2:nmod	_
+2	heɁõɁɪ	eɁõɁɪ	NOUN	n	Rel=NCont	0	root	0:root	_
+
+"
+Kaapor-27,Kaapor,aʔeke ipɪke tukwa,,,He has hurt his own foot (Duarte 2014 [30] NS),English,,"# sent_id = 27
+# text = aʔeke ipɪke tukwa
+# text_eng = He has hurt his own foot (Duarte 2014 [30] NS)
+1	aʔeke	aʔe	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ipɪke	pɪ	NOUN	n	Case=Aff|Rel=NCont	3	obj	3:obj	_
+3	tukwa	tukwa	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-28,Kaapor,aʔeke ehake tukwatĩ,,,He has hurt his own eye (Duarte 2014 [31] NS),English,,"# sent_id = 28
+# text = aʔeke ehake tukwatĩ
+# text_eng = He has hurt his own eye (Duarte 2014 [31] NS)
+1	aʔeke	aʔe	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ehake	eha	NOUN	n	Case=Aff|Rel=Cont	3	obj	3:obj	_
+3	tukwatĩ	tukwa	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-29,Kaapor,mɪra pirerke teʔe pirawan muwak,,,The bark of the tree will really turn into a fishlike being (Duarte 2014 [42] NS),English,,"# sent_id = 29
+# text = mɪra pirerke teʔe pirawan muwak
+# text_eng = The bark of the tree will really turn into a fishlike being (Duarte 2014 [42] NS)
+1	mɪra	mɪra	NOUN	n	_	5	nsubj	5:nsubj	_
+2	pirerke	pirer	NOUN	n	Case=Aff	1	nmod	1:nmod	_
+3	teʔe	teʔe	ADV	adv	_	5	advmod	5:advmod	_
+4	pirawan	pirawan	NOUN	n	_	5	obj	5:obj	_
+5	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+"
+Kaapor-30,Kaapor,ihẽke ajumukahem,,,I was frightened (Duarte 2014 [43] NS),English,,"# sent_id = 30
+# text = ihẽke ajumukahem
+# text_eng = I was frightened (Duarte 2014 [43] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	2:nsubj	_
+2	ajumukahem	kahem	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+"
+Kaapor-31,Kaapor,ne ihẽ miʔuke reʔutĩ,,,you usually eat my food [‘you usually eat it voluntarily.ʔ] (Duarte 2019 [14] NS),English,,"# sent_id = 31
+# text = ne ihẽ miʔuke reʔutĩ
+# text_eng = you usually eat my food [‘you usually eat it voluntarily.ʔ] (Duarte 2019 [14] NS)
+1	ne	ne	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ihẽ	ihẽ	PRON	pro	_	3	nmod	3:nmod	_
+3	miʔuke	miʔu	NOUN	n	Rel=Cont	4	obj	4:obj	_
+4	reʔutĩ	eʔu	VERB	vt	Number=Sing|Person=2	0	root	0:root	_
+
+"
+Kaapor-32,Kaapor,apo pehẽ ihẽke peharõta,,,Now you will wait for me (Duarte 2019 [31] NS),English,,"# sent_id = 32
+# text = apo pehẽ ihẽke peharõta
+# text_eng = Now you will wait for me (Duarte 2019 [31] NS)
+1	apo	apo	ADV	n	_	4	advmod	4:advmod	_
+2	pehẽ	pehẽ	PRON	pro	_	4	nsubj	4:nsubj	_
+3	ihẽke	ihẽ	PRON	pro	Case=Aff	4	obj	4:obj	_
+4	peharõta	harõ	VERB	vt	Number=Plur|Person=2|Tense=Fut	0	root	0:root	_
+
+"
+Kaapor-33,Kaapor,aʔe ʔokke mujã,,,He has made the house (Duarte 2019 [34a] NS),English,,"# sent_id = 33
+# text = aʔe ʔokke mujã
+# text_eng = He has made the house (Duarte 2019 [34a] NS)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ʔokke	ʔok	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	mujã	mujã	VERB	vt	Person=3	0	root	0:root	_
+
+"
+Kaapor-34,Kaapor,ihẽ ʔok amujã,,,I have made a house (Duarte 2019 [34b] NS),English,,"# sent_id = 34
+# text = ihẽ ʔok amujã
+# text_eng = I have made a house (Duarte 2019 [34b] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ʔok	ʔok	NOUN	n	_	3	obj	3:obj	_
+3	amujã	mujã	VERB	vt	Number=Sing|Person=1	0	root	0:root	_
+
+"
+Kaapor-35,Kaapor,ihẽke uʔi akarãj,,,I mashed manioc (in order to produce cassava flour) (Duarte 2019 [42] NS),English,,"# sent_id = 35
+# text = ihẽke uʔi akarãj
+# text_eng = I mashed manioc (in order to produce cassava flour) (Duarte 2019 [42] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
+2	uʔi	uʔi	NOUN	n	_	3	obj	3:obj	_
+3	akarãj	karãj	VERB	vt	Number=Sing|Person=1	0	root	0:root	_
+
+"
+Kaapor-36,Kaapor,neke uʔike rekarãjta,,,You will mash a specific amount of manioc (in order to produce cassava flour) (Duarte 2019 [43] NS),English,,"# sent_id = 36
+# text = neke uʔike rekarãjta
+# text_eng = You will mash a specific amount of manioc (in order to produce cassava flour) (Duarte 2019 [43] NS)
+1	neke	ne	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	rekarãjta	karãj	VERB	vt	Number=Sing|Person=2|Tense=Fut	0	root	0:root	_
+
+"
+Munduruku-1,Munduruku,Ajojot jekobe be cum,,,Grandpa goes in the canoe,English,,"# document_source = Mõnjoroko ã'õ - Cartilha Mundurukú 2. SIL, 1965.
+# document_title = Mundurukú_text_2
+# document_authorship = transcribed and annotated by Fabrício F Gerardi and Eva Huber
+# sent_id = 1
+# text = Ajojot jekobe be cum
+# text_eng = Grandpa goes in the canoe
+1	Ajojot	ajojot	NOUN	n	_	4	nsubj	4:nsubj	_
+2	jekobe	jekobe	NOUN	n	_	4	obl	4:obl	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+4	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
+
+"
+Munduruku-2,Munduruku,jexat o'tobuxik,,,He found food,English,,"# sent_id = 2
+# text = jexat o'tobuxik
+# text_eng = He found food
+1	jexat	xat	NOUN	n	Poss=Yes	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Number=Sing|Person=33	0	root	0:root	_
+
+"
+Munduruku-3,Munduruku,Tit tak o'titobuxik tu ?,,,Did he also find flowers ?,English,,"# sent_id = 3
+# text = Tit tak o'titobuxik tu ?
+# text_eng = Did he also find flowers ?
+1	Tit	dit	NOUN	n	_	3	obl	3:obl	_
+2	tak	tak	ADV	adv	_	3	advmod	3:advmod	_
+3	o'titobuxik	dobuxik	VERB	vt	Aspect=Perf|Number=Sing|Person=33	0	root	0:root	_
+4	tu	tu	PART	qpart	_	3	dep	3:dep	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+"
+Munduruku-4,Munduruku,Ka'ũma !,,,no!,English,,"# sent_id = 4
+# text = Ka'ũma !
+# text_eng = no!
+1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+"
+Munduruku-6,Munduruku,Ka'ũma !,,,no!,English,,"# sent_id = 6
+# text = Ka'ũma !
+# text_eng = no!
+1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+"
+Munduruku-7,Munduruku,Tawe oajẽm iku be,,,The capuchin monkey came/arrived to/at the slash,English,,"# sent_id = 7
+# text = Tawe oajẽm iku be
+# text_eng = The capuchin monkey came/arrived to/at the slash
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+3	iku	ku	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+
+"
+Munduruku-8,Munduruku,Jexat o'tobuxik iku be,,,He found food it in the slash,English,,"# sent_id = 8
+# text = Jexat o'tobuxik iku be
+# text_eng = He found food it in the slash
+1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=33	0	root	0:root	_
+3	iku	ku	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+
+"
+Munduruku-9,Munduruku,Xa iku xe,,,The pequi tree is/lies near the slash,English,,"# sent_id = 9
+# text = Xa iku xe
+# Text_eng = The pequi tree is/lies near the slash
+1	Xa	xa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	iku	ku	NOUN	n	_	0	root	0:root	_
+3	xe	xe	ADP	pp	_	2	case	2:case	_
+
+"
+Munduruku-10,Munduruku,Tawe oajẽm xa xe,,,The capuchin monkey came/arrived to/at the pequi tree,English,,"# sent_id = 10
+# text = Tawe oajẽm xa xe
+# text_portuguese = O macaco-prego chegou perto do pequizeiro
+# text_eng = The capuchin monkey came/arrived to/at the pequi tree
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+3	xa	xa	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+"
+Munduruku-11,Munduruku,Tawe oajẽm ka xe,,,The capuchin monkey came/arrived to/at the chief's land,English,,"# sent_id = 11
+# text = Tawe oajẽm ka xe
+# text_portuguese = O macaco-prego chegou perto do terrano do chefe
+# Text_eng = The capuchin monkey came/arrived to/at the chief's land
+# sent_structure = SV
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+3	ka	ka	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+"
+Munduruku-12,Munduruku,Toxaw oajẽm ka be,,,The chief came/arrived to/at the place where the capuchin monkey was,English,,"# sent_id = 12
+# text = Toxaw oajẽm ka be
+# text_portuguese = O chefe chegou ao lugar onde estava o macaco-prego
+# text_eng = The chief came/arrived to/at the place where the capuchin monkey was
+# sent_structure = SV
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+3	ka	ka	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+
+"
+Munduruku-13,Munduruku,Toxaw dak jexat o'tobuxik,,,The chief also found the food,English,,"# sent_id = 13
+# text = Toxaw dak jexat o'tobuxik
+# text_portuguese = O chefe também achou a comida
+# text_eng = The chief also found the food
+1	Toxaw	toxaw	NOUN	n	_	4	obl	4:obl	_
+2	dak	dak	ADV	adv	_	4	advmod	4:advmod	_
+3	jexat	xat	NOUN	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+"
+Munduruku-14,Munduruku,Toxaw tawe o'tobuxik,,,The chief found the capuchin monkey,English,,"# sent_id = 14
+# text = Toxaw tawe o'tobuxik
+# text_portuguese = O chefe também achou o macaco-prego
+# text_eng = The chief found the capuchin monkey
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+"
+Munduruku-15,Munduruku,Xa xe tawe o'tobuxik,,,He found the capuchin monkey near the pequi tree,English,,"# sent_id = 15
+# text = Xa xe tawe o'tobuxik
+# text_portuguese = Ele achou o macaco-prego pero do pequizeiro.
+# text_eng = He found the capuchin monkey near the pequi tree
+1	Xa	xa	NOUN	n	_	4	obl	4:obl	_
+2	xe	xe	ADP	pp	_	1	case	1:case	_
+3	tawe	tawe	NOUN	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+"
+Munduruku-16,Munduruku,Ikibit awi kay,,,The sister wants a needle,English,,"# sent_id = 16
+# text = Ikibit awi kay
+# text_portuguese = A irmã quer uma agulha.
+# text_eng = The sister wants a needle
+1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
+2	awi	awi	NOUN	n	_	1	nmod	_	_
+3	kay	kay	ADP	pp	Rel=Cont	2	case	_	_
+
+"
+Munduruku-17,Munduruku,"Awawa oajẽm ika be , jekibit ka be",,,The grandmother came/arrived at the sister's land.,English,,"# sent_id = 17
+# text = Awawa oajẽm ika be , jekibit ka be
+# text_portuguese = Vovo chegou ao terreno da irma.
+# text_eng = The grandmother came/arrived at the sister's land.
+1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+3	ika	ika	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	jekibit	_	NOUN	n	_	7	nmod	7:nmod	_
+7	ka	ka	NOUN	n	_	3	appos	3:appos	_
+8	be	be	ADP	pp	Rel=Cont	7	case	7:case	_
+
+"
+Munduruku-18,Munduruku,Awi awawa bubut,,,The needle belongs to (?) the grandmother.,English,,"# sent_id = 18
+# text = Awi awawa bubut
+# text_portuguese = A agulha é da vovo.
+# text_eng = The needle belongs to (?) the grandmother.
+1	Awi	awi	NOUN	n	_	3	nsubj	3:nsubj	_
+2	awawa	awawa	NOUN	n	_	1	nmod	1:nmod	_
+3	bubut	bubut	VERB	cop	_	0	root	0:root	_
+
+"
+Munduruku-19,Munduruku,Ite awi o'tobuxik,,,She found the needle.,English,,"# sent_id = 19
+# text = Ite awi o'tobuxik
+# text_portuguese = Ela achou a agulha.
+# text_eng = She found the needle.
+1	Ite	ite	PRON	pro	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+
+"
+Munduruku-20,Munduruku,Awawa o'tobuxik,,,The grandmother found (it?),English,,"# sent_id = 20
+# text = Awawa o'tobuxik
+# text_portuguese = Vovo achou.
+# text_eng = The grandmother found (it?)
+# sent_structure = SV
+1	Awawa	awawa	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+
+"
+Munduruku-22,Munduruku,Toxaw tawe o'tobuxik tu ?,,,Did the chief find the capuchin monkey?,English,,"# sent_id = 22
+# text = Toxaw tawe o'tobuxik tu ?
+# text_portuguese = O chefe achou o macaco-prego?
+# text_eng = Did the chief find the capuchin monkey?
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	tu	tu	PART	pcl	_	3	dep	3:dep	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+"
+Munduruku-23,Munduruku,Abu tawe o'tobuxik ?,,,Who found the capuchin monkey?,English,,"# sent_id = 23
+# text = Abu tawe o'tobuxik ?
+# text_portuguese = Quem achou o macaco-prego?
+# text_eng = Who found the capuchin monkey?
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+"
+Munduruku-24,Munduruku,Abu awi o'tobuxik ?,,,Who found the needle?,English,,"# sent_id = 24
+# text = Abu awi o'tobuxik ?
+# text_portuguese = Quem achou a agulha?
+# text_eng = Who found the needle?
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+"
+Munduruku-25,Munduruku,Abu jexat o'tobuxik ?,,,Who found the food?,English,,"# sent_id = 25
+# text = Abu jexat o'tobuxik ?
+# text_portuguese = Quem achou a comida?
+# text_eng = Who found the food?
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	jexat	xat	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+"
+Munduruku-26,Munduruku,Abu awi kay ?,,,Who wants a needle?,English,,"# sent_id = 26
+# text = Abu awi kay ?
+# text_portuguese = Quem quer agulha?
+# text_eng = Who wants a needle?
+1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
+2	awi	awi	NOUN	n	_	0	root	0:root	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+"
+Munduruku-27,Munduruku,Abu o'titobuxik ?,,,Who found the flowers?,English,,"# sent_id = 27
+# text = Abu o'titobuxik ?
+# text_portuguese = Quem achou as flôres?
+# text_eng = Who found the flowers?
+1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
+2	o'titobuxik	dobuxik	VERB	v	Aspect=Perf|Incorp=Yes|Person=3	0	root	0:root	_
+3	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+"
+Munduruku-28,Munduruku,Awawa awi o'tobuxik jekibit ka be,,,The grandmother found a needle on her sister's land.,English,,"# sent_id = 28
+# text = Awawa awi o'tobuxik jekibit ka be
+# text_portuguese = Vovó achou uma agulha no terreno da irmã.
+# text_eng = The grandmother found a needle on her sister's land.
+1	Awawa	awawa	NOUN	n	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+4	jekibit	jekibit	NOUN	n	_	5	nmod	5:nmod	_
+5	ka	ka	NOUN	n	_	3	obl	3:obl	_
+6	be	be	ADP	pp	_	5	case	5:case	_
+
+"
+Munduruku-29,Munduruku,Oexe awawa,,,The grandmother arrived home.,English,,"# sent_id = 29
+# text = Oexe awawa
+# text_portuguese = Vovó chegou em casa.
+# text_eng = The grandmother arrived home.
+1	Oexe	xe	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+2	awawa	awawa	NOUN	n	_	1	obl	1:obl	_
+
+"
+Munduruku-30,Munduruku,Toxaw dak oexe,,,The chief has/owns also a house. (?),English,,"# sent_id = 30
+# text = Toxaw dak oexe
+# text_portuguese = O chefe tambem chegou em casa.
+# text_eng = The chief has/owns also a house. (?)
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	dak	dak	ADV	adv	_	3	advmod	3:advmod	_
+3	oexe	xe	VERB	v	_	0	root	0:root	_
+
+"
+Munduruku-31,Munduruku,Awawa tawe kay,,,The grandmother wants the capuchin monkey.,English,,"# sent_id = 31
+# text = Awawa tawe kay
+# text_portuguese = Vovó quer o macaco-prego.
+# text_eng = The grandmother wants the capuchin monkey.
+1	Awawa	awawa	NOUN	n	_	0	root	0:root	_
+2	tawe	tawe	NOUN	n	_	1	nmod	1:nmod	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+
+"
+Munduruku-32,Munduruku,Toxaw tawe o'tobuxik,,,The chief found the capuchin monkey.,English,,"# sent_id = 32
+# text = Toxaw tawe o'tobuxik
+# text_portuguese = O chefe achou o macaco-prego.
+# text_eng = The chief found the capuchin monkey.
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+
+"
+Munduruku-33,Munduruku,Jexat o'tobuxik,,,He found the food.,English,,"# sent_id = 33
+# text = Jexat o'tobuxik
+# text_portuguese = Ele achou, a comida.
+# text_eng = He found the food.
+1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+
+"
+Munduruku-34,Munduruku,"Tawe ixat , toxaw xat",,,The chief eats the capuchin monkey.,English,,"# sent_id = 34
+# text = Tawe ixat , toxaw xat
+# text_portuguese = O chefe come macaco-prego.
+# text_eng = The chief eats the capuchin monkey.
+1	Tawe	tawe	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ixat	xat	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	toxaw	toxaw	NOUN	n	_	5	nmod	5:nmod	_
+5	xat	xat	NOUN	n	_	2	appos	2:appos	_
+
+"
+Munduruku-35,Munduruku,Awawa ixaxet,,,The grandmother has food.,English,,"# sent_id = 35
+# text = Awawa ixaxet
+# text_portuguese = Vovó tem comida.
+# text_eng = The grandmother has food.
+1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ixaxet	xat	NOUN	n	Red=Ex	0	root	0:root	_
+
+"
+Munduruku-36,Munduruku,Awawa ixiwe kay,,,The grandmother wants an embira plant .,English,,"# sent_id = 36
+# text = Awawa ixiwe kay
+# text_portuguese = Vovo quer embira.
+# text_eng = The grandmother wants an embira plant .
+1	Awawa	awawa	NOUN	n	_	0	root	0:root	_
+2	ixiwe	ixiwe	NOUN	n	_	1	nmod	1:nmod	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+
+"
+Munduruku-37,Munduruku,Ixiwe ako xe,,,The embira plant is close to the banana tree.,English,,"# sent_id = 37
+# text = Ixiwe ako xe
+# text_portuguese = A embira esta perto da bananeira.
+# text_eng = The embira plant is close to the banana tree.
+1	Ixiwe	ixiwe	NOUN	n	_	0	root	_	_
+2	ako	ako	NOUN	n	_	1	nmod	_	_
+3	xe	xe	ADP	pp	_	2	case	_	_
+
+"
+Munduruku-38,Munduruku,Awawa cum ako xe,,,Grandma goes near the banana tree.,English,,"# sent_id = 38
+# text = Awawa cum ako xe
+# text_portuguese = Vovó vai perto da bananeira.
+# text_eng = Grandma goes near the banana tree.
+1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
+3	ako	ako	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+"
+Munduruku-39,Munduruku,Ixiwe o'tobuxik ako xe,,,She found the embira plant close to the banana tree.,English,,"# sent_id = 39
+# text = Ixiwe o'tobuxik ako xe
+# text_portuguese = Ela achou embira perto da bananeira.
+# text_eng = She found the embira plant close to the banana tree.
+1	Ixiwe	ixiwe	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+3	ako	ako	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+"
+Munduruku-40,Munduruku,cum jeku be,,,He is in the slah.,English,,"# sent_id = 40
+# text = cum jeku be
+# text_portuguese = Está na roça.
+# text_eng = He is in the slah.
+1	cum	cu	VERB	vi	Aspect=Imp	0	root	0:root	_
+2	jeku	jeku	NOUN	n	Reflex=Yes	1	obl	1:obl	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+
+"
+Munduruku-41,Munduruku,Awawa jeku be oajẽm,,,The grandmother arrived/came to her slash.,English,,"# sent_id = 41
+# text = Awawa jeku be oajẽm
+# text_portuguese = Vovo chegou a roca.
+# text_eng = The grandmother arrived/came to her slash.
+1	Awawa	awawa	NOUN	n	_	4	obl	_	_
+2	jeku	ku	NOUN	n	_	4	obl	_	_
+3	be	be	ADP	pp	_	2	case	_	_
+4	oajẽm	ajẽm	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+
+"
+Munduruku-42,Munduruku,Akoba iku be opop .,,,The bananas lay in her slash.,English,,"# sent_id = 42
+# text = Akoba iku be opop .
+# text_portuguese = As bananas estao na roca.
+# text_eng = The bananas lay in her slash.
+1	Akoba	Akoba	NOUN	n	_	4	nsubj	4:nsubj	_
+2	iku	iku	NOUN	n	_	1	nmod	1:nmod	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+4	opop	opop	VERB	cop	_	0	root	0:root	_
+5	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+"
+Munduruku-43,Munduruku,"Tit tak iku be opop , awawa ku be .",,,The flower lies also in her slash -- in the grandmother's slash.,English,,"# sent_id = 43
+# text = Tit tak iku be opop , awawa ku be .
+# text_portuguese = A flor também esta na roca -- na roca da vovo.
+# text_eng = The flower lies also in her slash -- in the grandmother's slash.
+1	Tit	dit	NOUN	n	_	5	nsubj	5:nsubj	_
+2	tak	tak	ADV	adv	_	5	advmod	5:advmod	_
+3	iku	ku	NOUN	n	_	1	nmod	1:nmod	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+5	opop	opop	VERB	cop	_	0	root	0:root	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	awawa	awawa	NOUN	n	_	8	nmod	8:nmod	_
+8	ku	ku	NOUN	n	_	3	appos	3:appos	_
+9	be	be	ADP	pp	_	8	case	8:case	_
+10	.	.	PUNCT	punct	_	8	punct	8:punct	_
+
+"
+Munduruku-44,Munduruku,Ixi uk'a be,,,The mother is at home,English,,"# sent_id = 44
+# text = Ixi uk'a be
+# text_portuguese = A mãe está em casa.
+# text_eng = The mother is at home
+1	Ixi	ixi	NOUN	n	_	2	nsubj	2:nsubj	_
+2-3	uk'a	_	_	_	_	_	_	_	_
+2	uk	uk	NOUN	n	_	0	root	0:root	_
+3	'a	'a	NOUN	cl	_	2	clf	2:clf	_
+4	be	be	ADP	pp	_	2	case	2:case	_
+
+"
+Munduruku-45,Munduruku,I'it tak uk'a be,,,The son is also at home. (in the house),English,,"# sent_id = 45
+# text = I'it tak uk'a be
+# text_portuguese = O filho também esta em casa.
+# text_eng = The son is also at home. (in the house)
+1	I'it	'it	NOUN	n	_	3	nsubj	_	_
+2	tak	tak	ADV	adv	_	3	advmod	_	_
+3	uk'a	uk'a	NOUN	n	_	0	root	_	_
+4	be	be	ADP	pp	_	3	case	_	_
+
+"
+Munduruku-46,Munduruku,Toxaw oexe,,,The chief arrived at/ came home.,English,,"# sent_id = 46
+# text = Toxaw oexe
+# text_portuguese = O chefe chegou a casa.
+# text_eng = The chief arrived at/ came home.
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
+2	oexe	xe	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+
+"
+Munduruku-47,Munduruku,I'it wa du ?,,,Is the son crying?,English,,"# sent_id = 47
+# text = I'it wa du ?
+# text_portuguese = O filho esta chorando?
+# text_eng = Is the son crying?
+1	I'it	'it	NOUN	n	_	2	nsubj	2:nsubj	_
+2	wa	wa	VERB	vx	_	0	root	0:root	_
+3	du	du	PART	pcl	_	2	discourse	2:discourse	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+"
+Munduruku-49,Munduruku,Toxaw i'it o'tobuxik uk'a be .,,,The chief found the son at home / in the house.,English,,"# sent_id = 49
+# text = Toxaw i'it o'tobuxik uk'a be .
+# text_portuguese = O chefe achou o filho em casa.
+# text_eng = The chief found the son at home / in the house.
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	i'it	i'it	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	0:root	_
+4-5	uk'a	_	_	_	_	_	_	_	_
+4	uk	uk	NOUN	n	_	3	obl	3:obl	_
+5	'a	'a	NOUN	cl	_	4	nmod	4:nmod	_
+6	be	be	ADP	pp	_	4	case	4:case	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+"
+Munduruku-50,Munduruku,I'it ixet,,,The son is sleeping.,English,,"# sent_id = 50
+# text = I'it ixet
+# text_portuguese = O filho esta dormindo.
+# text_eng = The son is sleeping.
+1	I'it	'it	NOUN	n	_	2	nsubj	_	_
+2	ixet	xet	VERB	v:st	_	0	root	_	_
+
+"
+Munduruku-51,Munduruku,Ixi wa'e kug̃,,,The mother has a gourd.,English,,"# sent_id = 51
+# text = Ixi wa'e kug̃
+# text_portuguese = A mãe tem uma cuia.
+# text_eng = The mother has a gourd.
+1	Ixi	ixi	NOUN	n	_	3	nsubj	3:nsubj	_
+2	wa'e	wa'e	NOUN	n	_	3	obj	3:obj	_
+3	kug̃	kug̃	VERB	vx	_	0	root	0:root	_
+
+"
+Munduruku-52,Munduruku,"Wa'e ibubut , ixi bubut",,,The gourd is hers.,English,,"# sent_id = 52
+# text = Wa'e ibubut , ixi bubut
+# text_portuguese = A cuia e dela.
+# text_eng = The gourd is hers.
+1	Wa'e	wa'e	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ibubut	bubut	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	ixi	ixi	NOUN	n	_	5	nsubj	5:nsubj	_
+5	bubut	bubut	NOUN	n	_	2	appos	2:appos	_
+
+"
+Munduruku-53,Munduruku,Wexik'a kake wa'e be,,,There is sweet-potatoe in the gourd,English,,"# sent_id = 53
+# text = Wexik'a kake wa'e be
+# text_portuguese = Há batata-doce na cuia.
+# text_eng = There is sweet-potatoe in the gourd
+1-2	Wexik'a	_	_	_	_	_	_	_	_
+1	Wexik	wexik	NOUN	n	_	3	nsubj	3:nsubj	_
+2	'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
+3	kake	kake	VERB	cop	_	0	root	0:root	_
+4	wa'e	wa'e	NOUN	n	_	1	nmod	1:nmod	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+
+"
+Munduruku-54,Munduruku,"Ixat'a kake wa'e be , uk'a be",,,"There is food in the gourd, at home.",English,,"# sent_id = 54
+# text = Ixat'a kake wa'e be , uk'a be
+# text_portuguese = Tem comida na cuia, em casa.
+# text_eng = There is food in the gourd, at home.
+1-2	Ixat'a	_	_	_	_	_	_	_	_
+1	Ixat	xat	NOUN	n	_	3	nsubj	3:nsubj	_
+2	'a	'a	NOUN	cl	_	1	nmod	1:nmod	_
+3	kake	kake	VERB	cop	_	0	root	0:root	_
+4	wa'e	wa'e	NOUN	n	_	1	nmod	1:nmod	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+7	uk'a	uk'a	NOUN	n	_	1	nmod	1:nmod	_
+8	be	be	ADP	pp	_	7	case	7:case	_
+
+"
+Munduruku-55,Munduruku,Wa'e uk'a be opop,,,The gourd is/lies in the house.,English,,"# sent_id = 55
+# text = Wa'e uk'a be opop
+# text_portuguese = A cuia está na casa.
+# text_eng = The gourd is/lies in the house.
+1	Wa'e	wa'e	NOUN	n	_	4	nsubj	4:nsubj	_
+2	uk'a	uk'a	NOUN	n	_	1	nmod	1:nmod	_
+3	be	be	ADP	pp	_	2	case	2:case	_
+4	opop	opop	VERB	cop	_	0	root	0:root	_
+
+"
+Munduruku-56,Munduruku,puybit ka'ũmg̃u o'e,,,There is no food,English,,"# sent_id = 56
+# text = puybit ka'ũmg̃u o'e
+# text_portuguese = Não há comida Vol 5 p39-1
+# text_eng = There is no food
+1	puybit	puybit	NOUN	n	_	2	nsubj	_	_
+2	ka'ũmg̃u	ka'ũmg̃u	VERB	cop	_	0	root	_	_
+3	o'e	'e	VERB	vi	Aspect=Perf|Evident=Nfh|Person=3	1	discourse	_	_
+
+"
+Munduruku-57,Munduruku,ag̃okatkat o'ju puybit aokam,,,The men went to kill the hunt,English,,"# sent_id = 57
+# text = ag̃okatkat o'ju puybit aokam
+# text_portuguese = Os homens foram matar caça Vol 5 p39-2
+# text_eng = The men went to kill the hunt
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
+2	o'ju	cu	VERB	vi	_	0	root	0:root	_
+3	puybit	puybit	NOUN	n	_	4	obj	4:obj	_
+4	aokam	aoka	VERB	vt	Aspect=Imp|Person=3	2	ccomp	2:ccomp	_
+
+"
+Munduruku-58,Munduruku,oexexe ip uk'a be puybit kukug̃,,,They arrived home with a hunted thing,English,,"# sent_id = 58
+# text = oexexe ip uk'a be puybit kukug̃
+# text_portuguese = Eles chegaram em casa com caça Vol 5 p39-3
+# text_eng = They arrived home with a hunted thing
+1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	0:root	_
+2	ip	ip	PART	pcl	_	1	dep	1:dep	_
+3-4	uk'a	_	_	_	_	_	_	_	_
+3	uk	uk	NOUN	n	_	1	obj	1:obj	_
+4	'a	'a	NOUN	cl	_	3	nmod	3:nmod	_
+5	be	be	ADP	pp	_	3	case	3:case	_
+6	puybit	puybit	NOUN	n	_	7	obj	7:obj	_
+7	kukug̃	kukug̃	VERB	vt	Aspect=Imp|Number=Plur|Person=3	1	dep	1:dep	_
+
+"
+Munduruku-59,Munduruku,"Daje ade o'yaoka ip pima , puybit kuka o'e ade",,,"There is a lot of food, when they kill (a) pig(s)",English,,"# sent_id = 59
+# text = Daje ade o'yaoka ip pima , puybit kuka o'e ade
+# text_portuguese = Quando eles matam muito porco, tem muita bóia vol5 p40
+# text_eng = There is a lot of food, when they kill (a) pig(s)
+1	Daje	daje	NOUN	n	_	3	obl	3:obl	_
+2	ade	ade	PRON	pro	_	1	nmod	1:nmod	_
+3	o'yaoka	aoka	VERB	vt	_	7	advcl	7:advcl	_
+4	ip	ip	PART	pcl	_	3	obl	3:obl	_
+5	pima	pima	ADP	pp	_	3	case	3:case	_
+6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+7	puybit	puybit	NOUN	n	_	0	root	0:root	_
+8	kuka	kuka	X	x	_	7	dep	7:dep	_
+9	o'e	'e	VERB	v	Evident=Nfh	7	dep	7:dep	_
+10	ade	ade	PRON	pro	_	7	nmod	7:nmod	_
+
+"
+Munduruku-60,Munduruku,Soat bekitkit ibeg̃beg̃ o'e ade puybit puye,,,All children were/became satisfied because of so much food,English,,"# sent_id = 60
+# text = Soat bekitkit ibeg̃beg̃ o'e ade puybit puye
+# text_portuguese = Todas as crian ças ficaram satisfeitas por causa de muita comida.
+# text_eng = All children were/became satisfied because of so much food
+1	Soat	Soat	PRON	_	_	2	nmod	_	_
+2	bekitkit	bekitkit	NOUN	n	_	0	root	_	_
+3	ibeg̃beg̃	beg̃beg̃	ADJ	_	_	2	amod	_	_
+4	o'e	'e	VERB	v	Evident=Nfh	2	dep	_	_
+5	ade	ade	PRON	pro	_	6	nmod	_	_
+6	puybit	puybit	NOUN	n	_	2	advcl	_	_
+7	puye	puye	ADP	_	_	6	case	_	_
+
+"
+Munduruku-61,Munduruku,Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe,,,in the morning the spider is busy webmaking (lit. making trousers) vol 5 36,English,,"# sent_id = 61
+# text = Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe
+# text_portuguese = A aranha eatá octfpada de dia fazendo a teia perto do fogo.
+# text_eng = in the morning the spider is busy webmaking (lit. making trousers) vol 5 36
+1	Kabiam	Kabiam	ADV	adv	_	3	amod	3:amod	_
+2	doa	_	NOUN	n	_	5	nsubj	5:nsubj	_
+3	iba'orere	ba'orere	ADJ	adj	_	2	amod	2:amod	_
+4	jedoti	_	NOUN	n	_	5	obl	5:obl	_
+5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurIprf	0	root	0:root	_
+6	daxa	daxa	NOUN	n	_	5	obj	5:obj	_
+7	xe	xe	ADP	pp	_	6	case	6:case	_
+
+"
+Munduruku-100,Munduruku,"Karosakaybu daje o'g̃uju , tacup puye ip .",,,"K transformed people in pigs, becaus they were stealing food",English,,"# sent_id = 100
+# text = Karosakaybu daje o'g̃uju , tacup puye ip .
+# text_port = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas
+# text_eng = K transformed people in pigs, becaus they were stealing food
+1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	3:obl	_
+2	daje	daje	NOUN	n	_	3	obl	3:obl	_
+3	o'g̃uju	ju	VERB	vt	Aspect=Perf|Number=Sing|Person=33|Voice=Cau	0	root	0:root	_
+4	,	,	PUNCT	punct	_	3	punct	3:punct	punct=
+5	tacup	tacup	VERB	v	_	3	advcl	3:advcl	_
+6	puye	puye	SCONJ	sc	_	5	mark	5:mark	_
+7	ip	ip	PART	pcl	_	5	nsubj	5:nsubj	_
+8	.	.	PUNCT	punct	_	5	punct	5:punct	punct=
+
+"
+Munduruku-101,Munduruku,pariwat tomuwã buje juy puybit ejomõg̃ mesa jeje,,,"when you call the non-indians, put food on the table Crofts 189",English,,"# sent_id = 101
+# text = pariwat tomuwã buje juy puybit ejomõg̃ mesa jeje
+# text_eng = when you call the non-indians, put food on the table Crofts 189
+1	pariwat	pariwat	NOUN	n	_	2	obj	2:obj	_
+2	tomuwã	tomuwã	VERB	v	_	6	dep	6:dep	_
+3	buje	buje	ADV	adv	_	2	advmod	2:advmod	_
+4	juy	juy	PART	pcl	_	6	discourse	6:discourse	_
+5	puybit	puybit	NOUN	n	_	6	obj	6:obj	_
+6	ejomõg̃	ejomõg̃	VERB	vt	Aspect=Perf|Mood=Imp	0	root	0:root	_
+7	mesa	mesa	NOUN	n	_	6	obl	6:obl	_
+8	jeje	jeje	ADP	pp	_	7	case	7:case	_
+
+"
+Munduruku-102,Munduruku,kabido xixi ajẽm puje soat o'at,,,Everything fell down when the storm came Crofts 100,English,,"# sent_id = 102
+# text = kabido xixi ajẽm puje soat o'at
+# text_eng = Everything fell down when the storm came Crofts 100
+1	kabido	kabido	NOUN	n	_	3	nsubj	3:nsubj	_
+2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
+3	ajẽm	ajẽm	VERB	vi	Aspect=Perf	6	advcl	6:advcl	_
+4	puje	puje	ADP	pp	Rel=Cont	3	mark	3:mark	_
+5	soat	soat	PRON	pro	_	6	obl	6:obl	_
+6	o'at	'at	VERB	vi	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
+
+"
+Munduruku-104,Munduruku,wexik'a kake ixi duk'a be,,,there is sweet-potato in mother’s house vol 2 13,English,,"# sent_id = 104
+# text = wexik'a kake ixi duk'a be
+# text_eng = there is sweet-potato in mother’s house vol 2 13
+1	wexik'a	wexik	NOUN	n	Noun=Clf	0	root	0:root	_
+2	kake	kake	AUX	aux	_	1	aux	1:aux	_
+3	ixi	xi	NOUN	n	Rel=NCont	4	nmod	4:nmod	_
+4	duk'a	uk	NOUN	n	Noun=Clf|Rel=Cont	1	obl	1:obl	_
+5	be	be	ADP	pp	Rel=Cont	4	case	4:case	_
+
+"
+Munduruku-105,Munduruku,oxi uk‘a be,,,"My mother is in the house [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2b)",English,,"# sent_id = 105
+# text = oxi uk‘a be
+# text_eng = My mother is in the house [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2b)
+1	oxi	xi	NOUN	n	Poss=Yes	2	nsubj	2:nsubj	_
+2-3	uk‘a	_	_	_	_	_	_	_	_
+2	uk	uk	NOUN	n	_	0	root	0:root	_
+3	‘a	‘a	NOUN	cl	_	2	clf	2:clf	_
+4	be	be	ADP	pp	_	2	case	2:case	_
+
+"
+Munduruku-106,Munduruku,wida ayacat o’yaoka Katõ be,,,"The jaguar killed the woman in the Katõ village. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2c)",English,,"# sent_id = 106
+# text = wida ayacat o’yaoka Katõ be
+# text_eng = The jaguar killed the woman in the Katõ village. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2c)
+1	wida	wida	NOUN	n	_	3	obl	3:obl	_
+2	ayacat	ayacat	NOUN	n	_	3	obl	3:obl	_
+3	o’yaoka	aoka	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	Katõ	Katõ	PROPN	pn	_	3	obl	3:obl	_
+5	be	be	ADP	pp	_	4	case	4:case	_
+
+"
+Munduruku-107,Munduruku,wetabut pe obure Wida o'yaoka,,,"My friend killed the jaguar. I am certain. (I saw it). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2d)",English,,"# sent_id = 107
+# text = wetabut pe obure Wida o'yaoka
+# text_eng = My friend killed the jaguar. I am certain. (I saw it). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2d)
+1	wetabut	etabut	VERB	vi	Person=1	5	dep	_	_
+2	pe	pe	ADP	pp	_	1	case	_	_
+3	obure	bure	NOUN	n	_	5	obl	_	_
+4	Wida	wida	NOUN	n	_	5	obl	_	_
+5	o'yaoka	aoka	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
+
+"
+Munduruku-108,Munduruku,bekicat o'akõm wetabut pe,,,"The girl drowned. I am certain. (I saw it) [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2e)",English,,"# sent_id = 108
+# text = bekicat o'akõm wetabut pe
+# text_eng = The girl drowned. I am certain. (I saw it) [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2e)
+1	bekicat	bekicat	NOUN	n	_	2	obl	_	_
+2	o'akõm	akõm	VERB	vi	Aspect=Perf|Person=3	0	root	_	_
+3	wetabut	etabut	VERB	vi	Person=1	2	dep	_	_
+4	pe	pe	ADP	pp	_	3	case	_	_
+
+"
+Munduruku-109,Munduruku,ẽn eg̃ũm kise ayacat pe,,,"You gave a knife to the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2f)",English,,"# sent_id = 109
+# text = ẽn eg̃ũm kise ayacat pe
+# text_eng = You gave a knife to the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2f)
+1	ẽn	ẽn	PRON	pro	_	2	obl	2:obl	_
+2	eg̃ũm	ũm	VERB	v	Aspect=Perf|Number=Sing|Person=2	0	root	0:root	_
+3	kise	kise	NOUN	n	_	2	obl	2:obl	_
+4	ayacat	ayacat	NOUN	n	_	2	obl	2:obl	_
+5	pe	pe	ADP	pp	_	4	case	4:case	_
+
+"
+Munduruku-111,Munduruku,puy bu bekicat o'joa,,,The snake bit (?) the child.,English,,"# sent_id = 111
+# text = puy bu bekicat o'joa
+# text_eng = The snake bit (?) the child.
+1	puy	puy	NOUN	noun	_	4	obl	4:obl	_
+2	bu	bu	NOUN	cl	_	1	clf	1:clf	_
+3	bekicat	bekicat	NOUN	noun	_	4	obl	4:obl	_
+4	o'joa	a	VERB	verb	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
+
+"
+Munduruku-112,Munduruku,õn bekicat ojoaat puy bu be,,,I made the snake bite the child.,English,,"# sent_id = 112
+# text = õn bekicat ojoaat puy bu be
+# text_eng = I made the snake bite the child.
+1	õn	õn	PRON	pron	_	3	dep	3:dep	_
+2	bekicat	bekicat	NOUN	noun	_	3	obl	3:obl	_
+3	ojoaat	a	VERB	vt	Aspect=Perf|Number=Sing|Person=3	0	root	0:root	_
+4	puy	puy	NOUN	noun	_	3	obl	3:obl	_
+5	bu	bu	NOUN	clf	_	4	clf	4:clf	_
+6	be	be	ADP	pp	_	1	case	1:case	_
+
+"
+Tupinamba-1,Tupinamba,"Mokõj ojoirundɨk , oito , ʔara sɨkeme , Tupã taʔɨra o sɨ swi i ʔar 'iré , judeus ekomoɲangáβo i ʔapira mondoki",,,"Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1",English,,"# document_title = Catecismo Araújo
+# document_authorship = Annotated by Fabrício Ferraz Gerardi
+# document_reference = Araujo_1618
+# sent_id = 1
+# text = Mokõj ojoirundɨk , oito , ʔara sɨkeme , Tupã taʔɨra o sɨ swi i ʔar 'iré , judeus ekomoɲangáβo i ʔapira mondoki
+# text_eng = Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1
+1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	2:nummod	_
+2	ojoirundɨk	ojoirundɨk	NUM	num	NumType=Card	6	nummod	6:nummod	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	oito	oito	NUM	num	_	2	appos	2:appos	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	7	nsubj	7:nsubj	_
+7	sɨkeme	sɨk	VERB	vi	Mood=Sub	0	root	0:root	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	Tupã	tupã	NOUN	n	_	10	nmod	10:nmod	_
+10	taʔɨra	taʔɨr	NOUN	n	Case=Ref	15	nsubj	15:nsubj	_
+11	o	o	PRON	pro	Reflex=Yes	12	nmod	12:nmod	_
+12	sɨ	sɨ	NOUN	n	_	10	nmod	10:nmod	_
+13	swi	swi	ADP	pp	_	12	case	12:case	_
+14	i	i	PRON	pro	Rel=NCont	15	nmod	15:nmod	_
+15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl	_
+16	'iré	'iré	ADP	pp	_	15	mark	15:mark	_
+17	,	,	PUNCT	punct	_	15	punct	15:punct	_
+18	judeus	judeu	NOUN	n	_	19	nmod	19:nmod	_
+19	ekomoɲangáβo	ekomoɲaŋ	NOUN	n	Case=Loc	22	nmod	22:nmod	_
+20	i	i	PRON	pro	Rel=NCont	21	nmod	21:nmod	_
+21	ʔapira	apira	NOUN	n	Case=Ref	22	nmod	22:nmod	_
+22	mondoki	mondoki	NOUN	n	_	7	advcl	7:advcl	_
+
+"
+Tupinamba-2,Tupinamba,Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo,,,It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2,English,,"# sent_id = 2
+# text = Ã tekó aʔereme moreroka kwe βɨá Jesus nongi seramo
+# text_eng = It was then customary to baptize [remove the name]: they put as his name that of Jesus January 2
+1	Ã	ã	PART	part	_	2	discourse	_	_
+2	tekó	tekó	NOUN	n	Rel=NCont	0	root	_	_
+3	aʔereme	aʔe	ADV	adv	_	2	advmod	_	_
+4	moreroka	poreroka	NOUN	n	Animacy=Hum|Case=Ref	2	acl	_	_
+5	kwe	kwe	DET	dem	_	7	nmod	_	_
+6	βɨá	βɨá	PART	part	_	7	discourse	_	_
+7	Jesus	Jesus	NOUN	n	_	8	nmod	_	_
+8	nongi	nong	NOUN	n	_	2	parataxis	_	_
+9	seramo	seramo	NOUN	n	Case=Tra|Rel=NCont	8	obl	_	_
+
+"
+Tupinamba-4,Tupinamba,Mbaʔepe i mongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?,,,In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1,Portuguese,,"# sent_id = 4
+# text = Mbaʔepe i mongaraiβɨpɨra jeroβjasaβeté Tupã moɲɨrõ potasáβamo ?
+# text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
+1-2	Mbaʔepe	_	_	_	_	_	_	_	_
+1	mbaʔe	mbaʔe	NOUN	noun	_	5	obj	5:obj	_
+2	pe	pe	PART	qprt	_	1	discourse	1:discourse	_
+3	i	i	PRON	pro	_	4	nmod	4:nmod	_
+4	mongaraiβɨpɨra	moŋgaraiβ	NOUN	n	Case=Ref|Nomzr=DevPass	5	nsubj	5:nsubj	_
+5	jeroβjasaβeté	jeroβja	NOUN	n	_	0	root	0:root	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
+7	moɲɨrõ	moɲɨrõ	NOUN	n	_	8	nmod	8:nmod	_
+8	potasáβamo	pota	NOUN	n	Case=Tra|Nomzr=Circ|VerbForm=Ger	5	advcl	5:advcl	_
+9	?	?	PUNCT	punct	_	5	punct	5:punct	_
+
+"
+Tupinamba-5,Tupinamba,Jandéjara JesusCristo reʔõawera,,,The death of our lord JC book 3-1,English,,"# sent_id = 5
+# text = Jandéjara JesusCristo reʔõawera
+# text_eng = The death of our lord JC book 3-1
+1-2	Jandéjara	_	_	_	_	_	_	_	_
+1	Jandé	jandé	PRON	pro	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
+2	jara	jara	NOUN	n	Case=Ref	3	nmod	_	_
+3	JesusCristo	JesusCristo	PROPN	pn	_	4	nmod	_	_
+4	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	0	root	_	_
+
+"
+Tupinamba-6,Tupinamba,Tekoangaipaβokáramo jandéjara JesusCristo rekóreme,,,For being our lord JC the one who pulls out /rips the sins.  book 3-3,English,,"# sent_id = 6
+# text = Tekoangaipaβokáramo jandéjara JesusCristo rekóreme
+# text_eng = For being our lord JC the one who pulls out /rips the sins.  book 3-3
+1-3	Tekoangaipaβokáramo	_	_	_	_	_	_	_	_
+1	teko	eko	NOUN	n	Rel=Abs	3	nmod	3:nmod	_
+2	angaipaβ	angaipaβ	NOUN	n	_	1	nmod	1:nmod	_
+3	okáramo	okar	NOUN	n	Case=Tra	5	nsubj	5:nsubj	_
+4-5	jandéjara	_	_	_	_	_	_	_	_
+4	jandé	jandé	PRON	pro	Clusivity=In|PronType=Prs	5	nmod	5:nmod	_
+5	jara	jara	NOUN	n	Case=Ref	0	root	0:root	_
+6	JesusCristo	JC	PROPN	pn	_	5	appos	5:appos	_
+7-8	rekóreme	_	_	_	_	_	_	_	_
+7	rekó	rekó	NOUN	N	Rel=Cont	5	nmod	5:nmod	_
+8	reme	reme	ADP	pp	_	7	case	7:case	_
+
+"
+Tupinamba-7,Tupinamba,Marã ojkóβope tekoangaipaβa ʔóki ?,,,Acting how did he remove the bad habits? book 3-4,English,,"# sent_id = 7
+# text = Marã ojkóβope tekoangaipaβa ʔóki ?
+# text_eng = Acting how did he remove the bad habits? book 3-4
+1	Marã	marã	ADV	adv	_	0	root	0:root	_
+2-3	ojkóβope	_	_	_	_	_	_	_	_
+2	ojkóβo	ojkó	VERB	vi	Number=Sing|Person=3|VerbForm=Ger	6	advcl	6:advcl	_
+3	pe	pe	PART	pcl	_	2	discourse	2:discourse	_
+4-5	tekoangaipaβa	_	_	_	_	_	_	_	_
+4	teko	eko	NOUN	n	Rel=Abs	6	nmod	6:nmod	_
+5	angaipaβa	angaipaβ	NOUN	n	Case=Ref	4	nmod	4:nmod	_
+6	ʔóki	ʔok	NOUN	n	_	1	dep	1:dep	_
+7	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+"
+Tupinamba-8,Tupinamba,Seʔõawera resépe Tupã Tuβa ɲɨrõkatúramo aséβe ?,,,"Was it through his death, that God the father rescued/forgave us all? book 3-5",English,,"# sent_id = 8
+# text = Seʔõawera resépe Tupã Tuβa ɲɨrõkatúramo aséβe ?
+# text_eng = Was it through his death, that God the father rescued/forgave us all? book 3-5
+1	Seʔõawera	eʔõ	NOUN	n	Rel=NCont|Tense=Past	0	root	_	_
+2	resépe	esé	ADP	pp	_	1	case	_	_
+3	Tupã	tupã	NOUN	n	_	5	nmod	_	_
+4	Tuβa	uβ	NOUN	n	Case=Ref|Rel=Abs	3	dep	_	_
+5	ɲɨrõkatúramo	ɲɨrõkatú	NOUN	n	Nomzr=Circ	1	dep	_	_
+6	aséβe	asé	PRON	pro	PronType=Prs	5	obl	_	_
+7	?	?	PUNCT	punct	_	1	punct	_	_
+
+"
+Tupinamba-10,Tupinamba,O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma ?,,,Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7,Portuguese,,"# sent_id = 10
+# text = O emimotárɨβo épe erimbaʔe i ɲemeʔẽngi ogupjarama supé oɲeraneʔɨma ?
+# text_port = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
+1	O	o	PRON	pro	Reflex=Yes	2	nmod	2:nmod	_
+2	emimotárɨβo	emimotár	NOUN	n	Case=Loc	0	root	0:root	_
+3	épe	épe	PART	pcl	_	2	discourse	2:discourse	_
+4	erimbaʔe	erimbaʔe	ADV	adv	_	2	advmod	2:advmod	_
+5	i	i	PRON	pro	_	6	nmod	6:nmod	_
+6	ɲemeʔẽngi	meʔẽng	NOUN	n	Nomzr=Circ|Reflex=Yes	2	appos	2:appos	_
+7	ogupjarama	upjaram	NOUN	n	Reflex=Yes	6	obl	6:obl	_
+8	supé	supé	ADP	pp	_	7	case	7:case	_
+9	oɲeraneʔɨma	ɲeran	VERB	v	Polarity=Neg|VerbForm=Ger	6	dep	6:dep	_
+10	?	_	PUNCT	punct	_	2	punct	2:punct	_
+
+"
+Tupinamba-11,Tupinamba,O emimotárɨβo é,,,It was in fact by his own will book 3-8,Portuguese,,"# sent_id = 11
+# text = O emimotárɨβo é
+# text_port = It was in fact by his own will book 3-8
+1	O	o	PRON	pro	Reflex=Yes	2	nmod	2:nmod	_
+2	emimotárɨβo	emimotár	NOUN	n	Case=Loc	0	root	0:root	_
+3	é	é	PART	pcl	_	2	discourse	2:discourse	_
+
+"
+Tupinamba-12,Tupinamba,Ojpotakatupe o eʔõawera resé asé maʔendwara ?,,,Did he really want people to remember his death?book 3-9,Portuguese,,"# sent_id = 12
+# text = Ojpotakatupe o eʔõawera resé asé maʔendwara ?
+# text_port = Did he really want people to remember his death?book 3-9
+1-2	Ojpotakatupe	_	_	_	_	_	_	_	_
+1	Ojpotakatu	potar	VERB	vt	Person=33	0	root	0:root	_
+2	pe	pe	PART	pcl	_	1	discourse	1:discourse	_
+3	o	o	PRON	pro	Reflex=Yes	4	nmod	4:nmod	_
+4	eʔõawera	eʔõa	NOUN	n	Case=Ref	7	obl	7:obl	_
+5	resé	esé	ADP	pp	Rel=Cont	4	case	4:case	_
+6	asé	asé	PRON	pro	Case=Ref	7	nmod	7:nmod	_
+7	maʔendwara	maʔendwar	NOUN	n	_	1	xcomp	1:xcomp	_
+8	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+"
+Tupinamba-14,Tupinamba,Sesé o maʔendwaramo é asé Tupã rawsúβi o pɨʔape seko aβɨpotareʔɨma,,,"He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail. book 3-10",Portuguese,,"# sent_id = 14
+# text = Sesé o maʔendwaramo é asé Tupã rawsúβi o pɨʔape seko aβɨpotareʔɨma
+# text_port = He really wanted it! (By) remembering it all love god, (and) in their hearts do not desire to fail. book 3-10
+1	Sesé	esé	ADP	pp	Rel=NCont	3	case	3:case	_
+2	o	o	PRON	pro	Person=3|Reflex=Yes	3	nmod	3:nmod	_
+3	maʔendwaramo	maʔendwar	NOUN	n	Case=Tra	0	root	0:root	_
+4	é	é	PART	pcl	_	3	discourse	3:discourse	_
+5	asé	asé	PRON	pro	_	7	nmod	7:nmod	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
+7	rawsúβi	awsuβ	NOUN	n	Rel=Cont	3	dep	3:dep	_
+8	o	o	PRON	pro	Person=3|Reflex=Yes	9	nmod	9:nmod	_
+9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	11	obl	11:obl	_
+10	seko	eko	NOUN	n	Rel=NCont	11	obj	11:obj	_
+11-12	aβɨpotareʔɨma	_	_	_	_	_	_	_	_
+11	aβɨ	aβɨ	VERB	v	_	12	xcomp	12:xcomp	_
+12	potareʔɨma	potar	VERB	vt	_	3	advcl	3:advcl	_
+
+"
+Tupinamba-16,Tupinamba,"Ombaʔeʔu wemimboʔeetá pɨri karúkeme , Santo-Sacramento meʔenga janondé .",,,"He ate together with his many disciples, in the afternoon, before giving the holy sacrament book 3-12",English,,"# sent_id = 16
+# text = Ombaʔeʔu wemimboʔeetá pɨri karúkeme , Santo-Sacramento meʔenga janondé .
+# text_eng = He ate together with his many disciples, in the afternoon, before giving the holy sacrament book 3-12
+1	Ombaʔeʔu	mbaʔeʔu	VERB	v	_	0	root	0:root	_
+2	wemimboʔeetá	emimboʔe	NOUN	n	_	1	obl	1:obl	_
+3	pɨri	pɨri	ADP	pp	_	2	case	2:case	_
+4	karúkeme	karúk	ADV	adv	_	1	advmod	1:advmod	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	Santo-Sacramento	Santo-Sacramento	NOUN	n	_	7	obj	7:obj	_
+7	meʔenga	meʔeŋ	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
+8	janondé	janondé	ADP	pp	_	7	mark	7:mark	_
+9	.	.	PUNCT	punct	_	7	punct	7:punct	_
+
+"
+Tupinamba-17,Tupinamba,Mamõpe i ʃow o mbaʔeʔupaβiré ?,,,Where did he go after eating everything?book 3-13,English,,"# sent_id = 17
+# text = Mamõpe i ʃow o mbaʔeʔupaβiré ?
+# text_eng = Where did he go after eating everything?book 3-13
+1-2	Mamõpe	_	_	_	_	_	_	_	_
+1	mamõ	_	ADV	n	_	4	advmod	4:advmod	_
+2	pe	_	PART	pcl	_	1	discourse	1:discourse	_
+3	i	_	PRON	pro	Rel=NCont	4	nmod	4:nmod	_
+4	ʃow	so	NOUN	n	_	0	root	0:root	_
+5	o	o	PRON	pro	Reflex=Yes	7	nmod	7:nmod	_
+6-8	mbaʔeʔupaβiré	_	_	_	_	_	_	_	_
+6	mbaʔe	_	NOUN	n	_	7	dep	7:dep	_
+7	ʔupaβ	_	VERB	v	Aspect=Compl	4	obl	4:obl	_
+8	iré	_	ADP	pp	Rel=Cont	7	case	7:case	_
+9	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+"
+Tupinamba-18,Tupinamba,Sesé o maʔendwáramo e asé Tupã rawsúβi o pɨʔape sekó aβɨpotareʔɨma,,,"by remembering it, people love God not wishing to break his law in their hearts 3-14",English,,"# sent_id = 18
+# text = Sesé o maʔendwáramo e asé Tupã rawsúβi o pɨʔape sekó aβɨpotareʔɨma
+# text_eng = by remembering it, people love God not wishing to break his law in their hearts 3-14
+1	Sesé	ese	ADP	pp	Rel=NCont	3	case	3:case	_
+2	o	o	PRON	pro	Reflex=Yes	3	nmod	3:nmod	_
+3	maʔendwáramo	maʔendwár	NOUN	n	_	0	root	0:root	_
+4	e	e	PART	pcl	_	3	discourse	3:discourse	_
+5	asé	asé	PRON	pro	_	7	nmod	7:nmod	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
+7	rawsúβi	awsuβ	NOUN	n	Rel=Cont	3	ccomp	3:ccomp	_
+8	o	o	PRON	pro	Reflex=Yes	9	nmod	9:nmod	_
+9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	10	obl	10:obl	_
+10	sekó	ekó	NOUN	n	Rel=NCont	11	obj	11:obj	_
+11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	7	dep	7:dep	_
+
+"
+Tupinamba-19,Tupinamba,Sorɨβeté rakó aβá tegwama porarasara moroposanongara mosanga tekoβé jara rerekoara supé ogwasema,,,"The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1",Portuguese,,"# sent_id = 19
+# text = Sorɨβeté rakó aβá tegwama porarasara moroposanongara mosanga tekoβé jara rerekoara supé ogwasema
+# text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
+1	Sorɨβeté	orɨβ	VERB	v	_	0	root	0:root	_
+2	rakó	rakó	PART	pcl	_	1	advmod	1:advmod	_
+3	aβá	aβá	NOUN	n	_	1	nsubj	1:nsubj	_
+4	tegwama	tegwam	NOUN	n	Case=Ref	5	nmod	5:nmod	_
+5	porarasara	_	NOUN	n	_	3	amod	3:amod	_
+6	moroposanongara	poroposanong	NOUN	n	Poss=Hum	12	obj	12:obj	_
+7	mosanga	posaŋ	NOUN	n	Case=Ref|Poss=Hum	10	nmod	10:nmod	_
+8	tekoβé	teko	NOUN	n	Rel=Cont	9	nmod	9:nmod	_
+9	jara	jara	NOUN	n	_	7	nmod	7:nmod	_
+10	rerekoara	ereko	NOUN	n	Rel=Cont	6	nmod	6:nmod	_
+11	supé	supé	ADP	pp	_	6	case	6:case	_
+12	ogwasema	gwasem	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
+
+"
