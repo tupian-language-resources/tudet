@@ -39,6 +39,7 @@ class Dataset(BaseDataset):
         prefix, suffix = 'UD_', '-TuDeT'
         for d in self.dir.resolve().parent.glob('{}*{}'.format(prefix, suffix)):
             if d.is_dir():
+                args.log.info('updating {}'.format(d.name))
                 update_fork(d)
                 lang = d.name.replace(prefix, '').replace(suffix, '')
                 out = self.raw_dir / lang
