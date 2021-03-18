@@ -12,7 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tudet",
-            "dc:created": "328243c"
+            "dc:created": "6cdf64f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +39,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 191,
+            "dc:extent": 192,
             "tableSchema": {
                 "columns": [
                     {
