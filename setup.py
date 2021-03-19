@@ -14,6 +14,7 @@ setup(
     install_requires=[
         'cldfbench',
         'conllu',
+        'pytular',
     ],
     extras_require={
         'test': [
