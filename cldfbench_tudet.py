@@ -38,6 +38,12 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component('LanguageTable')
         args.writer.cldf.add_component('ExampleTable', 'conllu')
 
+        for lang in [  # Metalanguages for sentence translations:
+            dict(ID='English', Name='English', Glottocode='stan1293'),
+            dict(ID='Portuguese', Name='Portuguese', Glottocode='port1283'),
+        ]:
+            args.writer.objects['LanguageTable'].append(lang)
+
         langs = {lang['ID']: lang for lang in self.etc_dir.read_csv('languages.csv', dicts=True)}
         for language, p in self.iter_conllu():
             try:
