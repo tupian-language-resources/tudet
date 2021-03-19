@@ -6,13 +6,15 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:description": "Tup\u00edan Dependency Treebank",
+    "dc:title": "TuDeT",
     "dcat:accessURL": "https://github.com/tupian-language-resources/tudet",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tudet",
-            "dc:created": "6cdf64f"
+            "dc:created": "e22cc61"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +41,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 192,
+            "dc:extent": 198,
             "tableSchema": {
                 "columns": [
                     {

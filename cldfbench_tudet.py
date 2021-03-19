@@ -1,9 +1,7 @@
-import re
-import shutil
 import pathlib
+import subprocess
 
 import conllu
-import git
 from cldfbench import Dataset as BaseDataset
 
 TRANSLATIONS = {
@@ -13,18 +11,6 @@ TRANSLATIONS = {
 }
 
 
-def update_fork(p):
-    r = git.Repo(str(p))
-    r.git.checkout('origin/dev')
-    for remote in r.remotes:
-        if remote.name == 'upstream':
-            break
-    else:
-        raise ValueError('no remote called upstream')
-    remote.fetch()
-    r.git.merge('upstream/dev')
-
-
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "tudet"
@@ -32,25 +18,23 @@ class Dataset(BaseDataset):
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return super().cldf_specs()
 
+    def iter_conllu(self):
+        prefix, suffix = 'UD_', '-TuDeT'
+        for d in sorted(self.raw_dir.glob('{}*{}'.format(prefix, suffix)), key=lambda p: p.name):
+            lang = d.name.replace(prefix, '').replace(suffix, '')
+            for path in sorted(d.glob('*.conllu'), key=lambda p: p.name):
+                yield lang, path
+
     def cmd_download(self, args):
         """
         Collect the data from the dev branches of the UD repository forks
         """
-        prefix, suffix = 'UD_', '-TuDeT'
-        for d in self.dir.resolve().parent.glob('{}*{}'.format(prefix, suffix)):
-            if d.is_dir():
-                args.log.info('updating {}'.format(d.name))
-                update_fork(d)
-                lang = d.name.replace(prefix, '').replace(suffix, '')
-                out = self.raw_dir / lang
-                if not out.exists():
-                    out.mkdir()
-                for p in d.glob('*.conllu'):
-                    shutil.copy(str(p), out / p.name)
+        subprocess.check_call(
+            'git -C {} submodule update --remote'.format(self.dir.resolve()), shell=True)
 
     def cmd_makecldf(self, args):
         args.writer.cldf.add_component('ExampleTable', 'conllu')
-        for p in self.raw_dir.glob('*/*.conllu'):
+        for language, p in self.iter_conllu():
             try:
                 sentences = conllu.parse(p.read_text(encoding='utf8'))
             except:
@@ -78,8 +62,8 @@ class Dataset(BaseDataset):
                     raise ValueError()
 
                 args.writer.objects['ExampleTable'].append(dict(
-                    ID='{}-{}'.format(p.parent.name, smd['sent_id']),
-                    Language_ID=p.parent.name,
+                    ID='{}-{}'.format(language, smd['sent_id']),
+                    Language_ID=language,
                     Primary_Text=smd['text'],
                     Translated_Text=translation[1],
                     Meta_Language_ID=translation[0],

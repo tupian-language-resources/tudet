@@ -1,0 +1,24 @@
+[submodule "raw/UD_Guajajara-TuDeT"]
+	path = raw/UD_Guajajara-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Guajajara-TuDeT.git
+	branch = dev
+[submodule "raw/UD_Akuntsu-TuDeT"]
+	path = raw/UD_Akuntsu-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT.git
+	branch = dev
+[submodule "raw/UD_Kaapor-TuDeT"]
+	path = raw/UD_Kaapor-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Kaapor-TuDeT.git
+	branch = dev
+[submodule "raw/UD_Makurap-TuDeT"]
+	path = raw/UD_Makurap-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Makurap-TuDeT.git
+	branch = dev
+[submodule "raw/UD_Munduruku-TuDeT"]
+	path = raw/UD_Munduruku-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Munduruku-TuDeT.git
+	branch = dev
+[submodule "raw/UD_Tupinamba-TuDeT"]
+	path = raw/UD_Tupinamba-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT.git
+	branch = dev
