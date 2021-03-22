@@ -618,10 +618,10 @@ Guajajara-31,Guajajara,Ezapo arapuk wiràmiri pe nehe,,,Make a trap for the bird
 # text = Ezapo arapuk wiràmiri pe nehe
 # text_port = Faça uma arapuca para o pássaro (Harrison 15)
 # text_eng = Make a trap for the bird (LM)
-1	Ezapo	apo	VERB	vt	Person=3	0	root	0:root	_
+1	Ezapo	apo	VERB	vt	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
 2	arapuk	arapuk	NOUN	n	_	1	obj	1:obj	_
 3	wiràmiri	wirà	NOUN	n	Dimin=Yes	1	obl	1:obl	_
-4	pe	pe	ADP	pp	_	3	case	3:case	_
+4	pe	pe	ADP	posp	_	3	case	3:case	_
 5	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	1:discourse	_
 
 "
@@ -957,6 +957,35 @@ Kaapor-36,Kaapor,neke uʔike rekarãjta,,,You will mash a specific amount of man
 1	neke	ne	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
 2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
 3	rekarãjta	karãj	VERB	vt	Number=Sing|Person=2|Tense=Fut	0	root	0:root	_
+
+"
+Kaapor-1001,Kaapor,Oropo huʔɨ pɨhɨk,,,Oropo came down with fever (Kakumasu 1986: 327),English,,"# sent_id = 1001
+# text = Oropo huʔɨ pɨhɨk
+# text_eng = Oropo came down with fever (Kakumasu 1986: 327)
+1	Oropo	Oropo	PROPN	propn	_	3	nsubj	3:nsubj	_
+2	huʔɨ	uʔɨ	NOUN	n	Rel=NCont	3	obj	3:obj	_
+3	pɨhɨk	pɨhɨk	VERB	vt	_	0	root	0:root	_
+
+"
+Kaapor-1002,Kaapor,ajameʔẽ ke urupe jeʔẽha mondo tĩ,,,After that Lupercio sent word also (Kakumasu 1986: 327),English,,"# sent_id = 1002
+# text = ajameʔẽ ke urupe jeʔẽha mondo tĩ
+# text_eng = After that Lupercio sent word also (Kakumasu 1986: 327)
+1	ajameʔẽ	ajameʔẽ	ADV	v	_	5	advmod	5:advmod	_
+2	ke	ke	PART	prcl	_	3	discourse	3:discourse	_
+3	urupe	urupe	PROPN	propn	_	5	nsubj	5:nsubj	_
+4	jeʔẽha	jeʔẽ	NOUN	n	Nmzr=Yes	5	obj	5:obj	_
+5	mondo	mondo	VERB	vt	Person=3	0	root	0:root	_
+6	tĩ	tĩ	ADV	adv	_	5	advmod	5:advmod	_
+
+"
+Kaapor-1003,Kaapor,pe kamarar jarusu raʔɪr raho,,,And friends took over a small canoe (Kakumasu 1986: 327),English,,"# sent_id = 1003
+# text = pe kamarar jarusu raʔɪr raho
+# text_eng = And friends took over a small canoe (Kakumasu 1986: 327)
+1	pe	pe	CCONJ	cc	_	5	cc	5:cc	_
+2	kamarar	kamarar	NOUN	n	_	5	nsubj	5:nsubj	_
+3	jarusu	jarusu	NOUN	n	_	4	nmod	4:nmod	_
+4	raʔɪr	aʔɪr	NOUN	n	Rel=Cont	5	obj	5:obj	_
+5	raho	raho	VERB	v	Person=3	0	root	0:root	_
 
 "
 Makurap-1,Makurap,Kito nãkowut moat xauwet moke kepit xagara,,,"The man met a boy, son of the chief and thief (Wiriyo's text)",English,,"# document_source = Braga (2005). Aspects Morphosyntaxiques de la langue Makurap. University of Toulose 2. Unpublished PhD Thesis.
@@ -1743,6 +1772,53 @@ Munduruku-112,Munduruku,õn bekicat ojoaat puy bu be,,,I made the snake bite the
 6	be	be	ADP	pp	_	1	case	1:case	_
 
 "
+Munduruku-2001,Munduruku,wida ayacat'ũm o'yaoka,,,"The jaguar killed the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2j')",English,,"# sent_id = 2001
+# text = wida ayacat'ũm o'yaoka
+# text_eng = The jaguar killed the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2j')
+1	wida	wida	NOUN	n	_	3	obl	3:obl	_
+2	ayacat'ũm	ayacat	NOUN	n	Aspect=Dec|Number=Sing	3	obl	3:obl	_
+3	o'yaoka	aoka	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+"
+Munduruku-2002,Munduruku,wekobe wita 'a kay og̃uyjayjay,,,"I hit my canoe on a rock. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 4d)",English,,"# sent_id = 2002
+# text = wekobe wita 'a kay og̃uyjayjay
+# text_eng = I hit my canoe on a rock. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 4d)
+1	wekobe	kobe	NOUN	n	Poss=Yes	5	obl	_	_
+2	wita	wita	NOUN	n	_	5	obl	_	_
+3	'a	'a	NOUN	cl	Clas=Round	2	clf	_	_
+4	kay	kay	ADP	pp	Rel=Cont	2	case	_	_
+5	og̃uyjayjay	jayjay	VERB	vt	Aspect=Perf|Person=13|Voice=Cau	0	root	_	_
+
+"
+Munduruku-2003,Munduruku,oxi eg̃ru ipi tẽg̃,,,"My mother’s hammock was close to the ground. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 5b)",English,,"# sent_id = 2003
+# text = oxi eg̃ru ipi tẽg̃
+# text_eng = My mother’s hammock was close to the ground. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 5b)
+1	oxi	xi	NOUN	n	Number=Sing|Poss=Yes|Person=1	2	nmod:poss	2:nmod:poss	_
+2	eg̃ru	g̃ru	NOUN	n	Poss=Ali|Rel=Cont	3	nsubj	3:nsubj	_
+3	ipi	ipi	NOUN	n	Rel=NCont	0	root	0:root	_
+4	tẽg̃	tẽg̃	ADP	pp	Rel=Cont	3	case	3:case	_
+
+"
+Munduruku-2004,Munduruku,o'xet io'e xiri xe,,,"He slept by the side of a nambu (Crypturellus parvirostris), they say. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 6b)",English,,"# sent_id = 2004
+# text = o'xet io'e xiri xe
+# text_eng = He slept by the side of a nambu (Crypturellus parvirostris), they say. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 6b)
+1	o'xet	xet	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+2	io'e	'e	VERB	vi	Evident=Nfh|Number=Plur|Person=3	1	dep	1:dep	_
+3	xiri	xiri	NOUN	n	_	1	obl	1:obl	_
+4	xe	xe	ADP	pp	Rel=Cont	3	case	3:case	_
+
+"
+Munduruku-2005,Munduruku,ixe iẽn 'o'om kaw ta eju,,,"He eats meat with salt. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 7d)",English,,"# sent_id = 2005
+# text = ixe iẽn 'o'om kaw ta eju
+# text_eng = He eats meat with salt. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 7d)
+1	ixe	ixe	PRON	pro	PronType=Dem	3	nsubj	3:nsubj	_
+2	iẽn	ẽn	NOUN	n	Rel=Ncont	3	obj	3:obj	_
+3	'o'om	'o	VERB	vi	Aspect=Imp	0	root	0:root	_
+4	kaw	kaw	NOUN	n	_	2	nmod	2:nmod	_
+5	ta	da	NOUN	cl	Class=Seed	4	clf	4:clf	_
+6	eju	eju	ADP	pp	Rel=Ncont	4	case	4:case	_
+
+"
 Tupinamba-1,Tupinamba,"Mokõj ojoirundɨk , oito , ʔara sɨkeme , Tupã taʔɨra o sɨ swi i ʔar 'iré , judeus ekomoɲangáβo i ʔapira mondoki",,,"Having arrived the eighth day, after the son of God was born from his mother, they cut his foreskin according to the law of the jews January 1",English,,"# document_title = Catecismo Araújo
 # document_authorship = Annotated by Fabrício Ferraz Gerardi
 # document_reference = Araujo_1618
@@ -1758,13 +1834,13 @@ Tupinamba-1,Tupinamba,"Mokõj ojoirundɨk , oito , ʔara sɨkeme , Tupã taʔɨr
 7	sɨkeme	sɨk	VERB	vi	Mood=Sub	0	root	0:root	_
 8	,	,	PUNCT	punct	_	7	punct	7:punct	_
 9	Tupã	tupã	NOUN	n	_	10	nmod	10:nmod	_
-10	taʔɨra	taʔɨr	NOUN	n	Case=Ref	15	nsubj	15:nsubj	_
+10	taʔɨra	taʔɨr	NOUN	n	Case=Ref|Rel=Abs	15	nsubj	15:nsubj	_
 11	o	o	PRON	pro	Reflex=Yes	12	nmod	12:nmod	_
 12	sɨ	sɨ	NOUN	n	_	10	nmod	10:nmod	_
 13	swi	swi	ADP	pp	_	12	case	12:case	_
 14	i	i	PRON	pro	Rel=NCont	15	nmod	15:nmod	_
 15	ʔar	ʔar	ADV	adv	_	7	advcl	7:advcl	_
-16	'iré	'iré	ADP	pp	_	15	mark	15:mark	_
+16	'iré	iré	ADP	pp	_	15	mark	15:mark	_
 17	,	,	PUNCT	punct	_	15	punct	15:punct	_
 18	judeus	judeu	NOUN	n	_	19	nmod	19:nmod	_
 19	ekomoɲangáβo	ekomoɲaŋ	NOUN	n	Case=Loc	22	nmod	22:nmod	_
@@ -1978,7 +2054,7 @@ Tupinamba-20,Tupinamba,"aʔe ipó mbaʔe repɨ́ramo ojmoariβeukar ʃeswi , ʃe
 1	aʔe	aʔe	PART	pcl	_	2	discourse	_	_
 2	ipó	ipó	ADV	adv	_	5	discourse	_	_
 3	mbaʔe	mbaʔe	NOUN	n	_	4	nmod	_	_
-4	repɨ́ramo	epɨ́	NOUN	n	Case=trans|Rel=Cont	5	obl	_	_
+4	repɨ́ramo	epɨ́	NOUN	n	Case=Tra|Rel=Cont	5	obl	_	_
 5	ojmoariβeukar	_	VERB	v	_	11	parataxis	_	_
 6	ʃeswi	swi	ADP	pp	Number=Sing|Person=1	5	obl	_	_
 7	,	,	PUNCT	punct	_	5	punct	_	_
@@ -1991,7 +2067,7 @@ Tupinamba-20,Tupinamba,"aʔe ipó mbaʔe repɨ́ramo ojmoariβeukar ʃeswi , ʃe
 Tupinamba-1001,Tupinamba,Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?,,,How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9,English,,"# sent_id = 1001
 # text = Marãpe judeus jandéjara rereków ojoupé Pilatos imeʔengiré ?
 # text_eng = How did the Jews treat our lord after Pilatus delivered him to them?  book 3-chap 9
-1	Marãpe	marãpe	PRON	pro	_	4	advmod	4:advmod	_
+1	Marãpe	marãpe	ADV	adv	_	4	advmod	4:advmod	_
 2	judeus	judeus	NOUN	n	_	4	nmod	4:nmod	_
 3	jandéjara	jar	NOUN	n	Clusivity=In|Number=Plur|Person=1	4	nmod	4:nmod	_
 4	rereków	erekó	NOUN	n	_	0	root	0:root	_
@@ -2001,7 +2077,7 @@ Tupinamba-1001,Tupinamba,Marãpe judeus jandéjara rereków ojoupé Pilatos ime�
 8	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 "
-Tupinamba-10022,Tupinamba,Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári book 3-chap 9,,,They went to the patio placing a cross on his shoulder,English,,"# sent_id = 10022
+Tupinamba-1022,Tupinamba,Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári book 3-chap 9,,,They went to the patio placing a cross on his shoulder,English,,"# sent_id = 1022
 # text = Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári book 3-chap 9
 # text_eng = They went to the patio placing a cross on his shoulder
 1	Okárɨpe	okár	NOUN	n	_	2	obl	_	_
@@ -2012,25 +2088,25 @@ Tupinamba-10022,Tupinamba,Okárɨpe senosẽmi cruz nonga iatiʔɨβ ʔári book
 6	ʔári	ʔári	ADP	posp	Rel=Cont	5	case	_	_
 
 "
-Tupinamba-1003,Tupinamba,Turusukatupe aʔe cruz erimbaʔe ?,,,Was the cross then very big ?book 3-chap 9,English,,"# sent_id = 1003
+Tupinamba-1003,Tupinamba,Turusukatupe aʔe cruz erimbaʔe ?,,,Was the cross then very big? book 3-chap 9,English,,"# sent_id = 1003
 # text = Turusukatupe aʔe cruz erimbaʔe ?
-# text_eng = Was the cross then very big ?book 3-chap 9
-1	Turusukatupe	(eb)urusu	NOUN	Intens=Yes|Rel=Abs	_	3	nmod	3:nmod	_
+# text_eng = Was the cross then very big? book 3-chap 9
+1	Turusukatupe	eburusu	NOUN	Intens=Yes|Rel=Abs	_	3	nmod	3:nmod	_
 2	aʔe	aʔe	DET	dem	_	3	nmod	3:nmod	_
 3	cruz	cruz	NOUN	n	_	0	root	0:root	_
 4	erimbaʔe	erimbaʔe	ADV	adv	_	3	advmod	3:advmod	_
 5	?	?	PUNCT	punct	_	3	punct	3:punct	_
 
 "
-Tupinamba-1004,Tupinamba,"Turusukatu , ndʔeʔiteʔe seroʔároʔá serasóβo , iposɨja swi",,,"It was very big, for this reason he kept on falling while carrying it, from its wheight   book 3-chap 9",English,,"# sent_id = 1004
-# text = Turusukatu , ndʔeʔiteʔe seroʔároʔá serasóβo , iposɨja swi
+Tupinamba-1004,Tupinamba,"Turusukatu , ndʔeʔiteʔe seroʔaroʔa serasóβo , iposɨja swi",,,"It was very big, for this reason he kept on falling while carrying it, from its wheight   book 3-chap 9",English,,"# sent_id = 1004
+# text = Turusukatu , ndʔeʔiteʔe seroʔaroʔa serasóβo , iposɨja swi
 # text_eng = It was very big, for this reason he kept on falling while carrying it, from its wheight   book 3-chap 9
 1	Turusukatu	(eb)urusu	NOUN	n	Intens=Yes|Rel=Abs	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	ndʔeʔiteʔe	ndʔeʔiteʔe	ADV	v	_	1	parataxis	1:parataxis	gloss_eng=Neg-say-for.no.reason
 4	seroʔaroʔa	ʔar	NOUN	n	Aspect=Iter|Rel=NCont	3	advcl	3:advcl	_
-5	serasóβo	so	VERB	v	VerbForm=Ger|Rel=NCont	4	dep	4:dep	_
-6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	serasóβo	so	VERB	v	Rel=NCont|VerbForm=Ger	4	dep	4:dep	_
+6	,	,	PUNCT	punct	_	1	punct	1:punct	_
 7	iposɨja	posɨj	NOUN	n	Rel=NCont	5	obj	5:obj	_
 8	swi	swi	ADP	posp	Rel=Cont	7	case	7:case	_
 
@@ -2043,18 +2119,141 @@ Tupinamba-1005,Tupinamba,N'owarukáripe judeus aʔe cruz aβá supé ipɨtɨβõ
 3	aʔe	aʔe	DET	dem	_	4	det	4:det	_
 4	cruz	cruz	NOUN	n	_	1	obj	1:obj	_
 5	aβá	aβá	NOUN	n	_	1	obl	1:obl	_
-6	supé	supé	ADP	posp	REL=Cont	5	case	5:case	_
-7	ipɨtɨβõmo	pɨtɨβ	VERB	n	REL=NCont|VerbForm=Ger	1	dep	1:dep	_
+6	supé	supé	ADP	posp	Rel=Cont	5	case	5:case	_
+7	ipɨtɨβõmo	pɨtɨβ	VERB	n	Rel=NCont|VerbForm=Ger	1	dep	1:dep	_
 8	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 "
-Tupinamba-1006,Tupinamba,Owarukar Simão Cirineu sérɨβaʔe supé,,,They made Simon Cirineu carry      book 3-chap 9,English,,"# sent_id = 1006
-# text = Owarukar Simão Cirineu sérɨβaʔe supé
+Tupinamba-1006,Tupinamba,Owarukar Simão Cirineu serɨβaʔe supé,,,They made Simon Cirineu carry      book 3-chap 9,English,,"# sent_id = 1006
+# text = Owarukar Simão Cirineu serɨβaʔe supé
 # text_eng = They made Simon Cirineu carry      book 3-chap 9
 1	Owarukar	jar	VERB	v	_	0	root	0:root	_
 2	Simão	Simão	PROPN	propn	_	1	obl	1:obl	_
 3	Cirineu	Cirineu	PRON	propn	_	4	nsubj	4:nsubj	_
-4	serɨβaʔe	er	NOUN	n	Nmzr=Rel|Rel=NCont	2	dep	2:dep	_
-5	supé	supé	ADP	posp	REL=Cont	2	case	2:case	_
+4	serɨβaʔe	er	NOUN	n	Nomzr=Rel|Rel=NCont	2	dep	2:dep	_
+5	supé	supé	ADP	posp	Rel=Cont	2	case	2:case	_
+
+"
+Tupinamba-1007,Tupinamba,iporeawsuβerekóβope emonã seków ?,,,Did they act this way having mercy of him book 3-chap 9,English,,"# sent_id = 1007
+# text = iporeawsuβerekóβope emonã seków ?
+# text_eng = Did they act this way having mercy of him book 3-chap 9
+1	iporeawsuβerekóβope	poreawsuβerekó	NOUN	n	Case=Per|Rel=NCont	3	dep	3:dep	_
+2	emonã	emonã	ADV	adv	_	3	advmod	3:advmod	_
+3	seków	ekó	NOUN	n	Rel=NCont	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+"
+Tupinamba-1008,Tupinamba,"Aʔãni , t'oβasem esapɨʔa ojukawame  ojaβo e",,,"No, instead, so that he could quickly arrive at the place of his killing, the said   book 3-chap 9",English,,"# sent_id = 1008
+# text = Aʔãni , t'oβasem esapɨʔa ojukawame  ojaβo e
+# text_eng = No, instead, so that he could quickly arrive at the place of his killing, the said   book 3-chap 9
+1	Aʔãni	aʔãni	INTJ	intj	_	3	discourse	3:discourse	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	t'oβasem	oβasem	VERB	v	Mood=Perm|Person=3	0	root	0:root	_
+4	esapɨʔa	esapɨʔa	ADV	adv	_	3	advmod	3:advmod	_
+5	ojukawame	juka	NOUN	n	Case=Loc|Reflex=Yes|Tense=Fut	3	obl	3:obl	_
+6	ojaβo	_	VERB	v	Person=3|VerbForm=Ger	3	dep	3:dep	_
+7	e	e	PART	prcl	_	6	discourse	6:discourse	_
+
+"
+Tupinamba-1009,Tupinamba,Nd'ojkójpe amõ aβá sakɨpwéri iporeawsuβerekosáramo ?,,,"Weren't there others, having mercy of him? book 3-chap 9",English,,"# sent_id = 1009
+# text = Nd'ojkójpe amõ aβá sakɨpwéri iporeawsuβerekosáramo ?
+# text_eng = Weren't there others, having mercy of him? book 3-chap 9
+1	Nd'ojkójpe	ojkó	VERB	v	Person=3	0	root	_	_
+2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	_	_
+3	aβá	aβá	NOUN	n	_	1	obl	_	_
+4	sakɨpwéri	akɨpwéri	NOUN	n	Rel=NCont	3	obl	_	_
+5	iporeawsuβerekosáramo	poreawsuβereko	NOUN	n	Case=Tra|Nomzr=Ag|Rel=NCont	3	obl	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+"
+Tupinamba-1010,Tupinamba,Osó kuɲã semimboʔeetá sapirõmo,,,"The women, his many disciples, went mourning him",English,,"# sent_id = 1010
+# text = Osó kuɲã semimboʔeetá sapirõmo
+# text_eng = The women, his many disciples, went mourning him
+1	Osó	so	VERB	vi	Person=3	0	root	0:root	gloss_port=3-ir
+2	kuɲã	kuɲã	NOUN	n	_	1	obl	1:obl	gloss_port=mulher-REF
+3	semimboʔeetá	emimboʔe	NOUN	n	Number=Coll	2	appos	2:appos	gloss_port=Rel2-pupil-COLL
+4	sapirõmo	apirõ	VERB	vt	VerbForm=Ger	1	dep	1:dep	gloss_port=Rel2-mourn-GER
+
+"
+Tupinamba-1011,Tupinamba,Marã eʔipe jandéjara iʃupé ?,,,What did our lord tell them? book 3 chap 9,English,,"# sent_id = 1011
+# text = Marã eʔipe jandéjara iʃupé ?
+# text_eng = What did our lord tell them? book 3 chap 9
+1	Marã	marã	PRON	pro	PronType=Int	2	obj	2:obj	_
+2	eʔipe	eʔi	VERB	vt	_	0	root	0:root	gloss_port=say-Q
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nsubj	2:nsubj	_
+4	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	2:obl	_
+5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+"
+Tupinamba-1012,Tupinamba,Petéumẽ ʃerapirõmo eʔi peẽ aéte pejeapirõ eʔi pemembɨrate pesapirõ eʔi,,,"Don't cry for me, he said, but you, cry fro yourselves, he said, cry for your children, he said    book 3 chap 9",English,,"# sent_id = 1012
+# text = Petéumẽ ʃerapirõmo eʔi peẽ aéte pejeapirõ eʔi pemembɨrate pesapirõ eʔi
+# text_eng = Don't cry for me, he said, but you, cry fro yourselves, he said, cry for your children, he said    book 3 chap 9
+1	Petéumẽ	petéumẽ	PART	pcl	Number=Sing|Person=2|Polarity=Neg	2	dep	2:dep	_
+2	ʃerapirõmo	apirõ	VERB	v	Number=Sing|Person=1|Rel=Cont|VerbForm=Ger	3	advcl	3:advcl	_
+3	eʔi	eʔi	VERB	v	_	0	root	0:root	_
+4	peẽ	peẽ	PRON	pron	Number=Plur|Person=2|PronType=Prs	6	obl	6:obl	_
+5	aéte	aéte	PART	pcl	_	4	discourse	4:discourse	_
+6	pejeapirõ	apirõ	VERB	v	Number=Plur|Person=2|Reflex=Yes	3	parataxis	3:parataxis	_
+7	eʔi	eʔi	VERB	v	_	6	parataxis	6:parataxis	_
+8	pemembɨrate	membɨr	NOUN	n	Number=Plur|Person=23	9	obl	9:obl	_
+9	pesapirõ	apirõ	VERB	v	Number=Plur|Person=2	7	dep	7:dep	_
+10	eʔi	eʔi	VERB	v	_	9	advcl	9:advcl	_
+
+"
+Tupinamba-1013,Tupinamba,Marã ojaβope ajpó iʔew ?,,,"What did he mean by saying this? (How saying, did he say this?) book 3-chap 9",English,,"# sent_id = 1013
+# text = Marã ojaβope ajpó iʔew ?
+# text_eng = What did he mean by saying this? (How saying, did he say this?) book 3-chap 9
+1	Marã	marã	ADV	adv	_	2	advmod	2:advmod	_
+2	ojaβope	ojaβope	VERB	v	Person=3|VerbForm=Ger	4	advcl	4:advcl	_
+3	ajpó	ajpó	DET	dem	_	4	nmod	4:nmod	_
+4	iʔew	iʔe	NOUN	n	Form=Circ	0	root	0:root	_
+5	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+"
+Tupinamba-1014,Tupinamba,Ojukaawera repɨramo amõ apɨaβa toβajara marana ri tekoara irã akwé taβusu Jerusalém ʔiaβa pora mombeβawama kwapa ɲẽ ajpó iʔew,,,"He said this futurely knowing of the smashing (to come) of the of some men, enemies, soldiers, inhabitants of this city called Jerusalem, as a way of paying for his death book 3-chap 9",English,,"# sent_id = 1014
+# text = Ojukaawera repɨramo amõ apɨaβa toβajara marana ri tekoara irã akwé taβusu Jerusalém ʔiaβa pora mombeβawama kwapa ɲẽ ajpó iʔew
+# text_eng = He said this futurely knowing of the smashing (to come) of the of some men, enemies, soldiers, inhabitants of this city called Jerusalem, as a way of paying for his death book 3-chap 9
+1	Ojukaawera	juká	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	2	nmod	2:nmod	_
+2	repɨramo	epɨ	NOUN	n	Case=Tra|Rel=Cont	15	nmod	15:nmod	_
+3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
+4	apɨaβa	apɨaβa	NOUN	n	Case=Ref	_	_	_	_
+5	toβajara	oβajar	NOUN	n	Case=Ref|Rel=Abs	4	conj	4:conj	_
+6	marana	marana	NOUN	n	_	8	nmod	8:nmod	_
+7	ri	ri	ADP	posp	_	6	case	6:case	_
+8	tekoara	eko	NOUN	n	Case=Ref|Rel=Abs	5	conj	5:conj	_
+9	irã	irã	ADV	adv	_	16	advmod	16:advmod	_
+10	akwé	akwé(j)	DET	dem	_	11	nmod	11:nmod	_
+11	taβusu	aβa	NOUN	n	Rel=Abs	14	nmod	14:nmod	_
+12	Jerusalém	Jerusalém	PROPN	_	_	11	appos	11:appos	_
+13	ʔiaβa	ʔi	NOUN	n	_	12	amod	12:amod	_
+14	pora	por	NOUN	n	Case=Ref	8	appos	8:appos	_
+15	mombeβawama	mombeβ	NOUN	n	Case=Ref|Tense=Fut	16	obj	16:obj	_
+16	kwapa	kwaβ	VERB	v	VerbForm=Ger	19	advcl	19:advcl	_
+17	ɲẽ	ɲẽ	PART	pcl	_	19	discourse	19:discourse	_
+18	ajpó	ajpó	DET	dem	_	19	obj	19:obj	_
+19	iʔew	iʔe	NOUN	n	_	0	root	0:root	_
+
+"
+Tupinamba-1015,Tupinamba,Osoβasɨpe amõ kuɲã ?,,,Did any woman wash his face? book 3-chap 9,English,,"# sent_id = 1015
+# text = Osoβasɨpe amõ kuɲã ?
+# text_eng = Did any woman wash his face? book 3-chap 9
+1	Osoβasɨpe	oβasɨ	VERB	v	Person=33	0	root	0:root	_
+2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	3:nmod	_
+3	kuɲã	kuɲã	NOUN	n	Case=Ref	1	obj	1:obj	_
+4	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+"
+Tupinamba-1016,Tupinamba,"Osoβasɨβ aotinga pupé , aʔe resé soβá raʔangaβa jári",,,"She washed his face wih a white fabric, the image of his face satyed on it. book 3-chap 9",English,,"# sent_id = 1016
+# text = Osoβasɨβ aotinga pupé , aʔe resé soβá raʔangaβa jári
+# text_eng = She washed his face wih a white fabric, the image of his face satyed on it. book 3-chap 9
+1	Osoβasɨβ	oβasɨ	VERB	v	Person=33	0	root	0:root	_
+2	aotinga	aotiŋ	NOUN	n	Case=Ref	1	obl	1:obl	_
+3	pupé	pupé	ADP	posp	Rel=Cont	2	case	2:case	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	aʔe	aʔe	DET	dem	_	9	obl	9:obl	_
+6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
+7	soβá	oβá	NOUN	n	Case=Ref|Rel=NCont	8	nmod	8:nmod	_
+8	raʔangaβa	aʔaŋ	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	9	nsubj	9:nsubj	_
+9	jári	jar	NOUN	n	Rel=Cont	1	parataxis	1:parataxis	_
 
 "
