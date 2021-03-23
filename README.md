@@ -1,5 +1,7 @@
 # TuDeT: Tupían Dependency Treebank
 
+[![CLDF validation](https://github.com/tupian-language-resources/tudet/workflows/CLDF-validation/badge.svg)](https://github.com/tupian-language-resources/tudet/actions?query=workflow%3ACLDF-validation)
+
 Dependency treebanks for individual Tupían languages are curated within the
 [Universal Dependencies](https://universaldependencies.org/) framework, i.e.
 in GitHub repositories under the 

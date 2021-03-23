@@ -16,4 +16,14 @@
    ```shell
    cldfbench zenodo cldfbench_tudet.py
    ```
-
+5. Create the release commit:
+   ```shell
+   git commit -a -m "release <VERSION>"
+   ```
+6. Create a release tag:
+   ```
+   git tag -a v<VERSION> -m"<VERSION> release"
+   ```
+7. Create a release from this tag on https://github.com/tupian-language-resources/tudet/releases
+8. Verify that data and metadata has been picked up by Zenodo correctly,
+   and copy the citation information into the GitHub release description.
