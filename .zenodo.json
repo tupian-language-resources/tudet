@@ -7,7 +7,7 @@
             "name": "Carolina Aragon"
         }
     ],
-    "title": "TuDeT",
+    "title": "TuDeT: Tup\u00edan Dependency Treebank",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -16,5 +16,11 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-SA-4.0"
-    }
+    },
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ]
 }

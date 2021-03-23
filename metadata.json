@@ -1,8 +1,8 @@
 {
     "id": "tudet",
-    "title": "TuDeT",
-    "description": "Tupían Dependency Treebank",
+    "title": "TuDeT: Tupían Dependency Treebank",
+    "description": null,
     "license": "CC-BY-SA-4.0",
-    "url": null,
+    "url": "https://tular.clld.org/contributions/tudet",
     "citation": null
 }
