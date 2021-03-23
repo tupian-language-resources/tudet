@@ -2,9 +2,9 @@ name: CLDF-validation
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -26,4 +26,4 @@ jobs:
         pip install pytest-cldf
     - name: Test with pytest
       run: |
-        pytest --cldf-metadata=cldf/cldf-metadata.json test.py 
+        pytest --cldf-metadata=cldf/Generic-metadata.json test.py 
