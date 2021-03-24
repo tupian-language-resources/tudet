@@ -1,22 +1,28 @@
 {
     "creators": [
         {
-            "name": "Fabr\u00edcio Ferraz Gerardi"
+            "name": "Fabr\u00edcio Ferraz Gerardi",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Stanislav Reichert"
+            "name": "Stanislav Reichert",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Carolina Aragon"
+            "name": "Carolina Aragon",
+            "affiliation": "UFPB"
         },
         {
-            "name": "Lorena Mart\u00edn-Rodr\u00edguez"
+            "name": "Lorena Mart\u00edn-Rodr\u00edguez",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Gustavo Godoy"
+            "name": "Gustavo Godoy",
+            "affiliation": "Ppgas Universidade Federal do Rio de Janeiro"
         },
         {
-            "name": "Tatiana Merzhevich"
+            "name": "Tatiana Merzhevich",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         }
     ],
     "title": "TuDeT: Tup\u00edan Dependency Treebank",
@@ -32,10 +38,12 @@
     "contributors": [
         {
             "name": "Tim Wientzek",
+            "affiliation": "",
             "type": "ProjectMember"
         },
         {
             "name": "Robert Forkel",
+            "affiliation": "Max-Planck-Insititute for Evolutionary Anthropology",
             "type": "DataCurator"
         }
     ]
