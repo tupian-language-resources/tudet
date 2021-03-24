@@ -4,7 +4,19 @@
             "name": "Fabr\u00edcio Ferraz Gerardi"
         },
         {
+            "name": "Stanislav Reichert"
+        },
+        {
             "name": "Carolina Aragon"
+        },
+        {
+            "name": "Lorena Mart\u00edn-Rodr\u00edguez"
+        },
+        {
+            "name": "Gustavo Godoy"
+        },
+        {
+            "name": "Tatiana Merzhevich"
         }
     ],
     "title": "TuDeT: Tup\u00edan Dependency Treebank",
@@ -18,6 +30,10 @@
         "id": "CC-BY-SA-4.0"
     },
     "contributors": [
+        {
+            "name": "Tim Wientzek",
+            "type": "ProjectMember"
+        },
         {
             "name": "Robert Forkel",
             "type": "DataCurator"

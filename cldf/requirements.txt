@@ -3,8 +3,8 @@ bs4==0.0.1
 cachetools==4.2.1
 certifi==2019.11.28
 chardet==3.0.4
-cldfbench==1.4.1
--e git+https://github.com/tupian-language-resources/tudet@b053baa5c4b6199e2d26936b1c963c3041c7ad66#egg=cldfbench_tudet
+cldfbench==1.5.0
+-e git+https://github.com/tupian-language-resources/tudet@b0104bd47ec698a04bd820f7ef9e4622b641aaed#egg=cldfbench_tudet
 cldfcatalog==1.3.0
 clldutils==3.7.0
 colorama==0.4.3

@@ -6,16 +6,16 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:description": "Tup\u00edan Dependency Treebank",
+    "dc:identifier": "https://tular.clld.org/contributions/tudet",
     "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "dc:title": "TuDeT",
+    "dc:title": "TuDeT: Tup\u00edan Dependency Treebank",
     "dcat:accessURL": "https://github.com/tupian-language-resources/tudet",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tudet",
-            "dc:created": "b053baa"
+            "dc:created": "b0104bd"
         },
         {
             "rdf:type": "prov:Entity",
