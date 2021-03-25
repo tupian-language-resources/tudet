@@ -14,7 +14,7 @@
    ```
 4. Create metadata for Zenodo:
    ```shell
-   cldfbench zenodo cldfbench_tudet.py
+   cldfbench zenodo cldfbench_tudet.py --communities tular
    ```
 5. Create the release commit:
    ```shell
