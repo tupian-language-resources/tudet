@@ -10,7 +10,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://tular.clld.org/contributions/tudet
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-sa/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/tupian-language-resources/tudet
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/tupian-language-resources/tudet/tree/c6257cc">tupian-language-resources/tudet v0.1-1-gc6257cc</a></li><li><a href="https://github.com/glottolog/glottolog/tree/afcced7332">Glottolog v4.3-treedb-fixes-342-gafcced7332</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/tupian-language-resources/tudet/tree/v0.2">tupian-language-resources/tudet v0.2</a></li><li><a href="https://github.com/glottolog/glottolog/tree/afcced7332">Glottolog v4.3-treedb-fixes-342-gafcced7332</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tudet
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
