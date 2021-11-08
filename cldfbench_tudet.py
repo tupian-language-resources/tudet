@@ -38,6 +38,18 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component('LanguageTable')
         args.writer.cldf.add_component('ExampleTable', 'conllu')
 
+        #
+        # FIXME: add ContributionTable!
+        #$ grep Contributors raw/*/README.md
+#raw/UD_Akuntsu-TuDeT/README.md:Contributors: Aragon, Carolina; Gerardi, Fabrício Ferraz
+#raw/UD_Guajajara-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz; Aragon, Carolina
+#raw/UD_Kaapor-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz; Aragon, Carolina; Godoy, Gustavo
+#raw/UD_Karo-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz
+#raw/UD_Makurap-TuDeT/README.md:Contributors: Aragon, Carolina; Gerardi, Fabrício Ferraz
+#raw/UD_Munduruku-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz; Huber, Eva
+#raw/UD_Tupinamba-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz
+        #
+
         for lang in [  # Metalanguages for sentence translations:
             dict(ID='English', Name='English', Glottocode='stan1293'),
             dict(ID='Portuguese', Name='Portuguese', Glottocode='port1283'),

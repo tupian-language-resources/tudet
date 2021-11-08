@@ -22,3 +22,7 @@
 	path = raw/UD_Tupinamba-TuDeT
 	url = https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT.git
 	branch = dev
+[submodule "raw/UD_Karo-TuDeT"]
+	path = raw/UD_Karo-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Karo-TuDeT.git
+	branch = dev
