@@ -6,7 +6,7 @@
    ```
 2. Re-create the CLDF data running
    ```shell
-   cldfbench makecldf --with-cldfreadme cldfbench_tudet.py --glottolog-version v4.4
+   cldfbench makecldf --with-cldfreadme cldfbench_tudet.py --glottolog-version v4.5
    ```
 3. Make sure the CLDF is valid:
    ```shell

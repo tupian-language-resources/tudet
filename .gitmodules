@@ -26,3 +26,7 @@
 	path = raw/UD_Karo-TuDeT
 	url = https://github.com/UniversalDependencies/UD_Karo-TuDeT.git
 	branch = dev
+[submodule "raw/UD_Teko-TuDeT"]
+	path = raw/UD_Teko-TuDeT
+	url = https://github.com/UniversalDependencies/UD_Teko-TuDeT.git
+	branch = dev

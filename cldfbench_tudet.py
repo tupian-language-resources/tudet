@@ -1,15 +1,19 @@
 import pathlib
 import subprocess
+import collections
 
 import conllu
 from pytular.util import fetch_sheet
+from clldutils.markup import iter_markdown_sections
 from cldfbench import Dataset as BaseDataset
 
-TRANSLATIONS = {
-    'eng': 'English',
-    'port': 'Portuguese',
-    'portuguese': 'Portuguese'
-}
+TRANSLATIONS = collections.OrderedDict([
+    ('eng', 'English'),
+    ('por', 'Portuguese'),
+    ('port', 'Portuguese'),
+    ('portuguese', 'Portuguese'),
+    ('fr', 'French'),
+])
 
 
 class Dataset(BaseDataset):
@@ -36,23 +40,37 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         args.writer.cldf.add_component('LanguageTable')
-        args.writer.cldf.add_component('ExampleTable', 'conllu')
+        args.writer.cldf.add_component(
+            'ExampleTable',
+            'conllu',
+            {
+                "name": "Contribution_ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+            })
+        args.writer.cldf.add_component('ContributionTable')
 
-        #
-        # FIXME: add ContributionTable!
-        #$ grep Contributors raw/*/README.md
-#raw/UD_Akuntsu-TuDeT/README.md:Contributors: Aragon, Carolina; Gerardi, Fabrício Ferraz
-#raw/UD_Guajajara-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz; Aragon, Carolina
-#raw/UD_Kaapor-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz; Aragon, Carolina; Godoy, Gustavo
-#raw/UD_Karo-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz
-#raw/UD_Makurap-TuDeT/README.md:Contributors: Aragon, Carolina; Gerardi, Fabrício Ferraz
-#raw/UD_Munduruku-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz; Huber, Eva
-#raw/UD_Tupinamba-TuDeT/README.md:Contributors: Gerardi, Fabrício Ferraz
-        #
+        for p in self.raw_dir.glob('*/README.md'):
+            text = p.read_text(encoding='utf8')
+            contribs, summary = None, None
+            for line in text.split('\n'):
+                if line.strip().startswith('Contributors:'):
+                    _, _, contribs = line.partition(':')
+                    break
+            for _, header, content in iter_markdown_sections(text):
+                if (header or '').strip().endswith('Summary'):
+                    summary = content.strip()
+                    break
+            args.writer.objects['ContributionTable'].append(dict(
+                ID=p.parent.name,
+                Name=p.parent.name,
+                Description=summary,
+                Contributor=contribs.strip(),
+            ))
 
         for lang in [  # Metalanguages for sentence translations:
             dict(ID='English', Name='English', Glottocode='stan1293'),
             dict(ID='Portuguese', Name='Portuguese', Glottocode='port1283'),
+            dict(ID='French', Name='French', Glottocode='stan1290'),
         ]:
             args.writer.objects['LanguageTable'].append(lang)
 
@@ -86,10 +104,11 @@ class Dataset(BaseDataset):
                     raise ValueError()
 
                 args.writer.objects['ExampleTable'].append(dict(
-                    ID='{}-{}'.format(langs[language]['ID'], smd['sent_id']),
+                    ID='{}-{}'.format(langs[language]['ID'], smd['sent_id']).replace('.', '_'),
                     Language_ID=langs[language]['ID'],
                     Primary_Text=smd['text'],
                     Translated_Text=translation[1],
                     Meta_Language_ID=translation[0],
                     conllu=sentence.serialize(),
+                    Contribution_ID=p.parent.name,
                 ))

@@ -10,7 +10,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://tular.clld.org/contributions/tudet
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-sa/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/tupian-language-resources/tudet
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/tupian-language-resources/tudet/tree/v0.2">tupian-language-resources/tudet v0.2</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/tupian-language-resources/tudet/tree/v0.3">tupian-language-resources/tudet v0.3</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/UniversalDependencies/UD_Teko-TuDeT/tree/r2.10">UniversalDependencies/UD_Teko-TuDeT r2.10</a></li><li><a href="https://github.com/UniversalDependencies/UD_Makurap-TuDeT/tree/r2.10">UniversalDependencies/UD_Makurap-TuDeT r2.10</a></li><li><a href="https://github.com/UniversalDependencies/UD_Kaapor-TuDeT/tree/r2.10">UniversalDependencies/UD_Kaapor-TuDeT r2.10</a></li><li><a href="https://github.com/UniversalDependencies/UD_Guajajara-TuDeT/tree/r2.10">UniversalDependencies/UD_Guajajara-TuDeT r2.10</a></li><li><a href="https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT/tree/r2.10">UniversalDependencies/UD_Akuntsu-TuDeT r2.10</a></li><li><a href="https://github.com/UniversalDependencies/UD_Munduruku-TuDeT/tree/r2.10">UniversalDependencies/UD_Munduruku-TuDeT r2.10</a></li><li><a href="https://github.com/UniversalDependencies/UD_Karo-TuDeT/tree/r2.10">UniversalDependencies/UD_Karo-TuDeT r2.10</a></li><li><a href="https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT/tree/r2.10">UniversalDependencies/UD_Tupinamba-TuDeT r2.10</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.10</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tudet
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -21,7 +21,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 9
+[dc:extent](http://purl.org/dc/terms/extent) | 11
 
 
 ### Columns
@@ -41,7 +41,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1513
+[dc:extent](http://purl.org/dc/terms/extent) | 2959
 
 
 ### Columns
@@ -50,11 +50,30 @@ Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
 [Language_ID](http://cldf.clld.org/v1.0/terms.rdf#languageReference) | `string` | References [languages.csv::ID](#table-languagescsv)
-[Primary_Text](http://cldf.clld.org/v1.0/terms.rdf#primaryText) | `string` | 
-[Analyzed_Word](http://cldf.clld.org/v1.0/terms.rdf#analyzedWord) | list of `string` (separated by `\t`) | 
-[Gloss](http://cldf.clld.org/v1.0/terms.rdf#gloss) | list of `string` (separated by `\t`) | 
-[Translated_Text](http://cldf.clld.org/v1.0/terms.rdf#translatedText) | `string` | 
-[Meta_Language_ID](http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference) | `string` | References [languages.csv::ID](#table-languagescsv)
+[Primary_Text](http://cldf.clld.org/v1.0/terms.rdf#primaryText) | `string` | The example text in the source language.
+[Analyzed_Word](http://cldf.clld.org/v1.0/terms.rdf#analyzedWord) | list of `string` (separated by `\t`) | The sequence of words of the primary text to be aligned with glosses
+[Gloss](http://cldf.clld.org/v1.0/terms.rdf#gloss) | list of `string` (separated by `\t`) | The sequence of glosses aligned with the words of the primary text
+[Translated_Text](http://cldf.clld.org/v1.0/terms.rdf#translatedText) | `string` | The translation of the example text in a meta language
+[Meta_Language_ID](http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference) | `string` | References the language of the translated text<br>References [languages.csv::ID](#table-languagescsv)
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 `conllu` | `string` | 
+[Contribution_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [contributions.csv::ID](#table-contributionscsv)
+
+## <a name="table-contributionscsv"></a>Table [contributions.csv](./contributions.csv)
+
+property | value
+ --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 8
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[Contributor](http://cldf.clld.org/v1.0/terms.rdf#contributor) | `string` | 
+[Citation](http://cldf.clld.org/v1.0/terms.rdf#citation) | `string` | 
 

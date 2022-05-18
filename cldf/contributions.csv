@@ -1,0 +1,15 @@
+ID,Name,Description,Contributor,Citation
+UD_Teko-TuDeT,UD_Teko-TuDeT,"UD_Teko-TuDeT is a collection of annotated sentences in <a href=""https://glottolog.org/resource/languoid/id/emer1243""> Tekó (Emérillon) </a>. The sentences stem from the only grammatical description of the language (Rose, 2011). Sentence annotation and documantation by Fabrício Ferraz Gerardi and Uliana Vedenina.","Gerardi, Fabrício Ferraz; Vedenina, Uliana",
+UD_Makurap-TuDeT,UD_Makurap-TuDeT,UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. The project is a work in progress and the treebank is being updated on a regular basis.,"Aragon, Carolina; Gerardi, Fabrício Ferraz",
+UD_Kaapor-TuDeT,UD_Kaapor-TuDeT,**UD_Kaapor-TuDeT** is a collection of annotated sentences in [Ka'apor](https://glottolog.org/resource/languoid/id/urub1250). The project is a work in progress and the treebank is being updated on a regular basis.,"Gerardi, Fabrício Ferraz; Aragon, Carolina; Godoy, Gustavo",
+UD_Guajajara-TuDeT,UD_Guajajara-TuDeT,"UD_Guajajara-TuDeT is a collection of annotated sentences in <a href=""https://glottolog.org/resource/languoid/id/guaj1255"">Guajajara</a>. Sentences stem from multiple sources such as descriptions of the language, short stories, dictionaries and translations from the New Testament. Sentence annotation and documentation by Lorena Martín Rodríguez and Fabrício Ferraz Gerardi.","Martín Rodríguez, Lorena; Gerardi, Fabrício Ferraz",
+UD_Akuntsu-TuDeT,UD_Akuntsu-TuDeT,"UD_Akuntsu-TuDeT is a collection of annotated sentences in <a href=""https://glottolog.org/resource/languoid/id/akun1241""> Akuntsú</a>. The sentences stem from the grammatical description by Aragon (2014) and Aragon's field work. Sentence annotation and documentation by Carolina Aragon and Fabrício Ferraz Gerardi.","Aragon, Carolina; Gerardi, Fabrício Ferraz",
+UD_Munduruku-TuDeT,UD_Munduruku-TuDeT,"UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http://www.endangeredlanguages.com/lang/2981). The project is a work in progress and the treebank is being updated on a regular basis.
+
+</br>
+</br>
+</br>
+</br>
+</br>","Gerardi, Fabrício Ferraz",
+UD_Karo-TuDeT,UD_Karo-TuDeT,"UD_Karo-TuDeT is a collection of annotated sentences in <a href=""https://glottolog.org/resource/languoid/id/karo1306""> Karo</a>. The sentences stem from the only grammatical description of the language (Gabas, 1999) and from the sentences in the dictionary by the same author (Gabas, 2007).  Sentence annotation and documentation by Fabrício Ferraz Gerardi.","Gerardi, Fabrício Ferraz",
+UD_Tupinamba-TuDeT,UD_Tupinamba-TuDeT,"UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https://glottolog.org/resource/languoid/id/tupi1273). All known sources in this language are being annotated: cathecisms, letters, poems, theater plays, and grammars (sixteenth and seventeenth century). Sentence annotation and documentation by Fabrício Ferraz Gerardi.","Gerardi, Fabrício Ferraz",

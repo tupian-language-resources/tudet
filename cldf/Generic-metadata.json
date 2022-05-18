@@ -15,13 +15,61 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tudet",
-            "dc:created": "v0.2"
+            "dc:created": "v0.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.4"
+            "dc:created": "v4.5"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Teko-TuDeT",
+            "dc:created": "r2.10"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Makurap-TuDeT",
+            "dc:created": "r2.10"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Kaapor-TuDeT",
+            "dc:created": "r2.10"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Guajajara-TuDeT",
+            "dc:created": "r2.10"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT",
+            "dc:created": "r2.10"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Munduruku-TuDeT",
+            "dc:created": "r2.10"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Karo-TuDeT",
+            "dc:created": "r2.10"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT",
+            "dc:created": "r2.10"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -42,7 +90,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 9,
+            "dc:extent": 11,
             "tableSchema": {
                 "columns": [
                     {
@@ -114,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 1513,
+            "dc:extent": 2959,
             "tableSchema": {
                 "columns": [
                     {
@@ -127,18 +175,23 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:description": "The example text in the source language.",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#primaryText",
                         "required": true,
                         "name": "Primary_Text"
                     },
                     {
+                        "dc:description": "The sequence of words of the primary text to be aligned with glosses",
+                        "dc:extent": "multivalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
                         "required": false,
@@ -146,6 +199,8 @@
                         "name": "Analyzed_Word"
                     },
                     {
+                        "dc:description": "The sequence of glosses aligned with the words of the primary text",
+                        "dc:extent": "multivalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
                         "required": false,
@@ -153,12 +208,16 @@
                         "name": "Gloss"
                     },
                     {
+                        "dc:description": "The translation of the example text in a meta language",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#translatedText",
                         "required": false,
                         "name": "Translated_Text"
                     },
                     {
+                        "dc:description": "References the language of the translated text",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
                         "required": false,
@@ -173,6 +232,10 @@
                     {
                         "datatype": "string",
                         "name": "conllu"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -197,6 +260,17 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Contribution_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -204,6 +278,51 @@
                 ]
             },
             "url": "examples.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:extent": 8,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributions.csv"
         }
     ]
 }
