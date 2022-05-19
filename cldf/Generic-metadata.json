@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/tupian-language-resources/tudet",
-            "dc:created": "v0.3"
+            "dc:created": "v0.3-1-gdd64b42"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,7 +27,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/UniversalDependencies/UD_Teko-TuDeT",
-            "dc:created": "r2.10"
+            "dc:created": "r2.10-9-g23674b7"
         },
         {
             "rdf:type": "prov:Entity",
@@ -57,7 +57,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/UniversalDependencies/UD_Munduruku-TuDeT",
-            "dc:created": "r2.10"
+            "dc:created": "r2.10-2-g29a9aa1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -69,7 +69,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT",
-            "dc:created": "r2.10"
+            "dc:created": "r2.10-3-g4e82687"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -162,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2959,
+            "dc:extent": 2961,
             "tableSchema": {
                 "columns": [
                     {

@@ -26277,7 +26277,7 @@ Munduruku-8,Munduruku,Jexat o'tobuxik iku be,,,He found food it in the slash,Eng
 ",UD_Munduruku-TuDeT
 Munduruku-9,Munduruku,Xa iku xe,,,The pequi tree is/lies near the slash,English,,"# sent_id = 9
 # text = Xa iku xe
-# Text_eng = The pequi tree is/lies near the slash
+# text_eng = The pequi tree is/lies near the slash
 1	Xa	xa	NOUN	n	_	2	nsubj	_	_
 2	iku	ku	NOUN	n	_	0	root	_	_
 3	xe	xe	ADP	pp	_	2	case	_	_
@@ -26285,7 +26285,7 @@ Munduruku-9,Munduruku,Xa iku xe,,,The pequi tree is/lies near the slash,English,
 ",UD_Munduruku-TuDeT
 Munduruku-10,Munduruku,Tawe oajẽm xa xe,,,The capuchin monkey came/arrived to/at the pequi tree,English,,"# sent_id = 10
 # text = Tawe oajẽm xa xe
-# text_portuguese = O macaco-prego chegou perto do pequizeiro
+# text_por = O macaco-prego chegou perto do pequizeiro
 # text_eng = The capuchin monkey came/arrived to/at the pequi tree
 1	Tawe	tawe	NOUN	n	_	2	obl	_	_
 2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	_	_
@@ -26295,7 +26295,7 @@ Munduruku-10,Munduruku,Tawe oajẽm xa xe,,,The capuchin monkey came/arrived to/
 ",UD_Munduruku-TuDeT
 Munduruku-11,Munduruku,Tawe oajẽm ka xe,,,The capuchin monkey came/arrived to/at the chief's land,English,,"# sent_id = 11
 # text = Tawe oajẽm ka xe
-# text_portuguese = O macaco-prego chegou perto do terrano do chefe
+# text_por = O macaco-prego chegou perto do terrano do chefe
 # Text_eng = The capuchin monkey came/arrived to/at the chief's land
 # sent_structure = SV
 1	Tawe	tawe	NOUN	n	_	2	obl	_	_
@@ -26306,7 +26306,7 @@ Munduruku-11,Munduruku,Tawe oajẽm ka xe,,,The capuchin monkey came/arrived to/
 ",UD_Munduruku-TuDeT
 Munduruku-12,Munduruku,Toxaw oajẽm ka be,,,The chief came/arrived to/at the place where the capuchin monkey was,English,,"# sent_id = 12
 # text = Toxaw oajẽm ka be
-# text_portuguese = O chefe chegou ao lugar onde estava o macaco-prego
+# text_por = O chefe chegou ao lugar onde estava o macaco-prego
 # text_eng = The chief came/arrived to/at the place where the capuchin monkey was
 # sent_structure = SV
 1	Toxaw	toxaw	NOUN	n	_	2	obl	_	_
@@ -26317,7 +26317,7 @@ Munduruku-12,Munduruku,Toxaw oajẽm ka be,,,The chief came/arrived to/at the pl
 ",UD_Munduruku-TuDeT
 Munduruku-13,Munduruku,Toxaw dak jexat o'tobuxik,,,The chief also found the food,English,,"# sent_id = 13
 # text = Toxaw dak jexat o'tobuxik
-# text_portuguese = O chefe também achou a comida
+# text_por = O chefe também achou a comida
 # text_eng = The chief also found the food
 1	Toxaw	toxaw	NOUN	n	_	4	obl	_	_
 2	dak	dak	ADV	adv	_	4	advmod	_	_
@@ -26327,7 +26327,7 @@ Munduruku-13,Munduruku,Toxaw dak jexat o'tobuxik,,,The chief also found the food
 ",UD_Munduruku-TuDeT
 Munduruku-14,Munduruku,Toxaw tawe o'tobuxik,,,The chief found the capuchin monkey,English,,"# sent_id = 14
 # text = Toxaw tawe o'tobuxik
-# text_portuguese = O chefe também achou o macaco-prego
+# text_por = O chefe também achou o macaco-prego
 # text_eng = The chief found the capuchin monkey
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -26336,7 +26336,7 @@ Munduruku-14,Munduruku,Toxaw tawe o'tobuxik,,,The chief found the capuchin monke
 ",UD_Munduruku-TuDeT
 Munduruku-15,Munduruku,Xa xe tawe o'tobuxik,,,He found the capuchin monkey near the pequi tree,English,,"# sent_id = 15
 # text = Xa xe tawe o'tobuxik
-# text_portuguese = Ele achou o macaco-prego pero do pequizeiro.
+# text_por = Ele achou o macaco-prego pero do pequizeiro.
 # text_eng = He found the capuchin monkey near the pequi tree
 1	Xa	xa	NOUN	n	_	4	obl	_	_
 2	xe	xe	ADP	pp	_	1	case	_	_
@@ -26346,7 +26346,7 @@ Munduruku-15,Munduruku,Xa xe tawe o'tobuxik,,,He found the capuchin monkey near 
 ",UD_Munduruku-TuDeT
 Munduruku-16,Munduruku,Ikibit awi kay,,,The sister wants a needle,English,,"# sent_id = 16
 # text = Ikibit awi kay
-# text_portuguese = A irmã quer uma agulha.
+# text_por = A irmã quer uma agulha.
 # text_eng = The sister wants a needle
 1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
 2	awi	awi	NOUN	n	_	1	obl	_	_
@@ -26355,7 +26355,7 @@ Munduruku-16,Munduruku,Ikibit awi kay,,,The sister wants a needle,English,,"# se
 ",UD_Munduruku-TuDeT
 Munduruku-17,Munduruku,"Awawa oajẽm ika be , jekibit ka be",,,The grandmother came/arrived at the sister's land .,English,,"# sent_id = 17
 # text = Awawa oajẽm ika be , jekibit ka be
-# text_portuguese = Vovo chegou ao terreno da irma.
+# text_por = Vovo chegou ao terreno da irma.
 # text_eng = The grandmother came/arrived at the sister's land .
 1	Awawa	awawa	NOUN	n	_	2	obl	_	_
 2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Person=3	0	root	_	_
@@ -26369,7 +26369,7 @@ Munduruku-17,Munduruku,"Awawa oajẽm ika be , jekibit ka be",,,The grandmother 
 ",UD_Munduruku-TuDeT
 Munduruku-18,Munduruku,Awi awawa bubut,,,The needle belongs to (?) the grandmother.,English,,"# sent_id = 18
 # text = Awi awawa bubut
-# text_portuguese = A agulha é da vovo.
+# text_por = A agulha é da vovo.
 # text_eng = The needle belongs to (?) the grandmother.
 1	Awi	awi	NOUN	n	_	3	nsubj	_	_
 2	awawa	awawa	NOUN	n	_	1	nmod	_	_
@@ -26378,7 +26378,7 @@ Munduruku-18,Munduruku,Awi awawa bubut,,,The needle belongs to (?) the grandmoth
 ",UD_Munduruku-TuDeT
 Munduruku-19,Munduruku,Ite awi o'tobuxik,,,She found the needle.,English,,"# sent_id = 19
 # text = Ite awi o'tobuxik
-# text_portuguese = Ela achou a agulha.
+# text_por = Ela achou a agulha.
 # text_eng = She found the needle.
 1	Ite	ite	PRON	pro	_	3	obl	_	_
 2	awi	awi	NOUN	n	_	3	obl	_	_
@@ -26387,7 +26387,7 @@ Munduruku-19,Munduruku,Ite awi o'tobuxik,,,She found the needle.,English,,"# sen
 ",UD_Munduruku-TuDeT
 Munduruku-20,Munduruku,Awawa o'tobuxik,,,The grandmother found (it?),English,,"# sent_id = 20
 # text = Awawa o'tobuxik
-# text_portuguese = Vovo achou.
+# text_por = Vovo achou.
 # text_eng = The grandmother found (it?)
 # sent_structure = SV
 1	Awawa	awawa	NOUN	n	_	2	obl	_	_
@@ -26396,7 +26396,7 @@ Munduruku-20,Munduruku,Awawa o'tobuxik,,,The grandmother found (it?),English,,"#
 ",UD_Munduruku-TuDeT
 Munduruku-22,Munduruku,Toxaw tawe o'tobuxik tu ?,,,Did the chief find the capuchin monkey?,English,,"# sent_id = 22
 # text = Toxaw tawe o'tobuxik tu ?
-# text_portuguese = O chefe achou o macaco-prego?
+# text_por = O chefe achou o macaco-prego?
 # text_eng = Did the chief find the capuchin monkey?
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -26407,7 +26407,7 @@ Munduruku-22,Munduruku,Toxaw tawe o'tobuxik tu ?,,,Did the chief find the capuch
 ",UD_Munduruku-TuDeT
 Munduruku-23,Munduruku,Abu tawe o'tobuxik ?,,,Who found the capuchin monkey?,English,,"# sent_id = 23
 # text = Abu tawe o'tobuxik ?
-# text_portuguese = Quem achou o macaco-prego?
+# text_por = Quem achou o macaco-prego?
 # text_eng = Who found the capuchin monkey?
 1	Abu	abu	PRON	pro	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -26417,7 +26417,7 @@ Munduruku-23,Munduruku,Abu tawe o'tobuxik ?,,,Who found the capuchin monkey?,Eng
 ",UD_Munduruku-TuDeT
 Munduruku-24,Munduruku,Abu awi o'tobuxik ?,,,Who found the needle?,English,,"# sent_id = 24
 # text = Abu awi o'tobuxik ?
-# text_portuguese = Quem achou a agulha?
+# text_por = Quem achou a agulha?
 # text_eng = Who found the needle?
 1	Abu	abu	PRON	pro	_	3	obl	_	_
 2	awi	awi	NOUN	n	_	3	obl	_	_
@@ -26427,7 +26427,7 @@ Munduruku-24,Munduruku,Abu awi o'tobuxik ?,,,Who found the needle?,English,,"# s
 ",UD_Munduruku-TuDeT
 Munduruku-25,Munduruku,Abu jexat o'tobuxik ?,,,Who found the food?,English,,"# sent_id = 25
 # text = Abu jexat o'tobuxik ?
-# text_portuguese = Quem achou a comida?
+# text_por = Quem achou a comida?
 # text_eng = Who found the food?
 1	Abu	abu	PRON	pro	_	3	obl	_	_
 2	jexat	xat	NOUN	n	_	3	obl	_	_
@@ -26437,7 +26437,7 @@ Munduruku-25,Munduruku,Abu jexat o'tobuxik ?,,,Who found the food?,English,,"# s
 ",UD_Munduruku-TuDeT
 Munduruku-26,Munduruku,Abu awi kay ?,,,Who wants a needle?,English,,"# sent_id = 26
 # text = Abu awi kay ?
-# text_portuguese = Quem quer agulha?
+# text_por = Quem quer agulha?
 # text_eng = Who wants a needle?
 1	Abu	abu	PRON	pro	_	2	nsubj	_	_
 2	awi	awi	NOUN	n	_	0	root	_	_
@@ -26447,7 +26447,7 @@ Munduruku-26,Munduruku,Abu awi kay ?,,,Who wants a needle?,English,,"# sent_id =
 ",UD_Munduruku-TuDeT
 Munduruku-27,Munduruku,Abu o'titobuxik ?,,,Who found the flowers?,English,,"# sent_id = 27
 # text = Abu o'titobuxik ?
-# text_portuguese = Quem achou as flores?
+# text_por = Quem achou as flores?
 # text_eng = Who found the flowers?
 1	Abu	abu	PRON	pro	_	2	nsubj	_	_
 2	o'titobuxik	dobuxik	VERB	v	Aspect=Perf|Incorp=Yes|Person=3	0	root	_	_
@@ -26456,7 +26456,7 @@ Munduruku-27,Munduruku,Abu o'titobuxik ?,,,Who found the flowers?,English,,"# se
 ",UD_Munduruku-TuDeT
 Munduruku-28,Munduruku,Awawa awi o'tobuxik jekibit ka be,,,The grandmother found a needle on her sister's land.,English,,"# sent_id = 28
 # text = Awawa awi o'tobuxik jekibit ka be
-# text_portuguese = Vovó achou uma agulha no terreno da irmã.
+# text_por = Vovó achou uma agulha no terreno da irmã.
 # text_eng = The grandmother found a needle on her sister's land.
 1	Awawa	awawa	NOUN	n	_	3	obl	_	_
 2	awi	awi	NOUN	n	_	3	obl	_	_
@@ -26468,7 +26468,7 @@ Munduruku-28,Munduruku,Awawa awi o'tobuxik jekibit ka be,,,The grandmother found
 ",UD_Munduruku-TuDeT
 Munduruku-29,Munduruku,Oexe awawa,,,The grandmother arrived home.,English,,"# sent_id = 29
 # text = Oexe awawa
-# text_portuguese = Vovó chegou em casa.
+# text_por = Vovó chegou em casa.
 # text_eng = The grandmother arrived home.
 1	Oexe	xe	VERB	v	Aspect=Perf|Person=3	0	root	_	_
 2	awawa	awawa	NOUN	n	_	1	obl	_	_
@@ -26476,7 +26476,7 @@ Munduruku-29,Munduruku,Oexe awawa,,,The grandmother arrived home.,English,,"# se
 ",UD_Munduruku-TuDeT
 Munduruku-30,Munduruku,Toxaw dak oexe,,,The chief has/owns also a house. (?),English,,"# sent_id = 30
 # text = Toxaw dak oexe
-# text_portuguese = O chefe tambem chegou em casa.
+# text_por = O chefe tambem chegou em casa.
 # text_eng = The chief has/owns also a house. (?)
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	dak	dak	ADV	adv	_	3	advmod	_	_
@@ -26485,7 +26485,7 @@ Munduruku-30,Munduruku,Toxaw dak oexe,,,The chief has/owns also a house. (?),Eng
 ",UD_Munduruku-TuDeT
 Munduruku-31,Munduruku,Awawa tawe kay,,,The grandmother wants the capuchin monkey.,English,,"# sent_id = 31
 # text = Awawa tawe kay
-# text_portuguese = Vovó quer o macaco-prego.
+# text_por = Vovó quer o macaco-prego.
 # text_eng = The grandmother wants the capuchin monkey.
 1	Awawa	awawa	NOUN	n	_	0	root	_	_
 2	tawe	tawe	NOUN	n	_	1	nmod	_	_
@@ -26494,7 +26494,7 @@ Munduruku-31,Munduruku,Awawa tawe kay,,,The grandmother wants the capuchin monke
 ",UD_Munduruku-TuDeT
 Munduruku-32,Munduruku,Toxaw tawe o'tobuxik,,,The chief found the capuchin monkey.,English,,"# sent_id = 32
 # text = Toxaw tawe o'tobuxik
-# text_portuguese = O chefe achou o macaco-prego.
+# text_por = O chefe achou o macaco-prego.
 # text_eng = The chief found the capuchin monkey.
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	tawe	tawe	NOUN	n	_	3	obl	_	_
@@ -26503,7 +26503,7 @@ Munduruku-32,Munduruku,Toxaw tawe o'tobuxik,,,The chief found the capuchin monke
 ",UD_Munduruku-TuDeT
 Munduruku-33,Munduruku,Jexat o'tobuxik,,,He found the food.,English,,"# sent_id = 33
 # text = Jexat o'tobuxik
-# text_portuguese = Ele achou, a comida.
+# text_por = Ele achou, a comida.
 # text_eng = He found the food.
 1	Jexat	xat	NOUN	n	_	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
@@ -26511,7 +26511,7 @@ Munduruku-33,Munduruku,Jexat o'tobuxik,,,He found the food.,English,,"# sent_id 
 ",UD_Munduruku-TuDeT
 Munduruku-34,Munduruku,"Tawe ixat , toxaw xat",,,The chief eats the capuchin monkey.,English,,"# sent_id = 34
 # text = Tawe ixat , toxaw xat
-# text_portuguese = O chefe come macaco-prego.
+# text_por = O chefe come macaco-prego.
 # text_eng = The chief eats the capuchin monkey.
 1	Tawe	tawe	NOUN	n	_	2	nsubj	_	_
 2	ixat	xat	NOUN	n	_	0	root	_	_
@@ -26522,7 +26522,7 @@ Munduruku-34,Munduruku,"Tawe ixat , toxaw xat",,,The chief eats the capuchin mon
 ",UD_Munduruku-TuDeT
 Munduruku-35,Munduruku,Awawa ixaxet,,,The grandmother has food.,English,,"# sent_id = 35
 # text = Awawa ixaxet
-# text_portuguese = Vovó tem comida.
+# text_por = Vovó tem comida.
 # text_eng = The grandmother has food.
 1	Awawa	awawa	NOUN	n	_	2	nsubj	_	_
 2	ixaxet	xat	NOUN	n	Red=Ex	0	root	_	_
@@ -26530,7 +26530,7 @@ Munduruku-35,Munduruku,Awawa ixaxet,,,The grandmother has food.,English,,"# sent
 ",UD_Munduruku-TuDeT
 Munduruku-36,Munduruku,Awawa ixiwe kay,,,The grandmother wants an embira plant .,English,,"# sent_id = 36
 # text = Awawa ixiwe kay
-# text_portuguese = Vovo quer embira.
+# text_por = Vovo quer embira.
 # text_eng = The grandmother wants an embira plant .
 1	Awawa	awawa	NOUN	n	_	0	root	_	_
 2	ixiwe	ixiwe	NOUN	n	_	1	nmod	_	_
@@ -26539,7 +26539,7 @@ Munduruku-36,Munduruku,Awawa ixiwe kay,,,The grandmother wants an embira plant .
 ",UD_Munduruku-TuDeT
 Munduruku-37,Munduruku,Ixiwe ako xe,,,The embira plant is close to the banana tree.,English,,"# sent_id = 37
 # text = Ixiwe ako xe
-# text_portuguese = A embira esta perto da bananeira.
+# text_por = A embira esta perto da bananeira.
 # text_eng = The embira plant is close to the banana tree.
 1	Ixiwe	ixiwe	NOUN	n	_	0	root	_	_
 2	ako	ako	NOUN	n	_	1	obl	_	_
@@ -26548,7 +26548,7 @@ Munduruku-37,Munduruku,Ixiwe ako xe,,,The embira plant is close to the banana tr
 ",UD_Munduruku-TuDeT
 Munduruku-38,Munduruku,Awawa cum ako xe,,,Grandma goes near the banana tree.,English,,"# sent_id = 38
 # text = Awawa cum ako xe
-# text_portuguese = Vovó vai perto da bananeira.
+# text_por = Vovó vai perto da bananeira.
 # text_eng = Grandma goes near the banana tree.
 1	Awawa	awawa	NOUN	n	_	2	nsubj	_	_
 2	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
@@ -26558,7 +26558,7 @@ Munduruku-38,Munduruku,Awawa cum ako xe,,,Grandma goes near the banana tree.,Eng
 ",UD_Munduruku-TuDeT
 Munduruku-39,Munduruku,Ixiwe o'tobuxik ako xe,,,She found the embira plant close to the banana tree.,English,,"# sent_id = 39
 # text = Ixiwe o'tobuxik ako xe
-# text_portuguese = Ela achou embira perto da bananeira.
+# text_por = Ela achou embira perto da bananeira.
 # text_eng = She found the embira plant close to the banana tree.
 1	Ixiwe	ixiwe	NOUN	n	_	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
@@ -26568,7 +26568,7 @@ Munduruku-39,Munduruku,Ixiwe o'tobuxik ako xe,,,She found the embira plant close
 ",UD_Munduruku-TuDeT
 Munduruku-40,Munduruku,cum jeku be,,,He is in the slah.,English,,"# sent_id = 40
 # text = cum jeku be
-# text_portuguese = Está na roça.
+# text_por = Está na roça.
 # text_eng = He is in the slah.
 1	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
 2	jeku	jeku	NOUN	n	Reflex=Yes	1	obl	_	_
@@ -26577,7 +26577,7 @@ Munduruku-40,Munduruku,cum jeku be,,,He is in the slah.,English,,"# sent_id = 40
 ",UD_Munduruku-TuDeT
 Munduruku-41,Munduruku,Awawa jeku be oajẽm,,,The grandmother arrived/came to her slash.,English,,"# sent_id = 41
 # text = Awawa jeku be oajẽm
-# text_portuguese = Vovo chegou a roca.
+# text_por = Vovo chegou a roca.
 # text_eng = The grandmother arrived/came to her slash.
 1	Awawa	awawa	NOUN	n	_	4	obl	_	_
 2	jeku	ku	NOUN	n	_	4	obl	_	_
@@ -26587,7 +26587,7 @@ Munduruku-41,Munduruku,Awawa jeku be oajẽm,,,The grandmother arrived/came to h
 ",UD_Munduruku-TuDeT
 Munduruku-42,Munduruku,Akoba iku be opop .,,,The bananas lay in her slash.,English,,"# sent_id = 42
 # text = Akoba iku be opop .
-# text_portuguese = As bananas estao na roca.
+# text_por = As bananas estao na roca.
 # text_eng = The bananas lay in her slash.
 1	Akoba	Akoba	NOUN	n	_	4	nsubj	_	_
 2	iku	iku	NOUN	n	_	1	nmod	_	_
@@ -26598,7 +26598,7 @@ Munduruku-42,Munduruku,Akoba iku be opop .,,,The bananas lay in her slash.,Engli
 ",UD_Munduruku-TuDeT
 Munduruku-43,Munduruku,"Tit tak iku be opop , awawa ku be .",,,The flower lies also in her slash -- in the grandmother's slash.,English,,"# sent_id = 43
 # text = Tit tak iku be opop , awawa ku be .
-# text_portuguese = A flor também esta na roca -- na roca da vovo.
+# text_por = A flor também esta na roca -- na roca da vovo.
 # text_eng = The flower lies also in her slash -- in the grandmother's slash.
 1	Tit	dit	NOUN	n	_	5	nsubj	_	_
 2	tak	tak	ADV	adv	_	5	advmod	_	_
@@ -26614,7 +26614,7 @@ Munduruku-43,Munduruku,"Tit tak iku be opop , awawa ku be .",,,The flower lies a
 ",UD_Munduruku-TuDeT
 Munduruku-44,Munduruku,Ixi uk'a be,,,The mother is at home,English,,"# sent_id = 44
 # text = Ixi uk'a be
-# text_portuguese = A mãe está em casa.
+# text_por = A mãe está em casa.
 # text_eng = The mother is at home
 1	Ixi	ixi	NOUN	n	_	2	nsubj	_	_
 2-3	uk'a	_	_	_	_	_	_	_	_
@@ -26625,7 +26625,7 @@ Munduruku-44,Munduruku,Ixi uk'a be,,,The mother is at home,English,,"# sent_id =
 ",UD_Munduruku-TuDeT
 Munduruku-45,Munduruku,I'it tak uk'a be,,,The son is also at home. (in the house),English,,"# sent_id = 45
 # text = I'it tak uk'a be
-# text_portuguese = O filho também esta em casa.
+# text_por = O filho também esta em casa.
 # text_eng = The son is also at home. (in the house)
 1	I'it	'it	NOUN	n	_	3	nsubj	_	_
 2	tak	tak	ADV	adv	_	3	advmod	_	_
@@ -26635,7 +26635,7 @@ Munduruku-45,Munduruku,I'it tak uk'a be,,,The son is also at home. (in the house
 ",UD_Munduruku-TuDeT
 Munduruku-46,Munduruku,Toxaw oexe,,,The chief arrived at/ came home.,English,,"# sent_id = 46
 # text = Toxaw oexe
-# text_portuguese = O chefe chegou a casa.
+# text_por = O chefe chegou a casa.
 # text_eng = The chief arrived at/ came home.
 1	Toxaw	toxaw	NOUN	n	_	2	obl	_	_
 2	oexe	xe	VERB	vi	Aspect=Perf|Person=3	0	root	_	_
@@ -26643,7 +26643,7 @@ Munduruku-46,Munduruku,Toxaw oexe,,,The chief arrived at/ came home.,English,,"#
 ",UD_Munduruku-TuDeT
 Munduruku-47,Munduruku,I'it wa du ?,,,Is the son crying?,English,,"# sent_id = 47
 # text = I'it wa du ?
-# text_portuguese = O filho esta chorando?
+# text_por = O filho esta chorando?
 # text_eng = Is the son crying?
 1	I'it	'it	NOUN	n	_	2	nsubj	_	_
 2	wa	wa	VERB	vx	_	0	root	_	_
@@ -26653,7 +26653,7 @@ Munduruku-47,Munduruku,I'it wa du ?,,,Is the son crying?,English,,"# sent_id = 4
 ",UD_Munduruku-TuDeT
 Munduruku-49,Munduruku,Toxaw i'it o'tobuxik uk'a be .,,,The chief found the son at home / in the house.,English,,"# sent_id = 49
 # text = Toxaw i'it o'tobuxik uk'a be .
-# text_portuguese = O chefe achou o filho em casa.
+# text_por = O chefe achou o filho em casa.
 # text_eng = The chief found the son at home / in the house.
 1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
 2	i'it	i'it	NOUN	n	_	3	obl	_	_
@@ -26667,7 +26667,7 @@ Munduruku-49,Munduruku,Toxaw i'it o'tobuxik uk'a be .,,,The chief found the son 
 ",UD_Munduruku-TuDeT
 Munduruku-50,Munduruku,I'it ixet,,,The son is sleeping.,English,,"# sent_id = 50
 # text = I'it ixet
-# text_portuguese = O filho esta dormindo.
+# text_por = O filho esta dormindo.
 # text_eng = The son is sleeping.
 1	I'it	'it	NOUN	n	_	2	nsubj	_	_
 2	ixet	xet	VERB	v:st	_	0	root	_	_
@@ -26675,7 +26675,7 @@ Munduruku-50,Munduruku,I'it ixet,,,The son is sleeping.,English,,"# sent_id = 50
 ",UD_Munduruku-TuDeT
 Munduruku-51,Munduruku,Ixi wa'e kug̃,,,The mother has a gourd.,English,,"# sent_id = 51
 # text = Ixi wa'e kug̃
-# text_portuguese = A mãe tem uma cuia.
+# text_por = A mãe tem uma cuia.
 # text_eng = The mother has a gourd.
 1	Ixi	ixi	NOUN	n	_	3	nsubj	_	_
 2	wa'e	wa'e	NOUN	n	_	3	obj	_	_
@@ -26684,7 +26684,7 @@ Munduruku-51,Munduruku,Ixi wa'e kug̃,,,The mother has a gourd.,English,,"# sent
 ",UD_Munduruku-TuDeT
 Munduruku-52,Munduruku,"Wa'e ibubut , ixi bubut",,,The gourd is hers.,English,,"# sent_id = 52
 # text = Wa'e ibubut , ixi bubut
-# text_portuguese = A cuia e dela.
+# text_por = A cuia e dela.
 # text_eng = The gourd is hers.
 1	Wa'e	wa'e	NOUN	n	_	2	nsubj	_	_
 2	ibubut	bubut	NOUN	n	_	0	root	_	_
@@ -26695,7 +26695,7 @@ Munduruku-52,Munduruku,"Wa'e ibubut , ixi bubut",,,The gourd is hers.,English,,"
 ",UD_Munduruku-TuDeT
 Munduruku-53,Munduruku,Wexik'a kake wa'e be,,,There is sweet-potatoe in the gourd,English,,"# sent_id = 53
 # text = Wexik'a kake wa'e be
-# text_portuguese = Há batata-doce na cuia.
+# text_por = Há batata-doce na cuia.
 # text_eng = There is sweet-potatoe in the gourd
 1-2	Wexik'a	_	_	_	_	_	_	_	_
 1	Wexik	wexik	NOUN	n	_	3	nsubj	_	_
@@ -26707,7 +26707,7 @@ Munduruku-53,Munduruku,Wexik'a kake wa'e be,,,There is sweet-potatoe in the gour
 ",UD_Munduruku-TuDeT
 Munduruku-54,Munduruku,"Ixat'a kake wa'e be , uk'a be",,,"There is food in the gourd, at home.",English,,"# sent_id = 54
 # text = Ixat'a kake wa'e be , uk'a be
-# text_portuguese = Tem comida na cuia, em casa.
+# text_por = Tem comida na cuia, em casa.
 # text_eng = There is food in the gourd, at home.
 1-2	Ixat'a	_	_	_	_	_	_	_	_
 1	Ixat	xat	NOUN	n	_	3	nsubj	_	_
@@ -26722,7 +26722,7 @@ Munduruku-54,Munduruku,"Ixat'a kake wa'e be , uk'a be",,,"There is food in the g
 ",UD_Munduruku-TuDeT
 Munduruku-55,Munduruku,Wa'e uk'a be opop,,,The gourd is/lies in the house.,English,,"# sent_id = 55
 # text = Wa'e uk'a be opop
-# text_portuguese = A cuia está na casa.
+# text_por = A cuia está na casa.
 # text_eng = The gourd is/lies in the house.
 1	Wa'e	wa'e	NOUN	n	_	4	nsubj	_	_
 2	uk'a	uk'a	NOUN	n	_	1	nmod	_	_
@@ -26732,7 +26732,7 @@ Munduruku-55,Munduruku,Wa'e uk'a be opop,,,The gourd is/lies in the house.,Engli
 ",UD_Munduruku-TuDeT
 Munduruku-56,Munduruku,puybit ka'ũmg̃u o'e,,,There is no food,English,,"# sent_id = 56
 # text = puybit ka'ũmg̃u o'e
-# text_portuguese = Não há comida Vol 5 p39-1
+# text_por = Não há comida Vol 5 p39-1
 # text_eng = There is no food
 1	puybit	puybit	NOUN	n	_	2	nsubj	_	_
 2	ka'ũmg̃u	ka'ũmg̃u	VERB	cop	_	0	root	_	_
@@ -26741,7 +26741,7 @@ Munduruku-56,Munduruku,puybit ka'ũmg̃u o'e,,,There is no food,English,,"# sent
 ",UD_Munduruku-TuDeT
 Munduruku-57,Munduruku,ag̃okatkat o'ju puybit aokam,,,The men went to kill the hunt,English,,"# sent_id = 57
 # text = ag̃okatkat o'ju puybit aokam
-# text_portuguese = Os homens foram matar caça Vol 5 p39-2
+# text_por = Os homens foram matar caça Vol 5 p39-2
 # text_eng = The men went to kill the hunt
 1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	_	_
 2	o'ju	cu	VERB	vi	_	0	root	_	_
@@ -26751,7 +26751,7 @@ Munduruku-57,Munduruku,ag̃okatkat o'ju puybit aokam,,,The men went to kill the 
 ",UD_Munduruku-TuDeT
 Munduruku-58,Munduruku,oexexe ip uk'a be puybit kukug̃,,,They arrived home with a hunted thing,English,,"# sent_id = 58
 # text = oexexe ip uk'a be puybit kukug̃
-# text_portuguese = Eles chegaram em casa com caça Vol 5 p39-3
+# text_por = Eles chegaram em casa com caça Vol 5 p39-3
 # text_eng = They arrived home with a hunted thing
 1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 2	ip	ip	PART	pcl	_	1	dep	_	_
@@ -26765,7 +26765,7 @@ Munduruku-58,Munduruku,oexexe ip uk'a be puybit kukug̃,,,They arrived home with
 ",UD_Munduruku-TuDeT
 Munduruku-59,Munduruku,"Daje ade o'yaoka ip pima , puybit kuka o'e ade",,,"There is a lot of food, when they kill (a) pig(s)",English,,"# sent_id = 59
 # text = Daje ade o'yaoka ip pima , puybit kuka o'e ade
-# text_portuguese = Quando eles matam muito porco, tem muita bóia vol5 p40
+# text_por = Quando eles matam muito porco, tem muita bóia vol5 p40
 # text_eng = There is a lot of food, when they kill (a) pig(s)
 1	Daje	daje	NOUN	n	_	3	obl	_	_
 2	ade	ade	PRON	pro	_	1	nmod	_	_
@@ -26781,7 +26781,7 @@ Munduruku-59,Munduruku,"Daje ade o'yaoka ip pima , puybit kuka o'e ade",,,"There
 ",UD_Munduruku-TuDeT
 Munduruku-60,Munduruku,Soat bekitkit ibeg̃beg̃ o'e ade puybit puye,,,All children were/became satisfied because of so much food,English,,"# sent_id = 60
 # text = Soat bekitkit ibeg̃beg̃ o'e ade puybit puye
-# text_portuguese = Todas as crian ças ficaram satisfeitas por causa de muita comida.
+# text_por = Todas as crian ças ficaram satisfeitas por causa de muita comida.
 # text_eng = All children were/became satisfied because of so much food
 1	Soat	Soat	PRON	_	_	2	nmod	_	_
 2	bekitkit	bekitkit	NOUN	n	_	0	root	_	_
@@ -26794,7 +26794,7 @@ Munduruku-60,Munduruku,Soat bekitkit ibeg̃beg̃ o'e ade puybit puye,,,All child
 ",UD_Munduruku-TuDeT
 Munduruku-61,Munduruku,Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe,,,in the morning the spider is busy webmaking (lit. making trousers) vol 5 36,English,,"# sent_id = 61
 # text = Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe
-# text_portuguese = A aranha eatá octfpada de dia fazendo a teia perto do fogo.
+# text_por = A aranha eatá octfpada de dia fazendo a teia perto do fogo.
 # text_eng = in the morning the spider is busy webmaking (lit. making trousers) vol 5 36
 1	Kabiam	Kabiam	ADV	adv	_	3	amod	_	_
 2	doa	_	NOUN	n	_	5	nsubj	_	_
@@ -26807,7 +26807,7 @@ Munduruku-61,Munduruku,Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe,,,in 
 ",UD_Munduruku-TuDeT
 Munduruku-100,Munduruku,"Karosakaybu daje o'g̃uju , tacup puye ip .",,,"K transformed people in pigs, becaus they were stealing food",English,,"# sent_id = 100
 # text = Karosakaybu daje o'g̃uju , tacup puye ip .
-# text_port = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas
+# text_por = Karosakaybu virou as pessoas porcos grandes porque estavam guardando bóia só para elas
 # text_eng = K transformed people in pigs, becaus they were stealing food
 1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	_	_
 2	daje	daje	NOUN	n	_	3	obl	_	_
@@ -27178,7 +27178,7 @@ Munduruku-5000,Munduruku,wamõat ag̃okatkat o'sutayxida,,,The shaman married th
 Munduruku-5001,Munduruku,õn ag̃okatkat o'sutayxidaat wamõat pe,,,I made the man married thorugh the shamman. Gomes 2006: 80 (46b),English,,"# sent_id = 5001
 # text = õn ag̃okatkat o'sutayxidaat wamõat pe
 # text_eng = I made the man married thorugh the shamman. Gomes 2006: 80 (46b)
-# text_port = Eu fiz o pajé casar o homem
+# text_por = Eu fiz o pajé casar o homem
 1	õn	õn	PRON	pron	_	3	obl	_	_
 2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	_	_
 3	o'sutayxidaat	tayxi	VERB	v	Person=33|Trans=Yes|Voice=Cau	0	root	_	_
@@ -27270,7 +27270,7 @@ Munduruku-5008,Munduruku,Wuy'adapmude'o'onapti dak otibu,,,I too shall to buy pe
 Munduruku-5009,Munduruku,"Eg̃uycũg̃ pimap , ecepe eg̃rũ be",,,"Whenever you are sad, lie down in your hammock. Sheffler (1974: 7)",English,,"# sent_id = 5009
 # text = Eg̃uycũg̃ pimap , ecepe eg̃rũ be
 # text_eng = Whenever you are sad, lie down in your hammock. Sheffler (1974: 7)
-# text_port = Quando estiver triste, deita na tua rede
+# text_por = Quando estiver triste, deita na tua rede
 1	Eg̃uycũg̃	g̃uycũg̃	NOUN	n	Number=Sing|Person=2	4	advcl	_	_
 2	pimap	pimap	SCONJ	sconj	_	1	mark	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
@@ -27458,7 +27458,7 @@ Munduruku-7005,Munduruku,"Wara'at axima yobog̃bug̃. Potiprit, pakodup yobog̃b
 Munduruku-7006,Munduruku,"Ibu buje , tujuxexem ip uk’a be ayacayũ be , ta am .",,,"When they are caught , they take them home for the women to cook .     (Cartilha 7, 1.6)",English,,"# sent_id = 7006
 # text = Ibu buje , tujuxexem ip uk’a be ayacayũ be , ta am .
 # text_eng = When they are caught , they take them home for the women to cook .     (Cartilha 7, 1.6)
-# text_port = Quando estão pegos, eles levam para casa para as mulheres cozinharem.
+# text_por = Quando estão pegos, eles levam para casa para as mulheres cozinharem.
 1	Ibu	bu	VERB	v	Rel=NCont	4	advcl	_	_
 2	buje	buje	ADV	adv	_	1	advmod	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	punct=
@@ -27757,14 +27757,14 @@ Munduruku-7015,Munduruku,"Tõm karaw bima , tõm pi riprim pag̃eiro’a be . T�
 ",UD_Munduruku-TuDeT
 Munduruku-0033_1,Munduruku,Daruk juap,,,Daruk juap (O Aparecimento do Arco),Portuguese,,"# sent_id = 0033.1
 # text = Daruk juap
-# text_port = Daruk juap (O Aparecimento do Arco)
+# text_por = Daruk juap (O Aparecimento do Arco)
 1	Daruk	Daruk	NOUN	n	_	0	root	_	_
 2	juap	juap	NOUN	n	Nomzr=Pa	1	case	_	_
 
 ",UD_Munduruku-TuDeT
 Munduruku-0033_2,Munduruku,"Daruk o'ju , i'e'em ajojoyt'ũm'ũm .",,,"Apareceu o arco, dizem os velhos antigos",Portuguese,,"# sent_id = 0033.2
 # text = Daruk o'ju , i'e'em ajojoyt'ũm'ũm .
-# text_port = Apareceu o arco, dizem os velhos antigos
+# text_por = Apareceu o arco, dizem os velhos antigos
 1	Daruk	Daruk	NOUN	n	_	2	nsubj	_	_
 2	o'ju	cu	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
@@ -27775,7 +27775,7 @@ Munduruku-0033_2,Munduruku,"Daruk o'ju , i'e'em ajojoyt'ũm'ũm .",,,"Apareceu o
 ",UD_Munduruku-TuDeT
 Munduruku-0033_3,Munduruku,Iixĩt o'g̃ukorẽm io'e .,,,A irmã dele ralhou com ele.,Portuguese,,"# sent_id = 0033.3
 # text = Iixĩt o'g̃ukorẽm io'e .
-# text_port = A irmã dele ralhou com ele.
+# text_por = A irmã dele ralhou com ele.
 1	Iixĩt	ixĩt	NOUN	n	Rel=NCont	2	obl	_	_
 2	o'g̃ukorẽm	korẽm	VERB	v	Aspect=Imp|Person=3|Voice=Cau	0	root	_	_
 3	io'e	o'e	VERB	vi	Aspect=Perf|Evident=Nfh|Number[subj]=Sing|Person[subj]=3	2	discourse	_	_
@@ -27784,7 +27784,7 @@ Munduruku-0033_3,Munduruku,Iixĩt o'g̃ukorẽm io'e .,,,A irmã dele ralhou com
 ",UD_Munduruku-TuDeT
 Munduruku-0033_4,Munduruku,Wuyjuyũ ma'g̃u koap pit osunuy .,,,Primeiramente era gente.,Portuguese,,"# sent_id = 0033.4
 # text = Wuyjuyũ ma'g̃u koap pit osunuy .
-# text_port = Primeiramente era gente.
+# text_por = Primeiramente era gente.
 1	Wuyjuyũ	wuyjuyũ	NOUN	n	Number=Plur	0	root	_	_
 2	ma'g̃u	ma'g̃u	PART	prcl	Polarity=Neg	1	discourse	_	_
 3	koap	koap	ADV	pp	_	1	advmod	_	_
@@ -27795,7 +27795,7 @@ Munduruku-0033_4,Munduruku,Wuyjuyũ ma'g̃u koap pit osunuy .,,,Primeiramente er
 ",UD_Munduruku-TuDeT
 Munduruku-0033_5,Munduruku,Wuyjuyũ ma'g̃u koap pit osunuy .,,,Primeiramente era gente.,Portuguese,,"# sent_id = 0033.5
 # text = Wuyjuyũ ma'g̃u koap pit osunuy .
-# text_port = Primeiramente era gente.
+# text_por = Primeiramente era gente.
 1	Wuyjuyũ	wuyjuyũ	NOUN	n	Number=Plur	0	root	_	_
 2	ma'g̃u	ma'g̃u	PART	prcl	Polarity=Neg	1	discourse	_	_
 3	koap	koap	ADV	pp	_	1	advmod	_	_
@@ -27806,7 +27806,7 @@ Munduruku-0033_5,Munduruku,Wuyjuyũ ma'g̃u koap pit osunuy .,,,Primeiramente er
 ",UD_Munduruku-TuDeT
 Munduruku-0033_6,Munduruku,Ibuybitopi iixĩt osunuy cebe . Iixĩt ku dag̃ oeku .,,,Ele comia o que era da irmã. A irmã dele andava na roça.,Portuguese,,"# sent_id = 0033.6
 # text = Ibuybitopi iixĩt osunuy cebe . Iixĩt ku dag̃ oeku .
-# text_port = Ele comia o que era da irmã. A irmã dele andava na roça.
+# text_por = Ele comia o que era da irmã. A irmã dele andava na roça.
 1	Ibuybitopi	Ipuybitopi	NOUN	n	Rel=NCont	4	nsubj	_	_
 2	iixĩt	ixĩt	NOUN	n	Rel=NCont	1	nmod	_	_
 3	osunuy	osunuy	AUX	aux	_	4	cop	_	_
@@ -27821,7 +27821,7 @@ Munduruku-0033_6,Munduruku,Ibuybitopi iixĩt osunuy cebe . Iixĩt ku dag̃ oeku 
 ",UD_Munduruku-TuDeT
 Munduruku-0033_7,Munduruku,Dexe. Ku dag̃wi oexe .,,,Chegour. Chegou da roça.,Portuguese,,"# sent_id = 0033.7
 # text = Dexe. Ku dag̃wi oexe .
-# text_port = Chegour. Chegou da roça.
+# text_por = Chegour. Chegou da roça.
 1	Dexe	Dexe	VERB	v	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	PUNCT	_	1	punct	_	_
 3	Ku	ku	NOUN	n	_	5	obl	_	_
@@ -27844,7 +27844,7 @@ Munduruku-0033_8,Munduruku,Da'o o'jo'o'o io'e - puybit da'o .,,,Comeu bóia de c
 ",UD_Munduruku-TuDeT
 Munduruku-003_9,Munduruku,I'o'o o'tobuxik .,,,Achou já comido.,Portuguese,,"# sent_id = 003.9
 # text = I'o'o o'tobuxik .
-# text_port = Achou já comido.
+# text_por = Achou já comido.
 1	I'o'o	'o	NOUN	n	Rel=NCont	2	obl	_	_
 2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -27853,14 +27853,14 @@ Munduruku-003_9,Munduruku,I'o'o o'tobuxik .,,,Achou já comido.,Portuguese,,"# s
 Munduruku-003_10,Munduruku,Iixĩt o'g̃ukorẽm,,,His sister got angry at him,English,,"# sent_id = 003.10
 # text = Iixĩt o'g̃ukorẽm
 # text_eng = His sister got angry at him
-# text_port = A irmã ralhou com ele.
+# text_por = A irmã ralhou com ele.
 1	Iixĩt	ixĩt	NOUN	n	Rel=NCont	2	nsubj	_	_
 2	o'g̃ukorẽm	korẽm	VERB	v	Aspect=Imp|Number[subj]=Sing|Person[subj]=3|Rel=NCont|Voice=Cau	0	root	_	_
 
 ",UD_Munduruku-TuDeT
 Munduruku-0033_11,Munduruku,Abu g̃u toma da'o o'jo'o'o ? io'e .,,,Quem comeu a bóia de castanha? ela perguntou.,Portuguese,,"# sent_id = 0033.11
 # text = Abu g̃u toma da'o o'jo'o'o ? io'e .
-# text_port = Quem comeu a bóia de castanha? ela perguntou.
+# text_por = Quem comeu a bóia de castanha? ela perguntou.
 1	Abu	abu	PRON	pro	_	5	nsubj	_	_
 2	g̃u	g̃u	PART	npart	Polarity=Neg	5	discourse	_	_
 3	toma	toma	NOUN	n	_	5	obj	_	_
@@ -27873,7 +27873,7 @@ Munduruku-0033_11,Munduruku,Abu g̃u toma da'o o'jo'o'o ? io'e .,,,Quem comeu a 
 ",UD_Munduruku-TuDeT
 Munduruku-0033_12,Munduruku,"Cexedig̃rebuuuu , io'e .",,,"Foi Cexedigrebu!, disse.",Portuguese,,"# sent_id = 0033.12
 # text = Cexedig̃rebuuuu , io'e .
-# text_port = Foi Cexedigrebu!, disse.
+# text_por = Foi Cexedigrebu!, disse.
 1	Cexedig̃rebuuuu	Cexedig̃rebu	PROPN	n	_	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	io'e	'e	VERB	vi	Evident=Nfh|Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
@@ -27893,7 +27893,7 @@ Munduruku-0033_13,Munduruku,Cexedig̃rebu osunuy ibutet wuyjuyũm pima .,,,Cexed
 ",UD_Munduruku-TuDeT
 Munduruku-0033_14,Munduruku,"Icẽm ma pit , io'e . g̃ebuje bit o'jekõn g̃u .",,,"— Ê verdade, (o irmão dela) disse. Daí não comia mais.",Portuguese,,"# sent_id = 0033.14
 # text = Icẽm ma pit , io'e . g̃ebuje bit o'jekõn g̃u .
-# text_port = — Ê verdade, (o irmão dela) disse. Daí não comia mais.
+# text_por = — Ê verdade, (o irmão dela) disse. Daí não comia mais.
 1	Icẽm	_	ADV	adv	_	0	root	_	_
 2	ma	ma	PART	prcl	_	1	discourse	_	_
 3	pit	pit	PART	prcl	_	1	discourse	_	_
@@ -27917,7 +27917,7 @@ Munduruku-0033_15,Munduruku,Jekõnkon g̃u o'e,,,Começou a não comer,English,,
 ",UD_Munduruku-TuDeT
 Munduruku-0033_16,Munduruku,Idibi dak o'tikõn g̃u ma .,,,Nem bebeu água.,Portuguese,,"# sent_id = 0033.16
 # text = Idibi dak o'tikõn g̃u ma .
-# text_port = Nem bebeu água.
+# text_por = Nem bebeu água.
 1	Idibi	idibi	NOUN	n	_	3	obj	_	_
 2	dak	dak	ADV	adv	_	3	advmod	_	_
 3	o'tikõn	kõn	VERB	v	Aspect=Perf|Class=Liquid|Number[subj]=Sing|Person[subj]=3|Rel=NCont	0	root	_	_
@@ -27928,7 +27928,7 @@ Munduruku-0033_16,Munduruku,Idibi dak o'tikõn g̃u ma .,,,Nem bebeu água.,Port
 ",UD_Munduruku-TuDeT
 Munduruku-0033_17,Munduruku,Jekõnkon g̃u ma o'e .,,,Começou a nao comer.,Portuguese,,"# sent_id = 0033.17
 # text = Jekõnkon g̃u ma o'e .
-# text_port = Começou a nao comer.
+# text_por = Começou a nao comer.
 1	Jekõnkon	Jekõnkon	VERB	v	Aspect=Dur	0	root	_	_
 2	g̃u	g̃u	ADV	npart	Polarity=Neg	4	advmod	_	_
 3	ma	ma	PART	adv	_	4	discourse	_	_
@@ -27938,7 +27938,7 @@ Munduruku-0033_17,Munduruku,Jekõnkon g̃u ma o'e .,,,Começou a nao comer.,Port
 ",UD_Munduruku-TuDeT
 Munduruku-0033_18,Munduruku,Ade em soat jekõnkon g̃u o'e .,,,por muitas vezes não comia tudo.,Portuguese,,"# sent_id = 0033.18
 # text = Ade em soat jekõnkon g̃u o'e .
-# text_port = por muitas vezes não comia tudo.
+# text_por = por muitas vezes não comia tudo.
 1	Ade	ade	ADV	adj	_	4	obl	_	_
 2	em	em	ADP	posp	_	1	case	_	_
 3	soat	soat	PRON	pron	PronType=Tot	4	obj	_	_
@@ -27981,7 +27981,7 @@ Munduruku-0033_21,Munduruku,Imẽg̃ap ma o'ju .,,,Assim ele foi.,Portuguese,,"#
 ",UD_Munduruku-TuDeT
 Munduruku-0033_22,Munduruku,Ipoxi g̃u o'e .,,,Ficou bem leve.,Portuguese,,"# sent_id = 0033.22
 # text = Ipoxi g̃u o'e .
-# text_port = Ficou bem leve.
+# text_por = Ficou bem leve.
 1	Ipoxi	poxi	NOUN	n	Rel=NCont	0	root	_	_
 2	g̃u	g̃u	ADV	npart	Polarity=Neg	1	advmod	_	_
 3	o'e	o'e	AUX	aux	Aspect=Perf|Number=Sing|Person=3	1	aux	_	_
@@ -27990,7 +27990,7 @@ Munduruku-0033_22,Munduruku,Ipoxi g̃u o'e .,,,Ficou bem leve.,Portuguese,,"# se
 ",UD_Munduruku-TuDeT
 Munduruku-0033_24,Munduruku,Cũg̃cũg̃ o'ju .,,,Foi no mato.,Portuguese,,"# sent_id = 0033.24
 # text = Cũg̃cũg̃ o'ju .
-# text_port = Foi no mato.
+# text_por = Foi no mato.
 1	Cũg̃cũg̃	cũg̃	NOUN	n	_	2	obl	_	_
 2	o'ju	cu	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -27998,7 +27998,7 @@ Munduruku-0033_24,Munduruku,Cũg̃cũg̃ o'ju .,,,Foi no mato.,Portuguese,,"# se
 ",UD_Munduruku-TuDeT
 Munduruku-003_26,Munduruku,Tip tag̃ o'ju .,,,Foi longe—no centro do mato.,Portuguese,,"# sent_id = 003.26
 # text = Tip tag̃ o'ju .
-# text_port = Foi longe—no centro do mato.
+# text_por = Foi longe—no centro do mato.
 1	Tip	tip	NOUN	n	_	3	obl	_	_
 2	tag̃	tag̃	ADP	posp	Rel=Cont	1	case	_	_
 3	o'ju	cu	VERB	v	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
@@ -28007,16 +28007,25 @@ Munduruku-003_26,Munduruku,Tip tag̃ o'ju .,,,Foi longe—no centro do mato.,Por
 ",UD_Munduruku-TuDeT
 Munduruku-003_27,Munduruku,Wuy o'ju ipinun tag̃,,,Ficou em terra firme.,Portuguese,,"# sent_id = 003.27
 # text = Wuy o'ju ipinun tag̃
-# text_port = Ficou em terra firme.
+# text_por = Ficou em terra firme.
 1	Wuy	wuy	X	_	_	2	dep	_	_
 2	o'ju	cu	VERB	v	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	ipinun	ipi	NOUN	n	_	2	obl	_	_
 4	tag̃	tag̃	ADP	posp	_	3	case	_	_
 
 ",UD_Munduruku-TuDeT
+Munduruku-003_28,Munduruku,Ixe kapurug̃ pe o'e,,,inserir tradução,Portuguese,,"# sent_id = 003.28
+# text = Ixe kapurug̃ pe o'e
+# text_por = inserir tradução
+1	Ixe	iex	DET	dem	_	2	nsubj	_	_
+2	kapurug̃	kapurug̃	NOUN	_	_	0	root	_	_
+3	pe	pe	ADP	posp	_	2	case	_	_
+4	o'e	o'e	AUX	aux	Aspect=Perf|Number=Sing|Person=3	2	aux	_	_
+
+",UD_Munduruku-TuDeT
 Munduruku-003_29,Munduruku,Iptog̃ darug̃ o'e,,,Virou pau d'arco,Portuguese,,"# sent_id = 003.29
 # text = Iptog̃ darug̃ o'e
-# text_port = Virou pau d'arco
+# text_por = Virou pau d'arco
 1	Iptog̃	iptok	NOUN	n	_	3	nsubj	_	_
 2	darug̃	daruk	NOUN	n	_	1	nmod	_	_
 3	o'e	'e	VERB	v	Aspect=Perf|Number=Sing|Person=3	0	root	_	_
@@ -28024,7 +28033,7 @@ Munduruku-003_29,Munduruku,Iptog̃ darug̃ o'e,,,Virou pau d'arco,Portuguese,,"#
 ",UD_Munduruku-TuDeT
 Munduruku-003_30,Munduruku,"Kuyje bit daruk imug̃ẽg̃ẽ ma , i'e'em aypapa'um'um .",,,"Antigamente o arco era feito mesmo, dizem os velhos antigos.",Portuguese,,"# sent_id = 003.30
 # text = Kuyje bit daruk imug̃ẽg̃ẽ ma , i'e'em aypapa'um'um .
-# text_port = Antigamente o arco era feito mesmo, dizem os velhos antigos.
+# text_por = Antigamente o arco era feito mesmo, dizem os velhos antigos.
 1	Kuyje	kuyje	ADV	adv	_	4	advmod	_	_
 2	bit	bit	PART	prcl	_	4	discourse	_	_
 3	daruk	daruk	NOUN	n	_	4	nsubj	_	_
@@ -28038,7 +28047,7 @@ Munduruku-003_30,Munduruku,"Kuyje bit daruk imug̃ẽg̃ẽ ma , i'e'em aypapa'u
 ",UD_Munduruku-TuDeT
 Munduruku-003_31,Munduruku,"Yobog̃at , yopĩcat i'uk'ug̃ ip jewebeam .",,,"Tiravam para si (arco) grande, e pequeno, para crianças",Portuguese,,"# sent_id = 003.31
 # text = Yobog̃at , yopĩcat i'uk'ug̃ ip jewebeam .
-# text_port = Tiravam para si (arco) grande, e pequeno, para crianças
+# text_por = Tiravam para si (arco) grande, e pequeno, para crianças
 1	Yobog̃at	yobog̃at	NOUN	n	_	4	obj	_	_
 2	,	,	PUNCT	punct	_	4	punct	_	_
 3	yopĩcat	_	NOUN	n	_	4	obj	_	_
@@ -28118,74 +28127,84 @@ Munduruku-003_38,Munduruku,"Yopõg̃ pewi i'uk'ug̃ ip , kuybi ma imug̃ẽg̃�
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ",UD_Munduruku-TuDeT
-Teko-01_001,Teko,diawutari,,,"Il ne parlera pas (GE, 23:16)",French,,"# document_title = Rose, F. (2011) Grammaire de l'Émerillon Teko: une langue Tupi-Guarani de Guyane Française. Peeters (begin with 01.[sentence number in book])
+Teko-01_001,Teko,diawutari,,,He won't speak,English,,"# document_title = Rose, F. (2011) Grammaire de l'Émerillon Teko: une langue Tupi-Guarani de Guyane Française. Peeters (begin with 01.[sentence number in book])
 # document_authorship = Fabrício Ferraz Gerardi and Uliana Vedenina
 # sent_id = 01.001
 # text = diawutari
 # text_fr = Il ne parlera pas (GE, 23:16)
+# text_eng = He won't speak
 1	diawutari	awu	NOUN	n	Polarity=Neg|Rel=NCont|Tense=Fut	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_002,Teko,dosuʔutari,,,"Ça ne mordra pas. (GE, 23:17)",French,,"# sent_id = 01.002
+Teko-01_002,Teko,dosuʔutari,,,It won't bite.,English,,"# sent_id = 01.002
 # text = dosuʔutari
 # text_fr = Ça ne mordra pas. (GE, 23:17)
+# text_eng = It won't bite.
 1	dosuʔutari	suʔu	VERB	v	Person=3|Polarity=Neg|Tense=Fut	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_003,Teko,imen oʔao okijapope,,,"(GE, 24:18)",French,,"# sent_id = 01.003
+Teko-01_003,Teko,imen oʔao okijapope,,,And then her husband is lying in his own hammock.,English,,"# sent_id = 01.003
 # text = imen oʔao okijapope
-# text_fr = (GE, 24:18)
+# text_fr = Et puis son mari est allongé dans son propre hamac. (GE, 24:18)
+# text_eng = And then her husband is lying in his own hammock.
 1	imen	men	NOUN	n	Rel=NCont	2	nsubj	_	_
 2	oʔao	ʔa	VERB	v	Aspect=Cont|Person=3	0	root	_	_
 3	okijapope	kija	NOUN	n	Case=Loc|Corf=Yes	2	obl	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_004,Teko,demeni,,,"(GE, 24:19)",French,,"# sent_id = 01.004
+Teko-01_004,Teko,demeni,,,I don't have a husband.,English,,"# sent_id = 01.004
 # text = demeni
-# text_fr = (GE, 24:19)
+# text_fr = Je n'ai pas de mari. (GE, 24:19)
+# text_eng = I don't have a husband.
 1	demeni	men	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_005,Teko,Polo omanõ,,,"(GE, 24:20)",French,,"# sent_id = 01.005
+Teko-01_005,Teko,Polo omanõ,,,Paul is deceased.,English,,"# sent_id = 01.005
 # text = Polo omanõ
-# text_fr = (GE, 24:20)
+# text_fr = Paulo est décédé. (GE, 24:20)
+# text_eng = Paul is deceased.
 1	Polo	Polo	PROPN	propn	_	2	nsubj	_	_
 2	omanõ	manõ	VERB	v	Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_006,Teko,okuwapa omanõmãʔẽ,,,"(GE, 24:21)",French,,"# sent_id = 01.006
+Teko-01_006,Teko,okuwapa omanõmãʔẽ,,,He knows all the dead.,English,,"# sent_id = 01.006
 # text = okuwapa omanõmãʔẽ
-# text_fr = (GE, 24:21)
+# text_fr = Il connaît tous les morts. (GE, 24:21)
+# text_eng = He knows all the dead.
 1	okuwapa	kuwa	VERB	v	Aspect=Compl|Person=3	0	root	_	_
 2	omanõmãʔẽ	manõ	VERB	v	Nomzr=Rel|Person=3	1	obj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_007,Teko,tekokom opopor oho,,,"Les Emérillons se sont dispersés (GE, 25:22)",French,,"# sent_id = 01.007
+Teko-01_007,Teko,tekokom opopor oho,,,The Emerillons were dispersed,English,,"# sent_id = 01.007
 # text = tekokom opopor oho
 # text_fr = Les Emérillons se sont dispersés (GE, 25:22)
+# text_eng = The Emerillons were dispersed
 1	tekokom	teko	PROPN	propn	Number=Plur	2	nsubj	_	_
 2	opopor	popor	VERB	v	Person=3	0	root	_	_
 3	oho	ho	VERB	v	Person=3	2	dep	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_008,Teko,tekoate eredʒu !,,,"C'est Emérillon que tu es !(GE, 25:23)",French,,"# sent_id = 01.008
+Teko-01_008,Teko,tekoate eredʒu !,,,You are Emerillon!,English,,"# sent_id = 01.008
 # text = tekoate eredʒu !
-# text_fr = C'est Emérillon que tu es !(GE, 25:23)
+# text_fr = C'est Emérillon que tu es!(GE, 25:23)
+# text_eng = You are Emerillon!
 1	tekoate	teko	PROPN	propn	Case=Ref|Foc=Yes	0	root	_	_
 2	eredʒu	dʒu	AUX	aux	Number=Sing|Person=2	1	cop	_	_
 3	!	!	PUNCT	punct	_	1	punct	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_009,Teko,nõdeɨane erezika,,,"""tu as tué notre mère.""(GE, 25:24)",French,,"# sent_id = 01.009
+Teko-01_009,Teko,nõdeɨane erezika,,,"""you killed our mother""",English,,"# sent_id = 01.009
 # text = nõdeɨane erezika
 # text_fr = ""tu as tué notre mère.""(GE, 25:24)
+# text_eng = ""you killed our mother""
 1	nõdeɨane	nõde	NOUN	n	Case=Ref|Clusivity=In|Contrast=Yes|Person=1	2	obj	_	_
 2	erezika	zika	VERB	v	Number=Sing|Person=2	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_010,Teko,"apamanẽ nõdeapisitanẽ , eʔi tekokom",,,"""Les étrangers voulaient nous massacrer"", disent les Emérillons.(GE, 25:25)",French,,"# sent_id = 01.010
+Teko-01_010,Teko,"apamanẽ nõdeapisitanẽ , eʔi tekokom",,,"""The foreigners wanted to massacre us"", say the Emerillons.",English,,"# sent_id = 01.010
 # text = apamanẽ nõdeapisitanẽ , eʔi tekokom
 # text_fr = ""Les étrangers voulaient nous massacrer"", disent les Emérillons.(GE, 25:25)
+# text_eng = ""The foreigners wanted to massacre us"", say the Emerillons.
 1	apamanẽ	apam	NOUN	n	Case=Ref|Contrast=Yes	2	nsubj	_	_
 2	nõdeapisitanẽ	apisi	NOUN	n	Clusivity=In|Mood=Des|Person=1	0	root	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	_
@@ -28193,24 +28212,27 @@ Teko-01_010,Teko,"apamanẽ nõdeapisitanẽ , eʔi tekokom",,,"""Les étrangers
 5	tekokom	teko	PROPN	propn	Number=Plur	4	nsubj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_011,Teko,tekokom opopor oho,,,"Les Emérillons se sont dispersés.(GE, 26:26)",French,,"# sent_id = 01.011
+Teko-01_011,Teko,tekokom opopor oho,,,The Emerillons were dispersed.,English,,"# sent_id = 01.011
 # text = tekokom opopor oho
 # text_fr = Les Emérillons se sont dispersés.(GE, 26:26)
+# text_eng = The Emerillons were dispersed.
 1	tekokom	teko	PROPN	propn	Number=Plur	2	nsubj	_	_
 2	opopor	popor	VERB	v	Person=3	0	root	_	_
 3	oho	ho	VERB	v	Person=3	2	dep	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_012,Teko,idʒeate azikakom,,,"C'est moi qui les ai tués.(GE, 26:27)",French,,"# sent_id = 01.012
+Teko-01_012,Teko,idʒeate azikakom,,,It's me who killed them.,English,,"# sent_id = 01.012
 # text = idʒeate azikakom
 # text_fr = C'est moi qui les ai tués.(GE, 26:27)
+# text_eng = It's me who killed them.
 1	idʒeate	idʒe	PRON	pron	Case=Ref|Foc=Yes|Number=Sing|Person=1	2	nsubj	_	_
 2	azikakom	zika	VERB	v	Number[obj]=Plur|Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_013,Teko,""" daʔudʒi "" , eʔi idʒupe",,,"""Je n'ai pas mangé"", lui dit-il.(GE, 26:28)",French,,"# sent_id = 01.013
+Teko-01_013,Teko,""" daʔudʒi "" , eʔi idʒupe",,,"""I did not eat"", he tells him.",English,,"# sent_id = 01.013
 # text = "" daʔudʒi "" , eʔi idʒupe
 # text_fr = ""Je n'ai pas mangé"", lui dit-il.(GE, 26:28)
+# text_eng = ""I did not eat"", he tells him.
 1	""	""	PUNCT	punct	_	2	punct	_	_
 2	daʔudʒi	ʔu	VERB	v	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 3	""	""	PUNCT	punct	_	2	punct	_	_
@@ -28219,55 +28241,62 @@ Teko-01_013,Teko,""" daʔudʒi "" , eʔi idʒupe",,,"""Je n'ai pas mangé"", lui
 6	idʒupe	dʒupe	NOUN	n	Case=Dat|Rel=NCont	5	case	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_014,Teko,"porowaratewe , diakaŋi",,,"C'est un ogre, il n'a pas de tête.(GE, 26:29)",French,,"# sent_id = 01.014
+Teko-01_014,Teko,"porowaratewe , diakaŋi",,,"It's an ogre, he has no head.",English,,"# sent_id = 01.014
 # text = porowaratewe , diakaŋi
 # text_fr = C'est un ogre, il n'a pas de tête.(GE, 26:29)
+# text_eng = It's an ogre, he has no head.
 1	porowaratewe	porowar	NOUN	n	Case=Ref|Foc=Yes	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	diakaŋi	akaŋ	NOUN	n	Polarity=Neg|Rel=NCont	1	parataxis	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_015,Teko,esisiganũwã,,,"Ce n'est pas ma sœur.(GE, 26:30)",French,,"# sent_id = 01.015
+Teko-01_015,Teko,esisiganũwã,,,She's not my sister.,English,,"# sent_id = 01.015
 # text = esisiganũwã
 # text_fr = Ce n'est pas ma sœur.(GE, 26:30)
+# text_eng = She's not my sister.
 1	esisiganũwã	sisig	NOUN	n	Case=Ref|Number=Sing|Person=2|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_016,Teko,wɨrakarakotɨnuwã peotar,,,"Ce n'est pas vers Dieu que vous irez.(GE, 27:31)",French,,"# sent_id = 01.016
+Teko-01_016,Teko,wɨrakarakotɨnuwã peotar,,,It's not the God you are going to.,English,,"# sent_id = 01.016
 # text = wɨrakarakotɨnuwã peotar
 # text_fr = Ce n'est pas vers Dieu que vous irez.(GE, 27:31)
+# text_eng = It's not the God you are going to.
 1	wɨrakarakotɨnuwã	wɨrakara	NOUN	n	Case=Lat|Polarity=Neg	2	obl	_	_
 2	peotar	o	VERB	v	Number=Plur|Person=2|Tense=Fut	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_017,Teko,"manasipo sibaʔetar ? """,,,"""Comment allons-nous faire ?""(GE, 27:32)",French,,"# sent_id = 01.017
+Teko-01_017,Teko,"manasipo sibaʔetar ? """,,,"""How are we going to do this ?""",English,,"# sent_id = 01.017
 # text = manasipo sibaʔetar ? ""
 # text_fr = ""Comment allons-nous faire ?""(GE, 27:32)
+# text_eng = ""How are we going to do this ?""
 1	manasipo	mana	ADV	adv	Excl=Yes|PronType=Int	2	advmod	_	_
 2	sibaʔetar	baʔe	VERB	v	Clusivity=In|Person=1|Tense=Fut	0	root	_	_
 3	?	?	PUNCT	punct	_	2	punct	_	_
 4	""	""	PUNCT	punct	_	2	punct	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_018,Teko,oboʔa orekʷar,,,"Il couche sa propre femme.(GE, 28:33)",French,,"# sent_id = 01.018
+Teko-01_018,Teko,oboʔa orekʷar,,,He puts his own wife to bed.,English,,"# sent_id = 01.018
 # text = oboʔa orekʷar
 # text_fr = Il couche sa propre femme.(GE, 28:33)
+# text_eng = He puts his own wife to bed.
 1	oboʔa	ʔa	VERB	v	Person=3|Voice=Cau	0	root	_	_
 2	orekʷar	rekʷar	NOUN	n	Corf=Yes|Person=3	1	obj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_019,Teko,idʒeate aŋ magazẽ aiɲuŋokar,,,"C'est moi qui ai fait installer ce magasin.(GE, 28:34)",French,,"# sent_id = 01.019
+Teko-01_019,Teko,idʒeate aŋ magazẽ aiɲuŋokar,,,It's me who made equip this store.,English,,"# sent_id = 01.019
 # text = idʒeate aŋ magazẽ aiɲuŋokar
 # text_fr = C'est moi qui ai fait installer ce magasin.(GE, 28:34)
+# text_eng = It's me who made equip this store.
 1	idʒeate	idʒe	PRON	pron	Case=Ref|Foc=Yes|Number=Sing|Person=1	4	nsubj	_	_
 2	aŋ	aŋ	DET	dem	_	3	det	_	_
 3	magazẽ	magazẽ	NOUN	n	_	4	obj	_	_
 4	aiɲuŋokar	iɲuŋ	VERB	v	Number=Sing|Person=1|Voice=Cau	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_020,Teko,"owa , emenatesipo idʒe aʔu",,,"Oh, c'est mon mari que j'ai mangé.(GE, 28:35)",French,,"# sent_id = 01.020
+Teko-01_020,Teko,"owa , emenatesipo idʒe aʔu",,,"Oh, it's my husband who I ate.",English,,"# sent_id = 01.020
 # text = owa , emenatesipo idʒe aʔu
 # text_fr = Oh, c'est mon mari que j'ai mangé.(GE, 28:35)
+# text_eng = Oh, it's my husband who I ate.
 1	owa	owa	INTJ	intj	_	5	discourse	_	_
 2	,	,	PUNCT	punct	_	5	punct	_	_
 3	emenatesipo	men	NOUN	n	Case=Ref|Excl=Yes|Foc=Yes|Number=Sing|Person=1	5	obj	_	_
@@ -28275,24 +28304,27 @@ Teko-01_020,Teko,"owa , emenatesipo idʒe aʔu",,,"Oh, c'est mon mari que j'ai m
 5	aʔu	ʔu	VERB	v	Number=Sing|Person=1	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_021,Teko,nõdebaʔekʷərawe sikuwakatu,,,"et on connaît bien nos légendes.(GE, 28:36)",French,,"# sent_id = 01.021
+Teko-01_021,Teko,nõdebaʔekʷərawe sikuwakatu,,,and our legends are well-known.,English,,"# sent_id = 01.021
 # text = nõdebaʔekʷərawe sikuwakatu
 # text_fr = et on connaît bien nos légendes.(GE, 28:36)
+# text_eng = and our legends are well-known.
 1	nõdebaʔekʷərawe	baʔekʷər	NOUN	n	Case=Ref|Clusivity=In|Person=1	2	obj	_	_
 2	sikuwakatu	kuwa	VERB	v	Clusivity=In|Intens=Yes|Person=1	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_022,Teko,aŋ baʔekʷər amebeʔutaramãʔẽ,,,"Voici le conte que je vais raconter.(GE, 28:37)",French,,"# sent_id = 01.022
+Teko-01_022,Teko,aŋ baʔekʷər amebeʔutaramãʔẽ,,,This is the tale I am going to tell.,English,,"# sent_id = 01.022
 # text = aŋ baʔekʷər amebeʔutaramãʔẽ
 # text_fr = Voici le conte que je vais raconter.(GE, 28:37)
+# text_eng = This is the tale I am going to tell.
 1	aŋ	aŋ	DET	dem	_	2	det	_	_
 2	baʔekʷər	baʔekʷər	NOUN	n	_	3	obj	_	_
 3	amebeʔutaramãʔẽ	mebeʔu	VERB	v	Case=Ref|Nomzr=Rel|Number=Sing|Person=1|Tense=Fut	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_023,Teko,"apamanẽ nõdeapisitanẽ , eʔi tekokom",,,"""Les étrangers voulaient nous massacrer"", disent les Emérillons.(GE, 28:38)",French,,"# sent_id = 01.023
+Teko-01_023,Teko,"apamanẽ nõdeapisitanẽ , eʔi tekokom",,,"""The foreigners wanted to massacre us"", say the Emerillons.",English,,"# sent_id = 01.023
 # text = apamanẽ nõdeapisitanẽ , eʔi tekokom
 # text_fr = ""Les étrangers voulaient nous massacrer"", disent les Emérillons.(GE, 28:38)
+# text_eng = ""The foreigners wanted to massacre us"", say the Emerillons.
 1	apamanẽ	apam	NOUN	n	Case=Ref|Contrast=Yes	2	nsubj	_	_
 2	nõdeapisitanẽ	apisi	NOUN	n	Clusivity=In|Mood=Des|Person=1	0	root	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
@@ -28300,267 +28332,306 @@ Teko-01_023,Teko,"apamanẽ nõdeapisitanẽ , eʔi tekokom",,,"""Les étrangers
 5	tekokom	teko	PROPN	propn	Number=Plur	4	nsubj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_024,Teko,wãĩwĩ ipuruʔa ikeʔɨ,,,"La femme est enceinte maintenant.(GE, 34:39)",French,,"# sent_id = 01.024
+Teko-01_024,Teko,wãĩwĩ ipuruʔa ikeʔɨ,,,The woman is pregnant now.,English,,"# sent_id = 01.024
 # text = wãĩwĩ ipuruʔa ikeʔɨ
 # text_fr = La femme est enceinte maintenant.(GE, 34:39)
+# text_eng = The woman is pregnant now.
 1	wãĩwĩ	wãĩwĩ	NOUN	n	_	2	nsubj	_	_
 2	ipuruʔa	puruʔa	NOUN	n	Rel=NCont	0	root	_	_
 3	ikeʔɨ	ikeʔɨ	ADV	adv	_	2	advmod	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_025,Teko,aʔenawe sikãĩwe wãĩwĩkom,,,"A cette époque, les filles étaient petites aussi.(GE, 34:40)",French,,"# sent_id = 01.025
+Teko-01_025,Teko,aʔenawe sikãĩwe wãĩwĩkom,,,"At that time, the girls were small too.",English,,"# sent_id = 01.025
 # text = aʔenawe sikãĩwe wãĩwĩkom
 # text_fr = A cette époque, les filles étaient petites aussi.(GE, 34:40)
+# text_eng = At that time, the girls were small too.
 1	aʔenawe	nawe	ADV	adv	_	2	advmod	_	_
 2	sikãĩwe	sikãĩ	NOUN	n	_	0	root	_	_
 3	wãĩwĩkom	wãĩwĩ	NOUN	n	Number=Plur	2	nsubj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_026,Teko,wãĩwĩ ipuruʔa ikeʔɨ,,,"La femme est enceinte maintenant.(GE, 35:41)",French,,"# sent_id = 01.026
+Teko-01_026,Teko,wãĩwĩ ipuruʔa ikeʔɨ,,,The woman is pregnant now.,English,,"# sent_id = 01.026
 # text = wãĩwĩ ipuruʔa ikeʔɨ
 # text_fr = La femme est enceinte maintenant.(GE, 35:41)
+# text_eng = The woman is pregnant now.
 1	wãĩwĩ	wãĩwĩ	NOUN	n	_	2	nsubj	_	_
 2	ipuruʔa	puruʔa	NOUN	n	Rel=NCont	0	root	_	_
 3	ikeʔɨ	ikeʔɨ	ADV	adv	_	2	advmod	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_027,Teko,karaɨ okʷa,,,"Il y a une épidémie de fièvre. (litt : la fièvre passe)(GE, 35:42)",French,,"# sent_id = 01.027
+Teko-01_027,Teko,karaɨ okʷa,,,There is an epidemic of fever. (lit: the fever passes),English,,"# sent_id = 01.027
 # text = karaɨ okʷa
-# text_fr = Il y a une épidémie de fièvre. (litt : la fièvre passe)(GE, 35:42)
+# text_fr = Il y a une épidémie de fièvre. (litt : la fièvre passe)
+# text_eng = There is an epidemic of fever. (lit: the fever passes)
 1	karaɨ	karaɨ	NOUN	n	_	2	nsubj	_	_
 2	okʷa	kʷa	VERB	v	Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_028,Teko,dekaraɨdʒi,,,"Je ne suis pas fiévreux.(GE, 35:43)",French,,"# sent_id = 01.028
+Teko-01_028,Teko,dekaraɨdʒi,,,I am not feverish.,English,,"# sent_id = 01.028
 # text = dekaraɨdʒi
 # text_fr = Je ne suis pas fiévreux.(GE, 35:43)
+# text_eng = I am not feverish.
 1	dekaraɨdʒi	karaɨ	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_029,Teko,dekuɲaɲi,,,"Je n'ai pas de sœur.(GE, 35:44)",French,,"# sent_id = 01.029
+Teko-01_029,Teko,dekuɲaɲi,,,I don't have a sister.,English,,"# sent_id = 01.029
 # text = dekuɲaɲi
 # text_fr = Je n'ai pas de sœur.(GE, 35:44)
+# text_eng = I don't have a sister.
 1	dekuɲaɲi	kuɲa	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_030,Teko,wãĩwĩ ipuruʔa ikeʔɨ,,,"La femme est enceinte maintenant. (litt : la femme a sa grossesse maintenant.)(GE, 36:45)",French,,"# sent_id = 01.030
+Teko-01_030,Teko,wãĩwĩ ipuruʔa ikeʔɨ,,,The woman is pregnant now. (lit: the woman has her pregnancy now.),English,,"# sent_id = 01.030
 # text = wãĩwĩ ipuruʔa ikeʔɨ
 # text_fr = La femme est enceinte maintenant. (litt : la femme a sa grossesse maintenant.)(GE, 36:45)
+# text_eng = The woman is pregnant now. (lit: the woman has her pregnancy now.)
 1	wãĩwĩ	wãĩwĩ	NOUN	n	_	2	nsubj	_	_
 2	ipuruʔa	puruʔa	NOUN	n	Rel=NCont	0	root	_	_
 3	ikeʔɨ	ikeʔɨ	ADV	adv	_	2	advmod	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_031,Teko,iɲuʔaŋoŋ,,,"Ils ont froid.(GE, 36:46)",French,,"# sent_id = 01.031
+Teko-01_031,Teko,iɲuʔaŋoŋ,,,They are cold.,English,,"# sent_id = 01.031
 # text = iɲuʔaŋoŋ
 # text_fr = Ils ont froid.(GE, 36:46)
+# text_eng = They are cold.
 1	iɲuʔaŋoŋ	ɲuʔaŋ	NOUN	n	Number=Plur|Rel=NCont	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_032,Teko,pɨawe okuʔeŋ,,,"Ils se sont réveillés à l'aube.(GE, 36:47)",French,,"# sent_id = 01.032
+Teko-01_032,Teko,pɨawe okuʔeŋ,,,They woke up at dawn.,English,,"# sent_id = 01.032
 # text = pɨawe okuʔeŋ
 # text_fr = Ils se sont réveillés à l'aube.(GE, 36:47)
+# text_eng = They woke up at dawn.
 1	pɨawe	pɨawe	ADV	adv	_	2	advmod	_	_
 2	okuʔeŋ	kuʔe	VERB	v	Number=Plur|Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_033,Teko,debaʔewari,,,"Je n'ai pas faim.(GE, 36:48)",French,,"# sent_id = 01.033
+Teko-01_033,Teko,debaʔewari,,,I'm not hungry.,English,,"# sent_id = 01.033
 # text = debaʔewari
 # text_fr = Je n'ai pas faim.(GE, 36:48)
+# text_eng = I'm not hungry.
 1	debaʔewari	baʔewar	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_034,Teko,demebɨri,,,"Je n'ai pas d'enfant.(GE, 36:49)",French,,"# sent_id = 01.034
+Teko-01_034,Teko,demebɨri,,,I have no children.,English,,"# sent_id = 01.034
 # text = demebɨri
 # text_fr = Je n'ai pas d'enfant.(GE, 36:49)
+# text_eng = I have no children.
 1	demebɨri	mebɨr	NOUN	n	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_035,Teko,dazaugi,,,"Je ne me suis pas baigné.(GE, 36:50)",French,,"# sent_id = 01.035
+Teko-01_035,Teko,dazaugi,,,I did not take a bath.,English,,"# sent_id = 01.035
 # text = dazaugi
 # text_fr = Je ne me suis pas baigné.(GE, 36:50)
+# text_eng = I did not take a bath.
 1	dazaugi	zaug	VERB	v	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_036,Teko,iba'ewato,,,"Il est en train d'avoir faim.(GE, 36:52)",French,,"# sent_id = 01.036
+Teko-01_036,Teko,iba'ewato,,,He is getting hungry.,English,,"# sent_id = 01.036
 # text = iba'ewato
 # text_fr = Il est en train d'avoir faim.(GE, 36:52)
+# text_eng = He is getting hungry.
 1	iba'ewato	ba'ewat	NOUN	n	Aspect=Cont|Rel=NCont	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_037,Teko,oʔao,,,"Il est allongé.(GE, 37:53)",French,,"# sent_id = 01.037
+Teko-01_037,Teko,oʔao,,,He is lying down.,English,,"# sent_id = 01.037
 # text = oʔao
 # text_fr = Il est allongé.(GE, 37:53)
+# text_eng = He is lying down.
 1	oʔao	ʔa	VERB	v	Aspect=Cont|Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_038,Teko,ʔɨ oboaku,,,"Il fait chauffer l'eau.(GE, 37:54)",French,,"# sent_id = 01.038
+Teko-01_038,Teko,ʔɨ oboaku,,,He heats the water.,English,,"# sent_id = 01.038
 # text = ʔɨ oboaku
 # text_fr = Il fait chauffer l'eau.(GE, 37:54)
+# text_eng = He heats the water.
 1	ʔɨ	ʔɨ	NOUN	n	_	2	obj	_	_
 2	oboaku	aku	VERB	v	Person=3|Voice=Cau	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_039,Teko,oboba'ewatokat,,,"Il l'affame.(GE, 37:55)",French,,"# sent_id = 01.039
+Teko-01_039,Teko,oboba'ewatokat,,,He starves her.,English,,"# sent_id = 01.039
 # text = oboba'ewatokat
 # text_fr = Il l'affame.(GE, 37:55)
+# text_eng = He starves her.
 1	oboba'ewatokat	ba'ewat	NOUN	n	Person=3|Voice=Cau	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_040,Teko,kob ebaridʒa,,,"J'ai un couteau.(GE, 38:57)",French,,"# sent_id = 01.040
+Teko-01_040,Teko,kob ebaridʒa,,,I have a knife.,English,,"# sent_id = 01.040
 # text = kob ebaridʒa
 # text_fr = J'ai un couteau.(GE, 38:57)
+# text_eng = I have a knife.
 1	kob	kob	AUX	aux	_	2	aux	_	_
 2	ebaridʒa	baridʒa	NOUN	n	Number=Sing|Person=1	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_041,Teko,esisiganũwã,,,"Ce n'est pas ma sœur cadette.(GE, 38:59)",French,,"# sent_id = 01.041
+Teko-01_041,Teko,esisiganũwã,,,She's not my younger sister.,English,,"# sent_id = 01.041
 # text = esisiganũwã
 # text_fr = Ce n'est pas ma sœur cadette.(GE, 38:59)
+# text_eng = She's not my younger sister.
 1	esisiganũwã	sisig	NOUN	n	Case=Ref|Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_042,Teko,aker,,,"Je dors.(GE, 40:63)",French,,"# sent_id = 01.042
+Teko-01_042,Teko,aker,,,I sleep.,English,,"# sent_id = 01.042
 # text = aker
 # text_fr = Je dors.(GE, 40:63)
+# text_eng = I sleep.
 1	aker	ker	VERB	v	Number=Sing|Person=1	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_043,Teko,edʒarɨdʒ,,,"J'ai une grand-mère.(GE, 40:64)",French,,"# sent_id = 01.043
+Teko-01_043,Teko,edʒarɨdʒ,,,I have a grandmother.,English,,"# sent_id = 01.043
 # text = edʒarɨdʒ
 # text_fr = J'ai une grand-mère.(GE, 40:64)
+# text_eng = I have a grandmother.
 1	edʒarɨdʒ	dʒarɨdʒ	NOUN	n	Number=Sing|Person=1	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_044,Teko,tukuk adʒu,,,"Je suis court.(GE, 40:65)",French,,"# sent_id = 01.044
+Teko-01_044,Teko,tukuk adʒu,,,I am short.,English,,"# sent_id = 01.044
 # text = tukuk adʒu
 # text_fr = Je suis court.(GE, 40:65)
+# text_eng = I am short.
 1	tukuk	tukuk	NOUN	n	_	0	root	_	_
 2	adʒu	dʒu	AUX	aux	Number=Sing|Person=1	1	cop	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_045,Teko,sĩkãĩ adʒu,,,"Je suis petit.(GE, 40:66)",French,,"# sent_id = 01.045
+Teko-01_045,Teko,sĩkãĩ adʒu,,,I am small.,English,,"# sent_id = 01.045
 # text = sĩkãĩ adʒu
 # text_fr = Je suis petit.(GE, 40:66)
+# text_eng = I am small.
 1	sĩkãĩ	sĩkãĩ	NOUN	n	_	0	root	_	_
 2	adʒu	dʒu	AUX	aux	Number=Sing|Person=1	1	cop	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_046,Teko,tukugi,,,"Elle est courte. (à la fin d'une histoire)(GE, 40:67)",French,,"# sent_id = 01.046
+Teko-01_046,Teko,tukugi,,,She is short. (at the end of a story),English,,"# sent_id = 01.046
 # text = tukugi
-# text_fr = Elle est courte. (à la fin d'une histoire)(GE, 40:67)
+# text_fr = Elle est courte. (à la fin d'une histoire)
+# text_eng = She is short. (at the end of a story)
 1	tukugi	tukug	NOUN	n	Pred=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_047,Teko,siŋi,,,"Il est blanc.(GE, 40:68)",French,,"# sent_id = 01.047
+Teko-01_047,Teko,siŋi,,,He is white.,English,,"# sent_id = 01.047
 # text = siŋi
 # text_fr = Il est blanc.(GE, 40:68)
+# text_eng = He is white.
 1	siŋi	siŋ	NOUN	n	Pred=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_048,Teko,teko adʒu,,,"Je suis Emérillon.(GE, 41:69)",French,,"# sent_id = 01.048
+Teko-01_048,Teko,teko adʒu,,,I am Emerillon.,English,,"# sent_id = 01.048
 # text = teko adʒu
 # text_fr = Je suis Emérillon.(GE, 41:69)
+# text_eng = I am Emerillon.
 1	teko	teko	PROPN	propn	_	0	root	_	_
 2	adʒu	dʒu	AUX	aux	Number=Sing|Person=1	1	cop	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_049,Teko,teko ate,,,"Il est Emérillon.(GE, 41:70)",French,,"# sent_id = 01.049
+Teko-01_049,Teko,teko ate,,,He is Emerillon.,English,,"# sent_id = 01.049
 # text = teko ate
 # text_fr = Il est Emérillon.(GE, 41:70)
+# text_eng = He is Emerillon.
 1	teko	teko	PROPN	propn	_	0	root	_	_
 2	ate	ate	AUX	aux	_	1	cop	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_050,Teko,owatama'ẽ oket,,,"Le marcheur dort.(GE, 41:71)",French,,"# sent_id = 01.050
+Teko-01_050,Teko,owatama'ẽ oket,,,The walker is sleeping.,English,,"# sent_id = 01.050
 # text = owatama'ẽ oket
 # text_fr = Le marcheur dort.(GE, 41:71)
+# text_eng = The walker is sleeping.
 1	owatama'ẽ	wata	VERB	v	Nomzr=Rel|Person=3	2	nsubj	_	_
 2	oket	ket	VERB	v	Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_051,Teko,ikijama'ẽ oket,,,"Celui qui a un hamac dort.(GE, 41:72)",French,,"# sent_id = 01.051
+Teko-01_051,Teko,ikijama'ẽ oket,,,The one who has a hammock sleeps.,English,,"# sent_id = 01.051
 # text = ikijama'ẽ oket
 # text_fr = Celui qui a un hamac dort.(GE, 41:72)
+# text_eng = The one who has a hammock sleeps.
 1	ikijama'ẽ	kija	NOUN	n	Nomzr=Rel|Rel=NCont	2	nsubj	_	_
 2	oket	ket	VERB	v	Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_052,Teko,tukukima'ẽ owata,,,"Celui qui est court marche.(GE, 41:73)",French,,"# sent_id = 01.052
+Teko-01_052,Teko,tukukima'ẽ owata,,,The one who is short walks.,English,,"# sent_id = 01.052
 # text = tukukima'ẽ owata
 # text_fr = Celui qui est court marche.(GE, 41:73)
+# text_eng = The one who is short walks.
 1	tukukima'ẽ	tukuk	NOUN	n	Nomzr=Rel|Pred=Yes	2	nsubj	_	_
 2	owata	wata	VERB	v	Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_053,Teko,ɨat tukukima'ẽ oike,,,"La petite pirogue a coulé.(GE, 41:74)",French,,"# sent_id = 01.053
+Teko-01_053,Teko,ɨat tukukima'ẽ oike,,,The small canoe sank.,English,,"# sent_id = 01.053
 # text = ɨat tukukima'ẽ oike
 # text_fr = La petite pirogue a coulé.(GE, 41:74)
+# text_eng = The small canoe sank.
 1	ɨat	ɨat	NOUN	n	_	3	nsubj	_	_
 2	tukukima'ẽ	tukuk	NOUN	n	Nomzr=Rel|Pred=Yes	1	nmod	_	_
 3	oike	ike	VERB	v	Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_054,Teko,obotukuk,,,"Il le raccourcit.(GE, 42:75)",French,,"# sent_id = 01.054
+Teko-01_054,Teko,obotukuk,,,He shortens it.,English,,"# sent_id = 01.054
 # text = obotukuk
 # text_fr = Il le raccourcit.(GE, 42:75)
+# text_eng = He shortens it.
 1	obotukuk	tukuk	VERB	v	Person=3|Voice=Cau	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_055,Teko,obodzauk,,,"Il le baigne.(GE, 42:76)",French,,"# sent_id = 01.055
+Teko-01_055,Teko,obodzauk,,,He bathes him.,English,,"# sent_id = 01.055
 # text = obodzauk
 # text_fr = Il le baigne.(GE, 42:76)
+# text_eng = He bathes him.
 1	obodzauk	dzauk	VERB	v	Person=3|Voice=Cau	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_056,Teko,obotukukokat,,,"Il le lui fait raccourcir.(GE, 42:77)",French,,"# sent_id = 01.056
+Teko-01_056,Teko,obotukukokat,,,He makes her shorten it.,English,,"# sent_id = 01.056
 # text = obotukukokat
 # text_fr = Il le lui fait raccourcir.(GE, 42:77)
+# text_eng = He makes her shorten it.
 1	obotukukokat	tukuk	VERB	v	Person=3|Voice=CauFact	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_057,Teko,obodzaukokat,,,"Il le lui fait baigner.(GE, 42:78)",French,,"# sent_id = 01.057
+Teko-01_057,Teko,obodzaukokat,,,He makes her bathe him.,English,,"# sent_id = 01.057
 # text = obodzaukokat
 # text_fr = Il le lui fait baigner.(GE, 42:78)
+# text_eng = He makes her bathe him.
 1	obodzaukokat	dzauk	VERB	v	Person=3|Voice=CauFact	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_058,Teko,amõenam awakʷərakom obosale paku,,,"D'autres hommes salent les pacous.(GE, 42:79)",French,,"# sent_id = 01.058
+Teko-01_058,Teko,amõenam awakʷərakom obosale paku,,,Other men salt the pacous.,English,,"# sent_id = 01.058
 # text = amõenam awakʷərakom obosale paku
 # text_fr = D'autres hommes salent les pacous.(GE, 42:79)
+# text_eng = Other men salt the pacous.
 1	amõenam	amõ	PRON	pron	PronType=Ind|Top=Yes	2	nmod	_	_
 2	awakʷərakom	awakʷər	NOUN	n	Case=Ref|Number=Plur	3	nsubj	_	_
 3	obosale	sale	VERB	v	Person=3|Voice=Cau	0	root	_	_
 4	paku	paku	NOUN	n	_	3	obj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_059,Teko,obotekookat,,,"Il le fait devenir Emérillon.(GE, 42:80)",French,,"# sent_id = 01.059
+Teko-01_059,Teko,obotekookat,,,He makes him become Emerillon.,English,,"# sent_id = 01.059
 # text = obotekookat
 # text_fr = Il le fait devenir Emérillon.(GE, 42:80)
+# text_eng = He makes him become Emerillon.
 1	obotekookat	teko	VERB	v	Person=3|Voice=CauFact	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_060,Teko,dapotari aŋ zawar bɨgi,,,"Je n'aime pas ce chien noir.(GE, 43:81)",French,,"# sent_id = 01.060
+Teko-01_060,Teko,dapotari aŋ zawar bɨgi,,,I don't like that black dog.,English,,"# sent_id = 01.060
 # text = dapotari aŋ zawar bɨgi
 # text_fr = Je n'aime pas ce chien noir.(GE, 43:81)
+# text_eng = I don't like that black dog.
 1	dapotari	potar	VERB	v	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	aŋ	aŋ	DET	dem	_	3	det	_	_
 3	zawar	zawar	NOUN	n	_	1	obj	_	_
 4	bɨgi	bɨg	NOUN	n	Pred=Yes	3	nmod	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_061,Teko,omãʔẽ bɨgi owa rehe,,,"Elle voit le visage noir.(GE, 43:82)",French,,"# sent_id = 01.061
+Teko-01_061,Teko,omãʔẽ bɨgi owa rehe,,,She sees the black face.,English,,"# sent_id = 01.061
 # text = omãʔẽ bɨgi owa rehe
 # text_fr = Elle voit le visage noir.(GE, 43:82)
+# text_eng = She sees the black face.
 1	omãʔẽ	mãʔẽ	NOUN	n	Rel=NCont	0	root	_	_
 2	bɨgi	bɨg	NOUN	n	Pred=Yes	3	nmod	_	_
 3	owa	owa	NOUN	n	_	1	obl	_	_
 4	rehe	ehe	ADP	posp	Rel=Cont	3	obl	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_062,Teko,"sə tapiʔir otuirupiwe , wãĩwĩkom səsəwe otuiŋ",,,"Quand le tapir grandissait, les filles grandissaient aussi.(GE, 44:83)",French,,"# sent_id = 01.062
+Teko-01_062,Teko,"sə tapiʔir otuirupiwe , wãĩwĩkom səsəwe otuiŋ",,,"When the tapir was growing up, the girls were growing up too.",English,,"# sent_id = 01.062
 # text = sə tapiʔir otuirupiwe , wãĩwĩkom səsəwe otuiŋ
 # text_fr = Quand le tapir grandissait, les filles grandissaient aussi.(GE, 44:83)
+# text_eng = When the tapir was growing up, the girls were growing up too.
 1	sə	sə	NOUN	n	_	3	xcomp	_	_
 2	tapiʔir	tapiʔir	NOUN	n	_	3	nsubj	_	_
 3	otuirupiwe	tui	VERB	v	Mood=Sub|Person=3	7	advcl	_	_
@@ -28570,186 +28641,213 @@ Teko-01_062,Teko,"sə tapiʔir otuirupiwe , wãĩwĩkom səsəwe otuiŋ",,,"Quan
 7	otuiŋ	tui	VERB	v	Number=Plur|Person=3|Red=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_063,Teko,epɨbɨrɨ Camopipori Cayenneawinẽ,,,"C'est plus cher à Camopi qu'à Cayenne.(GE, 44:84)",French,,"# sent_id = 01.063
+Teko-01_063,Teko,epɨbɨrɨ Camopipori Cayenneawinẽ,,,It is more expensive in Camopi than in Cayenne.,English,,"# sent_id = 01.063
 # text = epɨbɨrɨ Camopipori Cayenneawinẽ
 # text_fr = C'est plus cher à Camopi qu'à Cayenne.(GE, 44:84)
+# text_eng = It is more expensive in Camopi than in Cayenne.
 1	epɨbɨrɨ	epɨ	NOUN	n	Degree=Cmp	0	root	_	_
 2	Camopipori	Camopi	PROPN	propn	Case=Dat	1	obl	_	_
 3	Cayenneawinẽ	Cayenne	PROPN	propn	Case=Abl|Contrast=Yes	1	obl	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_064,Teko,səbɨrɨ wɨɲ,,,"Lui, il est le plus gros.(GE, 44:85)",French,,"# sent_id = 01.064
+Teko-01_064,Teko,səbɨrɨ wɨɲ,,,He is the biggest.,English,,"# sent_id = 01.064
 # text = səbɨrɨ wɨɲ
 # text_fr = Lui, il est le plus gros.(GE, 44:85)
+# text_eng = He is the biggest.
 1	səbɨrɨ	sə	NOUN	noun	Degree=Sup	0	root	_	_
 2	wɨɲ	wɨɲ	PRON	pron	_	1	nsubj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_065,Teko,okuwapɨlɨ ãng,,,"Il en sait plus, lui.(GE, 44:86)",French,,"# sent_id = 01.065
+Teko-01_065,Teko,okuwapɨlɨ ãng,,,He knows more about it.,English,,"# sent_id = 01.065
 # text = okuwapɨlɨ ãng
 # text_fr = Il en sait plus, lui.(GE, 44:86)
+# text_eng = He knows more about it.
 1	okuwapɨlɨ	kuwa	VERB	v	Intens=Yes|Person=3	0	root	_	_
 2	ãng	ãng	PRON	pron	PronType=Dem	1	det	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_066,Teko,ipoɨdjpɨlɨ,,,"Il est plus lourd.(GE, 45:87)",French,,"# sent_id = 01.066
+Teko-01_066,Teko,ipoɨdjpɨlɨ,,,He is heavier.,English,,"# sent_id = 01.066
 # text = ipoɨdjpɨlɨ
 # text_fr = Il est plus lourd.(GE, 45:87)
+# text_eng = He is heavier.
 1	ipoɨdjpɨlɨ	poɨdj	NOUN	n	Degree=Cmp|Rel=NCont	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_067,Teko,izonaɲapɨrɨ ewinẽ,,,"Il a plus d'oranges que moi.(GE, 45:88)",French,,"# sent_id = 01.067
+Teko-01_067,Teko,izonaɲapɨrɨ ewinẽ,,,He has more oranges than me.,English,,"# sent_id = 01.067
 # text = izonaɲapɨrɨ ewinẽ
 # text_fr = Il a plus d'oranges que moi.(GE, 45:88)
+# text_eng = He has more oranges than me.
 1	izonaɲapɨrɨ	zonaɲ	NOUN	n	Case=Ref|Degree=Cmp|Rel=NCont	0	root	_	_
 2	ewinẽ	e	NOUN	n	Case=Abl|Contrast=Yes|Number=Sing|Person=1	1	obl	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_068,Teko,itukug,,,"C'est court(GE, 45:89)",French,,"# sent_id = 01.068
+Teko-01_068,Teko,itukug,,,It's short,English,,"# sent_id = 01.068
 # text = itukug
 # text_fr = C'est court(GE, 45:89)
+# text_eng = It's short
 1	itukug	tukug	NOUN	n	Rel=NCont	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_069,Teko,itawa,,,"C'est jaune/mûr.(GE, 45:90)",French,,"# sent_id = 01.069
+Teko-01_069,Teko,itawa,,,It's yellow/ripe.,English,,"# sent_id = 01.069
 # text = itawa
 # text_fr = C'est jaune/mûr.(GE, 45:90)
+# text_eng = It's yellow/ripe.
 1	itawa	tawa	NOUN	n	Person=2	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_070,Teko,iɲuʔaŋ,,,"Il a froid.(GE, 46:91)",French,,"# sent_id = 01.070
+Teko-01_070,Teko,iɲuʔaŋ,,,He is cold.,English,,"# sent_id = 01.070
 # text = iɲuʔaŋ
 # text_fr = Il a froid.(GE, 46:91)
+# text_eng = He is cold.
 1	iɲuʔaŋ	ɲuʔaŋ	NOUN	n	Rel=NCont	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_071,Teko,tukugi,,,"Elle est courte.(GE, 47:92)",French,,"# sent_id = 01.071
+Teko-01_071,Teko,tukugi,,,She is short.,English,,"# sent_id = 01.071
 # text = tukugi
 # text_fr = Elle est courte.(GE, 47:92)
+# text_eng = She is short.
 1	tukugi	tukug	NOUN	n	Pred=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_072,Teko,bɨgi,,,"Il est noir.(GE, 47:93)",French,,"# sent_id = 01.072
+Teko-01_072,Teko,bɨgi,,,He is black.,English,,"# sent_id = 01.072
 # text = bɨgi
 # text_fr = Il est noir.(GE, 47:93)
+# text_eng = He is black.
 1	bɨgi	bɨg	NOUN	n	Pred=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_073,Teko,tawadʒi,,,"C'est jaune(GE, 47:94)",French,,"# sent_id = 01.073
+Teko-01_073,Teko,tawadʒi,,,It's yellow,English,,"# sent_id = 01.073
 # text = tawadʒi
 # text_fr = C'est jaune(GE, 47:94)
+# text_eng = It's yellow
 1	tawadʒi	tawa	NOUN	n	Pred=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_074,Teko,kuʔidʒi,,,"C'est vert.(GE, 47:95)",French,,"# sent_id = 01.074
+Teko-01_074,Teko,kuʔidʒi,,,It's green.,English,,"# sent_id = 01.074
 # text = kuʔidʒi
 # text_fr = C'est vert.(GE, 47:95)
+# text_eng = It's green.
 1	kuʔidʒi	kuʔi	NOUN	n	Pred=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_075,Teko,tabedʒi,,,"C'est plat.(GE, 47:96)",French,,"# sent_id = 01.075
+Teko-01_075,Teko,tabedʒi,,,It is flat.,English,,"# sent_id = 01.075
 # text = tabedʒi
 # text_fr = C'est plat.(GE, 47:96)
+# text_eng = It is flat.
 1	tabedʒi	tabe	NOUN	n	Pred=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_076,Teko,dapotari aŋ zawar bɨgimãʔẽ,,,"Je n'aime pas ce chien noir.(GE, 43:81)",French,,"# sent_id = 01.076
+Teko-01_076,Teko,dapotari aŋ zawar bɨgimãʔẽ,,,I don't like that black dog.,English,,"# sent_id = 01.076
 # text = dapotari aŋ zawar bɨgimãʔẽ
 # text_fr = Je n'aime pas ce chien noir.(GE, 43:81)
+# text_eng = I don't like that black dog.
 1	dapotari	potar	VERB	v	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
 2	aŋ	aŋ	DET	dem	_	3	det	_	_
 3	zawar	zawar	NOUN	n	_	1	obj	_	_
 4	bɨgimãʔẽ	bɨg	NOUN	n	Nomzr=Rel|Pred=Yes	3	nmod	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_077,Teko,"nõdezar , sə",,,"Notre maître, il est grand.(GE, 48:97)",French,,"# sent_id = 01.077
+Teko-01_077,Teko,"nõdezar , sə",,,"Our master, he is tall.",English,,"# sent_id = 01.077
 # text = nõdezar , sə
 # text_fr = Notre maître, il est grand.(GE, 48:97)
+# text_eng = Our master, he is tall.
 1	nõdezar	nõdezar	NOUN	n	Clusivity=In|Person=1	3	discourse	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	sə	sə	NOUN	n	_	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_078,Teko,disidʒapɨakadʒi,,,"Nous ne pensons pas.(GE, 48:98)",French,,"# sent_id = 01.078
+Teko-01_078,Teko,disidʒapɨakadʒi,,,We don't think.,English,,"# sent_id = 01.078
 # text = disidʒapɨakadʒi
 # text_fr = Nous ne pensons pas.(GE, 48:98)
+# text_eng = We don't think.
 1	disidʒapɨakadʒi	dʒapɨaka	VERB	v	Clusivity=In|Person=1|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_079,Teko,dokusugi,,,"Il ne lave pas.(GE, 48:99)",French,,"# sent_id = 01.079
+Teko-01_079,Teko,dokusugi,,,He does not wash.,English,,"# sent_id = 01.079
 # text = dokusugi
 # text_fr = Il ne lave pas.(GE, 48:99)
+# text_eng = He does not wash.
 1	dokusugi	kusug	VERB	v	Person=3|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_080,Teko,domanõɲi,,,"Il ne meurt pas.(GE, 48:100)",French,,"# sent_id = 01.080
+Teko-01_080,Teko,domanõɲi,,,He does not die.,English,,"# sent_id = 01.080
 # text = domanõɲi
 # text_fr = Il ne meurt pas.(GE, 48:100)
+# text_eng = He does not die.
 1	domanõɲi	manõ	VERB	v	Person=3|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_081,Teko,siŋi adʒu,,,"Je suis blanche.(GE, 49:101)",French,,"# sent_id = 01.081
+Teko-01_081,Teko,siŋi adʒu,,,I am white.,English,,"# sent_id = 01.081
 # text = siŋi adʒu
 # text_fr = Je suis blanche.(GE, 49:101)
+# text_eng = I am white.
 1	siŋi	siŋ	NOUN	n	Pred=Yes	0	root	_	_
 2	adʒu	dʒu	AUX	aux	Number=Sing|Person=1	1	cop	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_082,Teko,takuru perabkatu,,,"Le rocher brille bien.(GE, 49:102)",French,,"# sent_id = 01.082
+Teko-01_082,Teko,takuru perabkatu,,,The rock shines nicely.,English,,"# sent_id = 01.082
 # text = takuru perabkatu
 # text_fr = Le rocher brille bien.(GE, 49:102)
+# text_eng = The rock shines nicely.
 1	takuru	takuru	NOUN	n	_	2	nsubj	_	_
 2	perabkatu	perab	NOUN	n	Intens=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_083,Teko,tukukaɨ,,,"Il est trop court.(GE, 49:103)",French,,"# sent_id = 01.083
+Teko-01_083,Teko,tukukaɨ,,,It's too short.,English,,"# sent_id = 01.083
 # text = tukukaɨ
 # text_fr = Il est trop court.(GE, 49:103)
+# text_eng = It's too short.
 1-2	tukukaɨ	_	_	_	_	_	_	_	_
 1	tukuk	tukuk	NOUN	n	_	0	root	_	_
 2	aɨ	aɨ	NOUN	n	_	1	nmod	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_084,Teko,pinãngala,,,"C'est déjà rouge.(GE, 49:104)",French,,"# sent_id = 01.084
+Teko-01_084,Teko,pinãngala,,,It's already red.,English,,"# sent_id = 01.084
 # text = pinãngala
 # text_fr = C'est déjà rouge.(GE, 49:104)
+# text_eng = It's already red.
 1-2	pinãngala	_	_	_	_	_	_	_	_
 1	pinãnga	pinãng	NOUN	n	Case=Ref	0	root	_	_
 2	la	la	ADV	adv	_	1	advmod	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_085,Teko,damãʔẽtaraɨdʒi,,,"Je ne veux plus te voir.(GE, 49:105)",French,,"# sent_id = 01.085
+Teko-01_085,Teko,damãʔẽtaraɨdʒi,,,I do not want to see you anymore.,English,,"# sent_id = 01.085
 # text = damãʔẽtaraɨdʒi
 # text_fr = Je ne veux plus te voir.(GE, 49:105)
+# text_eng = I do not want to see you anymore.
 1-2	damãʔẽtaraɨdʒi	_	_	_	_	_	_	_	_
 1	damãʔẽtar	mãʔẽ	VERB	v	Intens=Yes|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	0	root	_	_
 2	aɨdʒi	aɨ	NOUN	n	Polarity=Neg	1	nsubj	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_086,Teko,dokusugi,,,"Il ne lave pas.(GE, 49:106)",French,,"# sent_id = 01.086
+Teko-01_086,Teko,dokusugi,,,He does not wash.,English,,"# sent_id = 01.086
 # text = dokusugi
 # text_fr = Il ne lave pas.(GE, 49:106)
+# text_eng = He does not wash.
 1	dokusugi	kusug	VERB	v	Person=3|Polarity=Neg	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_087,Teko,wɨrakarakotɨnuwã peotar,,,"Ce n'est pas vers Dieu que vous irez.(GE, 49:107)",French,,"# sent_id = 01.087
+Teko-01_087,Teko,wɨrakarakotɨnuwã peotar,,,It's not the God you are going to.,English,,"# sent_id = 01.087
 # text = wɨrakarakotɨnuwã peotar
 # text_fr = Ce n'est pas vers Dieu que vous irez.(GE, 49:107)
+# text_eng = It's not the God you are going to.
 1	wɨrakarakotɨnuwã	wɨrakara	NOUN	n	Case=Lat|Polarity=Neg	2	obl	_	_
 2	peotar	o	VERB	v	Number=Plur|Person=2|Tense=Fut	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_088,Teko,atarawadʒ awakʷər arehe,,,"Je travaille avec des hommes.(GE, 50:108)",French,,"# sent_id = 01.088
+Teko-01_088,Teko,atarawadʒ awakʷər arehe,,,I work with men.,English,,"# sent_id = 01.088
 # text = atarawadʒ awakʷər arehe
 # text_fr = Je travaille avec des hommes.(GE, 50:108)
+# text_eng = I work with men.
 1	atarawadʒ	tarawadʒ	VERB	v	Number=Sing|Person=1	0	root	_	_
 2	awakʷər	awakʷər	NOUN	n	_	1	obl	_	_
 3	arehe	ehe	ADP	posp	Rel=Cont	1	obl	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_089,Teko,atarawadʒ awakʷər arehedʒi,,,"Je travaille avec des hommes.(GE, 50:108)",French,,"# sent_id = 01.089
+Teko-01_089,Teko,atarawadʒ awakʷər arehedʒi,,,I work with men.,English,,"# sent_id = 01.089
 # text = atarawadʒ awakʷər arehedʒi
 # text_fr = Je travaille avec des hommes.(GE, 50:108)
+# text_eng = I work with men.
 1	atarawadʒ	tarawadʒ	VERB	v	Number=Sing|Person=1	0	root	_	_
 2	awakʷər	awakʷər	NOUN	n	_	1	obl	_	_
 3-4	arehedʒi	_	_	_	_	_	_	_	_
@@ -28757,9 +28855,10 @@ Teko-01_089,Teko,atarawadʒ awakʷər arehedʒi,,,"Je travaille avec des hommes.
 4	dʒi	dʒi	X	x	_	1	dep	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_090,Teko,"kor kɨto raʔɨr oiɲuŋ baʔepopedʒi , bokalapedʒi oiɲuŋ",,,"Et il met la petite grenouille dans quelque chose, il la met dans un bocal.(GE, 50:109)",French,,"# sent_id = 01.090
+Teko-01_090,Teko,"kor kɨto raʔɨr oiɲuŋ baʔepopedʒi , bokalapedʒi oiɲuŋ",,,"And he puts the little frog in something, he puts it in a jar.",English,,"# sent_id = 01.090
 # text = kor kɨto raʔɨr oiɲuŋ baʔepopedʒi , bokalapedʒi oiɲuŋ
 # text_fr = Et il met la petite grenouille dans quelque chose, il la met dans un bocal.(GE, 50:109)
+# text_eng = And he puts the little frog in something, he puts it in a jar.
 1	kor	kor	ADV	adv	_	4	advmod	_	_
 2	kɨto	kɨto	NOUN	n	_	3	nmod	_	_
 3	raʔɨr	aʔir	NOUN	n	Rel=Cont	4	obj	_	_
@@ -28774,9 +28873,10 @@ Teko-01_090,Teko,"kor kɨto raʔɨr oiɲuŋ baʔepopedʒi , bokalapedʒi oiɲuŋ
 10	oiɲuŋ	iɲuŋ	VERB	v	Number=Sing|Person=3	4	parataxis	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_091,Teko,datisikədʒi teko,,,"C'est comme s'il n'y avait pas d'Emérillon (GE, 50:110)",French,,"# sent_id = 01.091
+Teko-01_091,Teko,datisikədʒi teko,,,It's as if there were no Emerillons.,English,,"# sent_id = 01.091
 # text = datisikədʒi teko
 # text_fr = C'est comme s'il n'y avait pas d'Emérillon (GE, 50:110)
+# text_eng = It's as if there were no Emerillons.
 1-3	datisikədʒi	_	_	_	_	_	_	_	_
 1	dati	dati	AUX	aux	_	4	cop	_	_
 2	sikə	sikə	ADV	adv	_	4	advmod	_	_
@@ -28784,17 +28884,19 @@ Teko-01_091,Teko,datisikədʒi teko,,,"C'est comme s'il n'y avait pas d'Emérill
 4	teko	teko	PROPN	propn	_	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_092,Teko,aʔe kõʔem irehe,,,"Le lendemain (GE, 50:111)",French,,"# sent_id = 01.092
+Teko-01_092,Teko,aʔe kõʔem irehe,,,The next day,English,,"# sent_id = 01.092
 # text = aʔe kõʔem irehe
 # text_fr = Le lendemain (GE, 50:111)
+# text_eng = The next day
 1	aʔe	aʔe	DET	dem	_	2	det	_	_
 2	kõʔem	kõʔem	NOUN	n	_	0	root	_	_
 3	irehe	ehe	ADP	posp	Rel=Cont	2	obl	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_093,Teko,nanipamẽ sidʒu nõde les jeunes,,,"Nous sommes tous comme ça,les jeunes,(GE, 50:112)",French,,"# sent_id = 01.093
+Teko-01_093,Teko,nanipamẽ sidʒu nõde les jeunes,,,"We are all like that, young people,",English,,"# sent_id = 01.093
 # text = nanipamẽ sidʒu nõde les jeunes
-# text_fr = Nous sommes tous comme ça,les jeunes,(GE, 50:112)
+# text_fr = Nous sommes tous comme ça,les jeunes, (GE, 50:112)
+# text_eng = We are all like that, young people,
 1-2	nanipamẽ	_	_	_	_	_	_	_	_
 1	nani	nan	ADV	adv	_	0	root	_	_
 2	pamẽ	pamẽ	PRON	pron	PronType=Tot	1	dep	_	_
@@ -28804,16 +28906,18 @@ Teko-01_093,Teko,nanipamẽ sidʒu nõde les jeunes,,,"Nous sommes tous comme ç
 6	jeunes	jeunes	NOUN	n	_	4	dislocated	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_094,Teko,zeakapɨreri owataŋ,,,"Ils marchent les uns derrière les autres(GE, 50:113)",French,,"# sent_id = 01.094
+Teko-01_094,Teko,zeakapɨreri owataŋ,,,They walk behind each other,English,,"# sent_id = 01.094
 # text = zeakapɨreri owataŋ
-# text_fr = Ils marchent les uns derrière les autres(GE, 50:113)
+# text_fr = Ils marchent les uns derrière les autres (GE, 50:113)
+# text_eng = They walk behind each other
 1	zeakapɨreri	akapɨrer	ADV	adv	Reflex=Yes	2	advmod	_	_
 2	owataŋ	wata	VERB	v	Number=Plur|Person=3	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_096,Teko,"sidʒaonẽ siʔe nõde , nõderaɨhɨpadʒira",,,"Allons-y nous-mêmes, parce qu'on ne nous aime pas.(GE, 59:115)",French,,"# sent_id = 01.096
+Teko-01_096,Teko,"sidʒaonẽ siʔe nõde , nõderaɨhɨpadʒira",,,"Let's go ourselves, because they don't like us.",English,,"# sent_id = 01.096
 # text = sidʒaonẽ siʔe nõde , nõderaɨhɨpadʒira
-# text_fr = Allons-y nous-mêmes, parce qu'on ne nous aime pas.(GE, 59:115)
+# text_fr = Allons-y nous-mêmes, parce qu'on ne nous aime pas. (GE, 59:115)
+# text_eng = Let's go ourselves, because they don't like us.
 1	sidʒaonẽ	o	VERB	v	Clusivity=In|Contrast=Yes|Imprs=Yes|Person=1	0	root	_	_
 2	siʔe	siʔe	PART	prcl	_	3	discourse	_	_
 3	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur|Person=1	1	nsubj	_	_
@@ -28821,9 +28925,10 @@ Teko-01_096,Teko,"sidʒaonẽ siʔe nõde , nõderaɨhɨpadʒira",,,"Allons-y no
 5	nõderaɨhɨpadʒira	aɨhɨ	NOUN	n	Antr=Yes|Aspect=Compl|Clusivity=In|Person=1|Polarity=Neg|Rel=Cont	1	advcl	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_097,Teko,"Mama , orohotar baipuri orozopodʒ",,,"Maman, nous allons nourrir le tapir.(GE, 59:116)",French,,"# sent_id = 01.097
+Teko-01_097,Teko,"Mama , orohotar baipuri orozopodʒ",,,"Mom, let's feed the tapir.",English,,"# sent_id = 01.097
 # text = Mama , orohotar baipuri orozopodʒ
 # text_fr = Maman, nous allons nourrir le tapir.(GE, 59:116)
+# text_eng = Mom, let's feed the tapir.
 1	Mama	Mama	NOUN	n	_	5	vocative	_	_
 2	,	,	PUNCT	punct	_	5	punct	_	_
 3	orohotar	ho	VERB	v	Clusivity=Ex|Person=1|Tense=Fut	5	dep	_	_
@@ -28831,9 +28936,10 @@ Teko-01_097,Teko,"Mama , orohotar baipuri orozopodʒ",,,"Maman, nous allons nour
 5	orozopodʒ	zopodʒ	VERB	v	Clusivity=Ex|Person=1	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_098,Teko,"kʷienã oronekarakuriõwãnam , kotɨ orohotar",,,"Un jour, peut-être, quand on aura un peu de sous, nous irons là-bas.(GE, 59:117)",French,,"# sent_id = 01.098
+Teko-01_098,Teko,"kʷienã oronekarakuriõwãnam , kotɨ orohotar",,,"One day, perhaps, when we have some money, we will go there.",English,,"# sent_id = 01.098
 # text = kʷienã oronekarakuriõwãnam , kotɨ orohotar
 # text_fr = Un jour, peut-être, quand on aura un peu de sous, nous irons là-bas.(GE, 59:117)
+# text_eng = One day, perhaps, when we have some money, we will go there.
 1	kʷienã	kʷi	ADV	adv	Case=Dub	5	advmod	_	_
 2	oronekarakuriõwãnam	karakuri	NOUN	n	Clusivity=Ex|Emph=Yes|Mood=Sub|Person=1	5	advcl	_	_
 3	,	,	PUNCT	punct	_	5	punct	_	_
@@ -28841,18 +28947,20 @@ Teko-01_098,Teko,"kʷienã oronekarakuriõwãnam , kotɨ orohotar",,,"Un jour, p
 5	orohotar	ho	VERB	v	Clusivity=Ex|Person=1|Tense=Fut	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_099,Teko,aʔeate nõde tekokom sidʒu,,,"Ceux-là, c'est nous, nous sommes les Emérillons.(GE, 59:118)",French,,"# sent_id = 01.099
+Teko-01_099,Teko,aʔeate nõde tekokom sidʒu,,,"Those are us, we are the Emerillons.",English,,"# sent_id = 01.099
 # text = aʔeate nõde tekokom sidʒu
 # text_fr = Ceux-là, c'est nous, nous sommes les Emérillons.(GE, 59:118)
+# text_eng = Those are us, we are the Emerillons.
 1	aʔeate	aʔe	DET	dem	Case=Ref|Foc=Yes	3	det	_	_
 2	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur	3	parataxis	_	_
 3	tekokom	teko	PROPN	propn	Number=Plur	0	root	_	_
 4	sidʒu	dʒu	AUX	aux	Clusivity=In|Person=1	3	cop	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_100,Teko,nanãhãte aŋ baʔekʷər zaidu,,,"C'est comme ça qu'on raconte cette histoire.(GE, 59:119)",French,,"# sent_id = 01.100
+Teko-01_100,Teko,nanãhãte aŋ baʔekʷər zaidu,,,That's how we tell this story.,English,,"# sent_id = 01.100
 # text = nanãhãte aŋ baʔekʷər zaidu
 # text_fr = C'est comme ça qu'on raconte cette histoire.(GE, 59:119)
+# text_eng = That's how we tell this story.
 1-2	nanãhãte	_	_	_	_	_	_	_	_
 1	nan	nan	ADV	adv	_	5	advmod	_	_
 2	ãhãte	ãhã	ADV	adv	Foc=Yes	1	dep	_	_
@@ -28861,9 +28969,10 @@ Teko-01_100,Teko,nanãhãte aŋ baʔekʷər zaidu,,,"C'est comme ça qu'on racon
 5	zaidu	idu	VERB	v	Imprs=Yes	0	root	_	_
 
 ",UD_Teko-TuDeT
-Teko-01_101,Teko,ipuriweʔe baʔe ipope pazaru zaiɲuŋamãʔẽ,,,"Et à côté il y a la chose dans laquelle on met du cachiri (= une marmite).(GE, 60:120)",French,,"# sent_id = 01.101
+Teko-01_101,Teko,ipuriweʔe baʔe ipope pazaru zaiɲuŋamãʔẽ,,,And nearby there is the thing in which we put cachiri (= a pot),English,,"# sent_id = 01.101
 # text = ipuriweʔe baʔe ipope pazaru zaiɲuŋamãʔẽ
-# text_fr = Et à côté il y a la chose dans laquelle on met du cachiri (= une marmite).(GE, 60:120)
+# text_fr = Et à côté il y a la chose dans laquelle on met du cachiri (= une marmite) (GE, 60:120)
+# text_eng = And nearby there is the thing in which we put cachiri (= a pot)
 1	ipuriweʔe	puri	NOUN	n	Emph=Yes|Rel=NCont	5	obl	_	_
 2	baʔe	baʔe	NOUN	n	_	5	obl	_	_
 3	ipope	pope	NOUN	n	Rel=NCont	2	case	_	_
@@ -29825,7 +29934,7 @@ Tupinamba-414,Tupinamba,Aβaaβape ase rese Tupã mongetasaramo sekow ?,,,"Who a
 ",UD_Tupinamba-TuDeT
 Tupinamba-43456,Tupinamba,maʔepe imongaraiβɨpɨra jeroβjasaβete Tupã mojɨrõ potasaβamo ?,,,In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1,Portuguese,,"# sent_id = 43456
 # text = maʔepe imongaraiβɨpɨra jeroβjasaβete Tupã mojɨrõ potasaβamo ?
-# text_port = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
+# text_por = In what do the baptized firmly believe as a mean of wishing to reconcile with God? book 3-1
 1-2	maʔepe	_	_	_	_	_	_	_	_
 1	maʔe	maʔe	NOUN	n	_	4	obj	_	_
 2	pe	pe	PART	qprt	_	1	discourse	_	_
@@ -29847,9 +29956,9 @@ Tupinamba-592378,Tupinamba,Janejara JesusCristo reʔõawera,,,The death of our l
 4	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	0	root	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-619736,Tupinamba,Tekoangaipaβokaramo janejara JesusCristo rekoreme,,,For being our lord JC the one who pulls out /rips the sins.  book 3-3,English,,"# sent_id = 619736
+Tupinamba-619736,Tupinamba,Tekoangaipaβokaramo janejara JesusCristo rekoreme,,,For being our lord JC the one who pulls out /rips the sins.  (book 3-3),English,,"# sent_id = 619736
 # text = Tekoangaipaβokaramo janejara JesusCristo rekoreme
-# text_eng = For being our lord JC the one who pulls out /rips the sins.  book 3-3
+# text_eng = For being our lord JC the one who pulls out /rips the sins.  (book 3-3)
 1-3	Tekoangaipaβokaramo	_	_	_	_	_	_	_	_
 1	teko	eko	NOUN	n	Rel=Hum	3	nmod	_	_
 2	angaipaβ	angaipaβ	NOUN	n	_	1	nmod	_	_
@@ -29891,7 +30000,7 @@ Tupinamba-8,Tupinamba,Seʔõawera resepe Tupã Tuβa jɨrõkaturamo aseβe ?,,,"
 ",UD_Tupinamba-TuDeT
 Tupinamba-10,Tupinamba,Oemimotarɨβo epe erimaʔe ijemeʔẽngi ogupjarama supe ojeraneʔɨma ?,,,Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7,Portuguese,,"# sent_id = 10
 # text = Oemimotarɨβo epe erimaʔe ijemeʔẽngi ogupjarama supe ojeraneʔɨma ?
-# text_port = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
+# text_por = Was it by his own will that he surrendered to his future enemies being peaceful? book 3-7
 1	Oemimotarɨβo	emimotar	NOUN	n	Case=Loc|Reflex=Yes	0	root	_	_
 2	epe	epe	PART	pcl	_	1	discourse	_	_
 3	erimaʔe	erimaʔe	ADV	adv	_	1	advmod	_	_
@@ -29902,17 +30011,17 @@ Tupinamba-10,Tupinamba,Oemimotarɨβo epe erimaʔe ijemeʔẽngi ogupjarama supe
 8	?	_	PUNCT	punct	_	1	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-11,Tupinamba,O emimotarɨβo e,,,It was in fact by his own will book 3-8,Portuguese,,"# sent_id = 11
+Tupinamba-11,Tupinamba,O emimotarɨβo e,,,It was in fact by his own will book 3-8,English,,"# sent_id = 11
 # text = O emimotarɨβo e
-# text_port = It was in fact by his own will book 3-8
+# text_eng = It was in fact by his own will book 3-8
 1	O	o	PRON	pro	Reflex=Yes	2	nmod	_	_
 2	emimotarɨβo	emimotar	NOUN	n	Case=Loc	0	root	_	_
 3	e	e	PART	pcl	_	2	discourse	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-12,Tupinamba,Ojpotakatupe oeʔõawera rese ase maʔenwara ?,,,Did he really want people to remember his death? book 3-9,Portuguese,,"# sent_id = 12
+Tupinamba-12,Tupinamba,Ojpotakatupe oeʔõawera rese ase maʔenwara ?,,,Did he really want people to remember his death? book 3-9,English,,"# sent_id = 12
 # text = Ojpotakatupe oeʔõawera rese ase maʔenwara ?
-# text_port = Did he really want people to remember his death? book 3-9
+# text_eng = Did he really want people to remember his death? book 3-9
 1	Ojpotakatupe	potar	VERB	vt	Int=Yes|Intens=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	oeʔõawera	eʔõa	NOUN	n	Case=Ref|Reflex=Yes	5	obl	_	_
 3	rese	ese	ADP	posp	Rel=Cont	2	case	_	_
@@ -29921,9 +30030,9 @@ Tupinamba-12,Tupinamba,Ojpotakatupe oeʔõawera rese ase maʔenwara ?,,,Did he r
 6	?	?	PUNCT	punct	_	1	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-14,Tupinamba,"Ojpotakatu , Sese omaʔenwaramo e ase Tupã rawsuβi opɨʔape seko aβɨpotareʔɨma",,,"He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10",Portuguese,,"# sent_id = 14
+Tupinamba-14,Tupinamba,"Ojpotakatu , Sese omaʔenwaramo e ase Tupã rawsuβi opɨʔape seko aβɨpotareʔɨma",,,"He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10",English,,"# sent_id = 14
 # text = Ojpotakatu , Sese omaʔenwaramo e ase Tupã rawsuβi opɨʔape seko aβɨpotareʔɨma
-# text_port = He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10
+# text_eng = He really wanted it! It is by loving god that one remembers it, not willing to disobey his law in ones heart. book 3-10
 1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Sese	ese	ADP	posp	Rel=NCont	4	case	_	_
@@ -29983,7 +30092,7 @@ Tupinamba-18,Tupinamba,Sese o maʔenwaramo e ase Tupã rawsuβi o pɨʔape seko 
 ",UD_Tupinamba-TuDeT
 Tupinamba-19,Tupinamba,Sorɨβete rako aβa tegwama porarasara moroposanongara mosanga tekoβe jara rerekoara supe ogwasema,,,"The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1",Portuguese,,"# sent_id = 19
 # text = Sorɨβete rako aβa tegwama porarasara moroposanongara mosanga tekoβe jara rerekoara supe ogwasema
-# text_port = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
+# text_por = The man, which faces a mortal wound, greatly rejoyces when he encounters a healer, carrier of a medicine master of life. book 6 p 97 1
 1	Sorɨβete	orɨβ	VERB	v	_	0	root	_	_
 2	rako	rako	PART	pcl	_	1	advmod	_	_
 3	aβa	aβa	NOUN	n	_	1	nsubj	_	_
@@ -31834,6 +31943,7 @@ Tupinamba-9184746,Tupinamba,"Ju , ajaŋap ikó ri !",,,"Oh, is this perhaps the 
 Tupinamba-19837637,Tupinamba,"ʃemenwera ipo reʔĩ , Pirakaʔẽamɨrĩ !",,,"(Teatro, 74, p. 10)",English,,"# sent_id = 19837637
 # text = ʃemenwera ipo reʔĩ , Pirakaʔẽamɨrĩ !
 # text_eng = (Teatro, 74, p. 10)
+# text_por = É meu marido, com certeza
 1	ʃemenwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Past	0	root	_	_
 2	ipo	ipo	ADV	adv	_	1	advmod	_	_
 3	reʔĩ	reʔĩ	PART	prcl	_	1	discourse	_	_
@@ -32239,7 +32349,7 @@ Tupinamba-1111347372,Tupinamba,"Ajepɨk aje sese , ianamakatu rire , ʃeremiaram
 Tupinamba-22247372,Tupinamba,"Maʔene , Tupinamba , Paraguasupenarwera , iTupã osɨβaʔepwera opakatu jamoma .",,,"(Teatro, 142, p. 16)",English,,"# sent_id = 22247372
 # text = Maʔene , Tupinamba , Paraguasupenarwera , iTupã osɨβaʔepwera opakatu jamoma .
 # text_eng = (Teatro, 142, p. 16)
-# text_port = Olha, os tupinambas que estavam no Paraguaçu, que esfregavam seu Deus, todos arrasamos
+# text_por = Olha, os tupinambas que estavam no Paraguaçu, que esfregavam seu Deus, todos arrasamos
 1	Maʔene	maʔe	INTJ	intj	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
 3	Tupinamba	Tupinamba	PROPN	propn	_	10	dislocated	_	_
@@ -32256,7 +32366,7 @@ Tupinamba-22247372,Tupinamba,"Maʔene , Tupinamba , Paraguasupenarwera , iTupã 
 Tupinamba-21234372,Tupinamba,Nitɨβetei semɨrwera,,,"(Teatro, 146, p. 16)",English,,"# sent_id = 21234372
 # text = Nitɨβetei semɨrwera
 # text_eng = (Teatro, 146, p. 16)
-# text_port = Não ha mutiso restos deles
+# text_por = Não ha mutiso restos deles
 1	Nitɨβetei	tɨb	NOUN	n	Intens=Yes|Polarity=Neg|Rel=NCont	0	root	_	_
 2	semɨrwera	emɨr	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	1	nsubj	_	_
 
@@ -32264,7 +32374,7 @@ Tupinamba-21234372,Tupinamba,Nitɨβetei semɨrwera,,,"(Teatro, 146, p. 16)",Eng
 Tupinamba-21237372,Tupinamba,"Jaʔupa Mosupɨroka , jekei , Watapɨtɨβa , jeterõja , Paraiβa , Wajajo , Karijooka , Pakukaja , Arasatɨβa .",,,"(Teatro, 147, p. 16)",English,,"# sent_id = 21237372
 # text = Jaʔupa Mosupɨroka , jekei , Watapɨtɨβa , jeterõja , Paraiβa , Wajajo , Karijooka , Pakukaja , Arasatɨβa .
 # text_eng = (Teatro, 147, p. 16)
-# text_port = Comemos toda a Moçupiroca, Jequei, Guatapitiba, Niteroi, Paraiba, Guajajo, Carioca, Pacucaia, Araçatiba
+# text_por = Comemos toda a Moçupiroca, Jequei, Guatapitiba, Niteroi, Paraiba, Guajajo, Carioca, Pacucaia, Araçatiba
 1	Jaʔupa	ʔu	VERB	v	Aspect=Compl|Clusivity=In|Number=Plur|Person[subj]=1	0	root	_	_
 2	Mosupɨroka	Mosupɨroka	PROPN	_	_	1	obj	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
@@ -32289,7 +32399,7 @@ Tupinamba-21237372,Tupinamba,"Jaʔupa Mosupɨroka , jekei , Watapɨtɨβa , jete
 Tupinamba-10237372,Tupinamba,"Opa umã tamũja sow , okaja tatape oupa",,,"(Teatro, 152, p. 18)",English,,"# sent_id = 10237372
 # text = Opa umã tamũja sow , okaja tatape oupa
 # text_eng = (Teatro, 152, p. 18)
-# text_port = Ja todos os tamoios foram, estando a queimar no fogo.
+# text_por = Ja todos os tamoios foram, estando a queimar no fogo.
 1	Opa	opa	PRON	pron	_	3	nmod	_	_
 2	umã	umã	ADV	adv	_	4	advmod	_	_
 3	tamũja	amũj	NOUN	n	Case=Ref|Rel=Hum	4	nsubj	_	_
@@ -32303,7 +32413,7 @@ Tupinamba-10237372,Tupinamba,"Opa umã tamũja sow , okaja tatape oupa",,,"(Teat
 Tupinamba-000333444,Tupinamba,"Mokojõ , Tupã rawsupa , ko taβa pupe sekow , ojepɨsɨrõmo okupa .",,,"(Teatro, 154, p. 18)",English,,"# sent_id = 000333444
 # text = Mokojõ , Tupã rawsupa , ko taβa pupe sekow , ojepɨsɨrõmo okupa .
 # text_eng = (Teatro, 154, p. 18)
-# text_port = Poucos, amando a Deus, nesta aldeia moram, estando a salvar-se.
+# text_por = Poucos, amando a Deus, nesta aldeia moram, estando a salvar-se.
 1	Mokojõ	mokojõ	PRON	pron	_	9	nsubj	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	Tupã	Tupã	NOUN	n	_	4	obj	_	_
@@ -32322,7 +32432,7 @@ Tupinamba-000333444,Tupinamba,"Mokojõ , Tupã rawsupa , ko taβa pupe sekow , o
 Tupinamba-8782222231,Tupinamba,Ko Temiminopoʃɨ janereko oweroɨrõ,,,"(Teatro, 157, p. 18)",English,,"# sent_id = 8782222231
 # text = Ko Temiminopoʃɨ janereko oweroɨrõ
 # text_eng = (Teatro, 157, p. 18)
-# text_port = Esses temiminos malvados nossa lei detestam
+# text_por = Esses temiminos malvados nossa lei detestam
 1	Ko	ko	DET	dem	_	2	nmod	_	_
 2-3	Temiminopoʃɨ	_	_	_	_	_	_	_	_
 2	Temimino	Temimino	PROPN	propn	_	5	obl	_	_
@@ -32334,7 +32444,7 @@ Tupinamba-8782222231,Tupinamba,Ko Temiminopoʃɨ janereko oweroɨrõ,,,"(Teatro,
 Tupinamba-8782111131,Tupinamba,"Ejori saʔaŋa , rõ , totupãjeʔeŋaβɨ , tokaʔu , tomonarõ , toporepejan ojkoβo , tojpuru tekopoʃɨ , toso ko taβa swi .",,,"(Teatro, 159, p. 18)",English,,"# sent_id = 8782111131
 # text = Ejori saʔaŋa , rõ , totupãjeʔeŋaβɨ , tokaʔu , tomonarõ , toporepejan ojkoβo , tojpuru tekopoʃɨ , toso ko taβa swi .
 # text_eng = (Teatro, 159, p. 18)
-# text_port = Vem para prova-los, pois, para que transgridam a palavra de Deus, para que bebam cauim, para que roubem, para que estejam atacando gente, para que pratiquem a lei ma, para que vão para fora desta aldeia.
+# text_por = Vem para prova-los, pois, para que transgridam a palavra de Deus, para que bebam cauim, para que roubem, para que estejam atacando gente, para que pratiquem a lei ma, para que vão para fora desta aldeia.
 1	Ejori	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	saʔaŋa	aʔaŋ	VERB	v	Rel=NCont|VerbForm=Ger	1	xcomp	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	punct=
@@ -32364,7 +32474,7 @@ Tupinamba-8782111131,Tupinamba,"Ejori saʔaŋa , rõ , totupãjeʔeŋaβɨ , tok
 Tupinamba-4f111131,Tupinamba,Ejori muru moiŋoβo janejeʔeŋa rupi,,,"(Teatro, 165, p. 18)",English,,"# sent_id = 4f111131
 # text = Ejori muru moiŋoβo janejeʔeŋa rupi
 # text_eng = (Teatro, 165, p. 18)
-# text_port = Vem para colocar os malditos conforme nossas palavras.
+# text_por = Vem para colocar os malditos conforme nossas palavras.
 1	Ejori	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	muru	muru	NOUN	n	_	3	obj	_	_
 3	moiŋoβo	moiŋo	VERB	v	_	1	advcl	_	_
@@ -32375,7 +32485,7 @@ Tupinamba-4f111131,Tupinamba,Ejori muru moiŋoβo janejeʔeŋa rupi,,,"(Teatro, 
 Tupinamba-0708090704030,Tupinamba,"Iaβai ʃeβo saʔaŋa ; serekoara iaβaete , ʃemonɨja .",,,"(Teatro, 167, p. 18)",English,,"# sent_id = 0708090704030
 # text = Iaβai ʃeβo saʔaŋa ; serekoara iaβaete , ʃemonɨja .
 # text_eng = (Teatro, 167, p. 18)
-# text_port = e dificil para mim tenta-los; seu guardião e terrivel, espantando-me.
+# text_por = e dificil para mim tenta-los; seu guardião e terrivel, espantando-me.
 1	Iaβai	aβai	NOUN	n	Rel=NCont	0	root	_	_
 2	ʃeβo	ʃe	PRON	pron	Case=Dat	1	obl	_	_
 3	saʔaŋa	aʔaŋa	NOUN	n	Rel=NCont	1	nsubj	_	_
@@ -32390,7 +32500,7 @@ Tupinamba-0708090704030,Tupinamba,"Iaβai ʃeβo saʔaŋa ; serekoara iaβaete ,
 Tupinamba-5555555572,Tupinamba,Aβapaʔe ?,,,"(Teatro, 169, p. 18)",English,,"# sent_id = 5555555572
 # text = Aβapaʔe ?
 # text_eng = (Teatro, 169, p. 18)
-# text_port = Quem e ele?
+# text_por = Quem e ele?
 1-2	Aβapaʔe	_	_	_	_	_	_	_	_
 1	Aβape	aβape	PRON	pron	PronType=Int	0	root	_	_
 2	aʔe	aʔe	PRON	dem	_	1	nsubj	_	_
@@ -32615,6 +32725,7 @@ Tupinamba-446,Tupinamba,"Iʔaŋa toʔa tawje , omojaŋara reja , rõ obɨʔa jan
 Tupinamba-447,Tupinamba,taso saʔaŋa teje ; eʔi e tipo ʃerapiane,,,"(Teatro, 22)",English,,"# sent_id = 447
 # text = taso saʔaŋa teje ; eʔi e tipo ʃerapiane
 # text_eng = (Teatro, 22)
+# text_por = Hei de ir para tenta-los; tempo vira em que me obedecerão
 1	taso	aso	VERB	vi	Mood=Per|Number=Sing|Person[subj]=1	0	root	_	_
 2	saʔaŋa	aʔa	VERB	_	Rel=NCont|VerbForm=Ger	1	advcl	_	_
 3	teje	teje	PART	prcl	_	1	discourse	_	_
@@ -32628,6 +32739,7 @@ Tupinamba-447,Tupinamba,taso saʔaŋa teje ; eʔi e tipo ʃerapiane,,,"(Teatro, 
 Tupinamba-448,Tupinamba,"Eame , ʃeraje takwane",,,"(Teatro, 22)",English,,"# sent_id = 448
 # text = Eame , ʃeraje takwane
 # text_eng = (Teatro, 22)
+# text_por = Espera, eu hei de ir primeiro.
 1	Eame	ame	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ʃeraje	raje	PART	prcl	Number=Sing|Person=1	4	dislocated	_	_
@@ -32637,6 +32749,7 @@ Tupinamba-448,Tupinamba,"Eame , ʃeraje takwane",,,"(Teatro, 22)",English,,"# se
 Tupinamba-449,Tupinamba,"ʃeporoitɨka jaβe , apɨaβa eresepejãne",,,"(Teatro, 22)",English,,"# sent_id = 449
 # text = ʃeporoitɨka jaβe , apɨaβa eresepejãne
 # text_eng = (Teatro, 22)
+# text_por = Assim como eu derroto as pessoas, os indios atacaras.
 1	ʃeporoitɨka	itɨk	NOUN	n	Case=Ref|Number=Sing|Person[psor]=1	0	root	_	_
 2	jaβe	jaβe	ADV	adv	_	1	advmod	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
@@ -33304,6 +33417,23 @@ Tupinamba-4461,Tupinamba,"Tupã osawsupeʔa , sese ojeroβjaβeβuja",,,"God (Te
 7	βeβuja	βeβuja	ADV	adv	_	6	advmod	_	_
 
 ",UD_Tupinamba-TuDeT
+Tupinamba-4462,Tupinamba,"ɨgasape kawituja , aʔe re iamomota , ojoja waibĩ rekuia",,,"Nas igaçabas o cauim transbordante, alem disso, os atrai, e, igualmente, as cuias das velhas (Teatro, 30)",Portuguese,,"# sent_id = 4462
+# text = ɨgasape kawituja , aʔe re iamomota , ojoja waibĩ rekuia
+# text_por = Nas igaçabas o cauim transbordante, alem disso, os atrai, e, igualmente, as cuias das velhas (Teatro, 30)
+1	ɨgasape	ɨgasab	NOUN	n	Case=Loc|Nomzr=Circ	3	obl	_	_
+2-3	kawituja	_	_	_	_	_	_	_	_
+2	kawi	kawi	NOUN	n	_	3	nmod	_	_
+3	tuja	tuja	NOUN	n	_	7	obl:subj	_	_
+4	,	,	PUNCT	punct	_	7	punct	_	_
+5	aʔe	aʔe	DET	dem	_	7	advmod	_	_
+6	re	re	ADP	posp	_	5	case	_	_
+7	iamomota	momota	VERB	v	Clusivity=In|Number=Plur|Person[subj]=1|Voice=Cau	0	root	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	ojoja	ojoja	ADV	adv	_	7	advmod	_	_
+10	waibĩ	waibĩ	NOUN	n	_	11	nmod	_	_
+11	rekuia	ekuj	NOUN	n	Case=Ref|Rel=Cont	7	conj	_	_
+
+",UD_Tupinamba-TuDeT
 Tupinamba-4463,Tupinamba,Ojmoapɨ aβa kujaβa ; ʔaŋa e semimotara,,,"(Teatro, 32)",English,,"# sent_id = 4463
 # text = Ojmoapɨ aβa kujaβa ; ʔaŋa e semimotara
 # text_eng = (Teatro, 32)
@@ -33560,8 +33690,9 @@ Tupinamba-0044_86,Tupinamba,Ajpo ere supikatu .,,,"(Teatro, 34)",English,,"# sen
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0044_87,Tupinamba,Marãpe nerejemimi ? Ereipotape neʔu ?,,,Por que não te escondes? Queres que ele te coma?,Portuguese,,"# sent_id = 0044.87
+Tupinamba-0044_87,Tupinamba,Marãpe nerejemimi ? Ereipotape neʔu ?,,,"(Teatro, 34)",English,,"# sent_id = 0044.87
 # text = Marãpe nerejemimi ? Ereipotape neʔu ?
+# text_eng = (Teatro, 34)
 # text_por = Por que não te escondes? Queres que ele te coma?
 1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	_	_
 2	nerejemimi	mim	VERB	v	Number=Sing|Person[subj]=2|Polarity=Neg|Reflex=Yes	0	root	_	_
@@ -33911,9 +34042,9 @@ Tupinamba-0044_114,Tupinamba,"Ajẽ , nitekokwaβi , janemomuru meemo .",,,"(Tea
 7	.	.	PUNCT	punct	_	5	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0044_115,Tupinamba,"Ojkoβe jemomeʔu , mosaŋa mweiraβɨjara .",,,"Existe a confissão, remedio portador de cura.",Portuguese,,"# sent_id = 0044.115
+Tupinamba-0044_115,Tupinamba,"Ojkoβe jemomeʔu , mosaŋa mweiraβɨjara .",,,"Existe a confissão, remedio portador de cura. (Teatro, 40)",Portuguese,,"# sent_id = 0044.115
 # text = Ojkoβe jemomeʔu , mosaŋa mweiraβɨjara .
-# text_por = Existe a confissão, remedio portador de cura.
+# text_por = Existe a confissão, remedio portador de cura. (Teatro, 40)
 1	Ojkoβe	ikoβe	VERB	vi	Number=Sing|Person=3	0	root	_	_
 2	jemomeʔu	jemomeʔu	NOUN	n	Reflex=Yes|Voice=Cau	1	nsubj	_	_
 3	,	,	PUNCT	punct	_	4	punct	_	_
@@ -33958,7 +34089,7 @@ Tupinamba-0044_117,Tupinamba,"Oeko moasɨ rire , aβa sow jemomewaβo , ʃekatup
 Tupinamba-0044_118,Tupinamba,"Osoβasab aβare , Tupã mojɨrõŋatuaβo .",,,"(Teatro, 40)",English,,"# sent_id = 0044.118
 # text = Osoβasab aβare , Tupã mojɨrõŋatuaβo .
 # text_eng = (Teatro, 40)
-# tex_por = Benze-os o padre, aplacando bem a Deus.
+# text_por = Benze-os o padre, aplacando bem a Deus.
 1	Osoβasab	Osoβasab	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
 2	aβare	aβare	NOUN	n	_	1	obl:subj	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
@@ -34036,8 +34167,9 @@ Tupinamba-0044_123,Tupinamba,"Iamotareʔɨmeteβo , pereko aiai .",,,"(Teatro, 4
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0044_124,Tupinamba,"Iʃe najejɨj iʃwi , Tupã supe wijerureβo , ipɨtɨβõmo jepi .",,,"Eu não me afasto deles, orando para Deus , ajudando-os sempre.",Portuguese,,"# sent_id = 0044.124
+Tupinamba-0044_124,Tupinamba,"Iʃe najejɨj iʃwi , Tupã supe wijerureβo , ipɨtɨβõmo jepi .",,,"(Teatro, 42)",English,,"# sent_id = 0044.124
 # text = Iʃe najejɨj iʃwi , Tupã supe wijerureβo , ipɨtɨβõmo jepi .
+# text_eng = (Teatro, 42)
 # text_por = Eu não me afasto deles, orando para Deus , ajudando-os sempre.
 1	Iʃe	iʃe	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	obl:subj	_	_
 2	najejɨj	_	VERB	v	Number=Sing|Person[subj]=1|Polarity=Neg|Reflex=Yes	0	root	_	_
@@ -34052,8 +34184,9 @@ Tupinamba-0044_124,Tupinamba,"Iʃe najejɨj iʃwi , Tupã supe wijerureβo , ip�
 11	.	.	PUNCT	punct	_	9	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0044_125,Tupinamba,"ʃerese ojeroβja ; ojmojaŋ ko tupãoka tekopwera rekoaβoka , oarõanamo ʃera , ʃeresekatu ojekoka .",,,"Em mim confiam; fizeram esta igreja, modificando a vida antiga, tomando-me como seu guardião, bem em mim apoiando-se.",Portuguese,,"# sent_id = 0044.125
+Tupinamba-0044_125,Tupinamba,"ʃerese ojeroβja ; ojmojaŋ ko tupãoka tekopwera rekoaβoka , oarõanamo ʃera , ʃeresekatu ojekoka .",,,"(Teatro, 42)",English,,"# sent_id = 0044.125
 # text = ʃerese ojeroβja ; ojmojaŋ ko tupãoka tekopwera rekoaβoka , oarõanamo ʃera , ʃeresekatu ojekoka .
+# text_eng = (Teatro, 42)
 # text_por = Em mim confiam; fizeram esta igreja, modificando a vida antiga, tomando-me como seu guardião, bem em mim apoiando-se.
 1	ʃerese	ese	ADP	posp	Number=Sing|Person=1|Rel=Cont	2	obl	_	_
 2	ojeroβja	jeroβjar	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
@@ -34326,7 +34459,7 @@ Tupinamba-0044_148,Tupinamba,"Ejori , maʔenem , maʔepoʃɨ , mora , miaratakak
 Tupinamba-0044_149,Tupinamba,"ʃepweraj , ʃeropesɨi . Awje ! Teume ʃemomaka !",,,"(Teatro, 46)",English,,"# sent_id = 0044.149
 # text = ʃepweraj , ʃeropesɨi . Awje ! Teume ʃemomaka !
 # text_eng = (Teatro, 46)
-# text:por = Eu estou cansado, eu estou com sono. Basta! Não me despertes!
+# text_por = Eu estou cansado, eu estou com sono. Basta! Não me despertes!
 1	ʃepweraj	pwerai	NOUN	n	Number=Sing|Person=1	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ʃeropesɨi	ropesɨi	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	conj	_	_
@@ -34341,7 +34474,7 @@ Tupinamba-0044_149,Tupinamba,"ʃepweraj , ʃeropesɨi . Awje ! Teume ʃemomaka !
 Tupinamba-0044_150,Tupinamba,Aβape ne ?,,,"Who are you? (Teatro, 46)",English,,"# sent_id = 0044.150
 # text = Aβape ne ?
 # text_eng = Who are you? (Teatro, 46)
-# text_pof = Quem e você?
+# text_por = Quem e você?
 1	Aβape	aβa	PRON	pron	Int=Yes|PronType=Int	0	root	_	_
 2	ne	ne	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	?	?	PUNCT	punct	_	1	punct	_	_
@@ -34420,8 +34553,9 @@ Tupinamba-0044_155,Tupinamba,Akai ! Teumẽ ʃerapɨaβo !,,,"(Teatro, 46)",Engl
 5	!	!	PUNCT	punct	_	4	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0044_156,Tupinamba,"tameʔẽne pira ruβa eneβo , wijepɨmeʔeŋa .",,,"Hei de dar ovas de peixe para ti, retribuindo",Portuguese,,"# sent_id = 0044.156
+Tupinamba-0044_156,Tupinamba,"tameʔẽne pira ruβa eneβo , wijepɨmeʔeŋa .",,,"(Teatro, 46)",English,,"# sent_id = 0044.156
 # text = tameʔẽne pira ruβa eneβo , wijepɨmeʔeŋa .
+# text_eng = (Teatro, 46)
 # text_por = Hei de dar ovas de peixe para ti, retribuindo
 1	tameʔẽne	meʔeŋ	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Tense=Fut|Voice=Com	0	root	_	_
 2	pira	pira	NOUN	n	_	3	nmod	_	_
@@ -34432,8 +34566,9 @@ Tupinamba-0044_156,Tupinamba,"tameʔẽne pira ruβa eneβo , wijepɨmeʔeŋa ."
 7	.	.	PUNCT	punct	_	1	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0044_157,Tupinamba,Ereiuseipe uʔipuβa ? Ereipotape itajuβa ?,,,Queres comer farinha puba? Queres ouro ?,Portuguese,,"# sent_id = 0044.157
+Tupinamba-0044_157,Tupinamba,Ereiuseipe uʔipuβa ? Ereipotape itajuβa ?,,,"Do you want to eat manioc-flour? Do you want gold?(Teatro, 46)",English,,"# sent_id = 0044.157
 # text = Ereiuseipe uʔipuβa ? Ereipotape itajuβa ?
+# text_eng = Do you want to eat manioc-flour? Do you want gold?(Teatro, 46)
 # text_por = Queres comer farinha puba? Queres ouro ?
 1	Ereiuseipe	usei	VERB	v	Int=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	uʔipuβa	uʔipuβ	NOUN	n	Case=Ref	1	xcomp	_	_
@@ -34492,8 +34627,9 @@ Tupinamba-0044_161,Tupinamba,Ererureta serã ?,,,"(Teatro, 46)",English,,"# sent
 3	?	?	PUNCT	punct	_	1	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0044_162,Tupinamba,"Aani , mosapɨ jõ .",,,Não so três!,Portuguese,,"# sent_id = 0044.162
+Tupinamba-0044_162,Tupinamba,"Aani , mosapɨ jõ .",,,"(Teatro, 48)",English,,"# sent_id = 0044.162
 # text = Aani , mosapɨ jõ .
+# text_eng = (Teatro, 48)
 # text_por = Não so três!
 1	Aani	aani	ADV	adv	Polarity=Neg	3	advmod	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
@@ -34503,8 +34639,8 @@ Tupinamba-0044_162,Tupinamba,"Aani , mosapɨ jõ .",,,Não so três!,Portuguese,
 
 ",UD_Tupinamba-TuDeT
 Tupinamba-0044_163,Tupinamba,"Karaiβokɨpe witekoβo , ʃepope jõte araso .",,,"(Teatro, 48)",English,,"# sent_id = 0044.163
-# text_eng = (Teatro, 48)
 # text = Karaiβokɨpe witekoβo , ʃepope jõte araso .
+# text_eng = (Teatro, 48)
 # text_por = Estando eu em casa de cristãos, nas minhas mãos, somente, levei-as .
 1-2	Karaiβokɨpe	_	_	_	_	_	_	_	_
 1	Karaiβ	karaiβ	NOUN	n	_	2	nmod	_	_
@@ -35350,8 +35486,9 @@ Tupinamba-0099_06,Tupinamba,"Neporãŋatu rawsupa , tekoaʔiβa oromomo . nerese
 21	.	.	PUNCT	punct	_	10	punct	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0099_07,Tupinamba,"Morawsuβerekosara , oroʔe paβẽ eneβo .",,,"Compadecedora, dizemos todos a ti.",Portuguese,,"# sent_id = 0099.07
+Tupinamba-0099_07,Tupinamba,"Morawsuβerekosara , oroʔe paβẽ eneβo .",,,"(Poemas, 84)",English,,"# sent_id = 0099.07
 # text = Morawsuβerekosara , oroʔe paβẽ eneβo .
+# text_eng = (Poemas, 84)
 # text_por = Compadecedora, dizemos todos a ti.
 1	Morawsuβerekosara	Morawsuβerekosar	NOUN	n	Case=Ref	3	vocative	_	_
 2	,	,	PUNCT	punct	_	3	punct	_	_
@@ -35732,6 +35869,7 @@ Tupinamba-0055_15,Tupinamba,"Marãnamo christãoramo sekoreme , nikatui , Paʔi 
 Tupinamba-0055_16,Tupinamba,"Ikó βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβiʃaβa jeʔeŋa rupi βe .",,,"Camarões letter 1,16",English,,"# sent_id = 0055.16
 # text = Ikó βe orojko renosema mota , sñor capitãoMor Antonio Felipe Camarão jeʔeŋa rupi , opaβejẽ karaiβa ruβiʃaβa jeʔeŋa rupi βe .
 # text_eng = Camarões letter 1,16
+# text_por = Eis que aqui estamos, querendo vossa retirada, conforme as palavras do senhor capitão-mor Antonio Felipe Camarão, e tambem conforme as palavras do chefe de todos os brancos
 1	Ikó	ko	DET	dem	_	3	nsubj	_	_
 2	βe	βe	ADV	adv	_	3	advmod	_	_
 3	orojko	jko	VERB	v	Clusivity=Ex|Number=Plur|Person=1	0	root	_	_
@@ -35971,16 +36109,18 @@ Tupinamba-0033_22,Tupinamba,Ne jõ umẽ ejuka,,,"(AA, 35)",English,,"# sent_id 
 4	ejuka	juka	VERB	v	Mood=Imp|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-00_3325,Tupinamba,Kori temone asomo,,,Hoje eu deveria ir.,Portuguese,,"# sent_id = 00.3325
+Tupinamba-00_3325,Tupinamba,Kori temone asomo,,,"(Anchieta Arte, 25)",English,,"# sent_id = 00.3325
 # text = Kori temone asomo
+# text_eng = (Anchieta Arte, 25)
 # text_por = Hoje eu deveria ir.
 1	Kori	_	ADV	adv	AdvType=Temp	3	advmod	_	_
 2	temone	_	PART	prcl	_	3	discourse	_	_
 3	asomo	so	VERB	v	Mood=Sub|Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-00_33252,Tupinamba,Aso temonemo,,,Deveria ir.,Portuguese,,"# sent_id = 00.33252
+Tupinamba-00_33252,Tupinamba,Aso temonemo,,,"(Anchieta Arte, 25)",English,,"# sent_id = 00.33252
 # text = Aso temonemo
+# text_eng = (Anchieta Arte, 25)
 # text_por = Deveria ir.
 1	Aso	so	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	temonemo	temonemo	PART	prcl	Mood=Cnd	1	discourse	_	_
@@ -35995,8 +36135,9 @@ Tupinamba-0033_35,Tupinamba,Najpotareʔɨmaʔuβ,,,"(AA, 35)",English,,"# sent_i
 2	aʔuβ	aʔuβ	VERB	v	_	0	root	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-0033_39,Tupinamba,Kori ijukaw,,,Hoje o matou,Portuguese,,"# sent_id = 0033.39
+Tupinamba-0033_39,Tupinamba,Kori ijukaw,,,"(Anchieta Arte, 39v)",English,,"# sent_id = 0033.39
 # text = Kori ijukaw
+# text_eng = (Anchieta Arte, 39v)
 # text_por = Hoje o matou
 1	Kori	kori	ADV	adv	AdvType=Temp	2	advmod	_	_
 2	ijukaw	juka	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
@@ -36083,8 +36224,9 @@ Tupinamba-0033_445,Tupinamba,Asawsuβ  Pedro taʔɨra reseβe,,,"(AA, 44v)",Engl
 5	βe	βe	ADV	adv	_	4	advmod	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-00_33_446,Tupinamba,Ejotĩ nekesaβa ʃeporupi,,,Amarra tua rede ao lado de mim.,Portuguese,,"# sent_id = 00.33.446
+Tupinamba-00_33_446,Tupinamba,Ejotĩ nekesaβa ʃeporupi,,,"(Anchieta Arte, 44)",English,,"# sent_id = 00.33.446
 # text = Ejotĩ nekesaβa ʃeporupi
+# text_eng = (Anchieta Arte, 44)
 # text_por = Amarra tua rede ao lado de mim.
 1	Ejotĩ	_	VERB	v	Mood=Imp|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 2	nekesaβa	kesaβ	NOUN	n	Case=Ref|Number[psor]=Sing|Person[psor]=2	1	obj	_	_
@@ -36138,22 +36280,25 @@ Tupinamba-0033_561,Tupinamba,Eneʔĩ esoβo,,,"(AA, 56v)",English,,"# sent_id = 
 2	esoβo	so	VERB	vi	Person=2|VerbForm=Ger	0	root	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-00_33562,Tupinamba,Teʔiɲẽ toso,,,Deixa que va,Portuguese,,"# sent_id = 00.33562
+Tupinamba-00_33562,Tupinamba,Teʔiɲẽ toso,,,"(Anchieta Arte, 56v)",English,,"# sent_id = 00.33562
 # text = Teʔiɲẽ toso
+# text_eng = (Anchieta Arte, 56v)
 # text_por = Deixa que va
 1	Teʔiɲẽ	teʔiɲẽ	PART	prcl	_	2	discourse	_	_
 2	toso	so	VERB	v	Mood=Per|Person[subj]=3	0	root	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-00_33571,Tupinamba,Teraʔumo ou,,,Vamos ver se vem!,Portuguese,,"# sent_id = 00.33571
+Tupinamba-00_33571,Tupinamba,Teraʔumo ou,,,"(Anchieta Arte, 57)",English,,"# sent_id = 00.33571
 # text = Teraʔumo ou
+# text_eng = (Anchieta Arte, 57)
 # text_por = Vamos ver se vem!
 1	Teraʔumo	teraʔumo	PART	prcl	_	2	discourse	_	_
 2	ou	ur	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
 
 ",UD_Tupinamba-TuDeT
-Tupinamba-00_33572,Tupinamba,Temone aʔereme osɨkamo,,,Oxala então tchegasse,Portuguese,,"# sent_id = 00.33572
+Tupinamba-00_33572,Tupinamba,Temone aʔereme osɨkamo,,,"(Anchieta Arte, 57)",English,,"# sent_id = 00.33572
 # text = Temone aʔereme osɨkamo
+# text_eng = (Anchieta Arte, 57)
 # text_por = Oxala então tchegasse
 1	Temone	temone	PART	prcl	Mood=Opt	3	discourse	_	_
 2	aʔereme	aʔereme	ADV	adv	AdvType=Temp	3	advmod	_	_
